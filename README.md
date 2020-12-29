@@ -11,7 +11,7 @@ Other repositories needed to run this project:
 
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
-This project is partially completed! Once completed it will benefit! 
+This project is partially done! Once completed it will benefit! 
 
 What is this project? It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! Each document items in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! This application gathers data like human! Humans in brain they used to categorise informations they perceive and while writing a document or expressing things they use the categorised information in mind (document items)!
 
