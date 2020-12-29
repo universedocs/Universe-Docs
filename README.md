@@ -3,13 +3,13 @@ Universe Docs
 
 Required developers please contact me kumar.muthaiah@yahoo.com
 Development policies:
-Really human friendly
-Not profit only oriented
-Don't obey few to spoil whole humanity
-Need to benefit all humanity and not few
-Need to be done slow and not fast
-Workers need to take care of their health and their relationship
-Delaying things for doing better is ok, but not doing anything and staying still is a problem!
+1. Really human friendly
+2. Not profit only oriented
+3. Don't obey few to spoil whole humanity
+4. Need to benefit all humanity and not few
+5. Need to be done slow and not fast
+6. Workers need to take care of their health and their relationship
+7. Delaying things for doing better is ok, but not doing anything and staying still is a problem!
 
 
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
@@ -28,32 +28,28 @@ Universe docs brain is a web service that generates the view for the document, b
 
 Looks like a disadvantage but not like that:
 
-Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can make the search faster using search alogrithms!
-We need to devote time to cateogrise document items of each document, but the time we spend for it benefits us later! Since the document is categorised it is easy to understand! It is used to get graph details of each document item from document!
+1. Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can make the search faster using search alogrithms!
+2. We need to devote time to cateogrise document items of each document, but the time we spend for it benefits us later! Since the document is categorised it is easy to understand! It is used to get graph details of each document item from document!
+
 How it compares to Google docs, Apple pages, microsoft word?
 
-Each item (text, photo,etc.,) in the document are categorised and easy to parse, validate, filter, remote access/modify! For example by robot which is learning a recipe and modifies the document!
-Each item (text, photo,etc.,) in the document are categorised while document is created / pre categorised, and no need extra processing by natural language processing!
-The document follows a model. Graph is used for now. Later it can include any other model!
-For deleting/copying a line/word/sentence/node just invoke a command no need to highlight and do it!
-Avoids duplicates.
-Provides service to manipulate documents from remote. For example a robot can manipulate document from distance or through wireless communcation!
-Easy to find detials of each document items like description, further details, translations, meaning, hierarchy, etc., from the document itself! That details can be filtered based on specific document type!
-Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
-The document items can be used as a thing for changing the text in document to other one easily
-Why Google, Apple, Amazon, etc., companies not doing those above features?
+1. Each item (text, photo,etc.,) in the document are categorised and easy to parse, validate, filter, remote access/modify! For example by robot which is learning a recipe and modifies the document!
+2. Each item (text, photo,etc.,) in the document are categorised while document is created / pre categorised, and no need extra processing by natural language processing!
+3. The document follows a model. Graph is used for now. Later it can include any other model!
+4. For deleting/copying a line/word/sentence/node just invoke a command no need to highlight and do it!
+5. Avoids duplicates.
+6. Provides service to manipulate documents from remote. For example a robot can manipulate document from distance or through wireless communcation!
+7. Easy to find detials of each document items like description, further details, translations, meaning, hierarchy, etc., from the document itself! That details can be filtered based on specific document type!
+8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
+9. The document items can be used as a thing for changing the text in document to other one easily
 
-They not working for humanity but for their profit, which goes to some secret groups
-The secret groups of people want to enjoy themselves the earth resources not others So they delay things intentionly that really benefit humans! The delay humanity progress! If companies work for all of humanity then we should not be having any suffering, violence, slavery, etc.,
-Apple is a very smart company acts outside as if they are taking care of humanity, but inside without we knowing doing some bad things! For example consider they are not providing needed features to keep people in their ecosystem! For example the Notes and photos App in mac doesn't allow users to export easily! I irritated i lost some photos and notes! I no longer use those applications! They also moving everything to iCloud so that authoroties can access if they feel! If one doesn't uses iCloud then less features!
-Some case companies are doing things fast and misses the actual meaning of human friendliness
 What are the document types it can have?
 
-Training document (can be any training document! For each training document there is a separate document type)
-Food recipe document
-Shopping list document (along with the food recipe handles food recipes)
-Task document (used in software development)
-ingredient document (contians all the ingredeints for a food recipe)
+1. Training document (can be any training document! For each training document there is a separate document type)
+2. Food recipe document
+3. Shopping list document (along with the food recipe handles food recipes)
+4. Task document (used in software development)
+5. ingredient document (contians all the ingredeints for a food recipe)
 vector drawing document with event handling (Can be used for teaching. Can be used as board in school. Can be embedded in a interactive training document for home school. Document items can be searched and added into this document while teaching. Can use pencil to draw lines, rectangle and other shapes to explain things!)
 shopping list, shoping item detail, checkout and payment gateway documents (use to shop anything)
 personal page document (celebraties personal page, accessed through app link)
