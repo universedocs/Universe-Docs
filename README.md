@@ -14,12 +14,6 @@ Development policies:
 
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
-NOTE: below is not a detailed description. possibility is you cannot understand some! I don't have time if have time will put clear description! I've resigned my job and spent some 4 lakhs money to make this project! I've done this 2 years 2 months without any salary! I don't have any money to survive now and develope further! Money is an illusion and cannot stay for long, only love is important! When money vanishes one can easily do projects like this! This project is partially done. If fully developed then it will be really useful to all humanity! So just by seeing it don't judge! I don't have money and hence I'm not able to prove the softwares usefullness! I will not continue this project since the current system of world is not good! Only when money vanishes, this type of work can be done by all regardless of one haveing money or not! Currently only those who have lots of money can do this project!
-
-I'm not getting money from VC's since they expect 10x profit which is bad for business and the software! Doing in bootstrap mode requires lots of wealth! Hope people change things and revolt to remove money soon!
-
-Hope you do good things using this project! All the best! I'm leaving software development field!
-
 What is this project? It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! Each document items in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! This application gathers data like human! Humans in brain they used to categorise informations they perceive and while writing a document or expressing things they use the categorised information in mind (document items)!
 
 A Document item can be a text, photo, video, animation, button, link, upload document, download document or share button!If you tap or click a document item in document then other items of the same category shows and you can change it! If you click a photo other photos of same category shows up!
