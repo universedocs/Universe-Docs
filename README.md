@@ -2,6 +2,7 @@
 Universe Docs
 
 Required developers please contact me kumar.muthaiah@yahoo.com
+
 Development policies:
 1. Really human friendly
 2. Not profit only oriented
@@ -10,7 +11,6 @@ Development policies:
 5. Need to be done slow and not fast
 6. Workers need to take care of their health and their relationship
 7. Delaying things for doing better is ok, but not doing anything and staying still is a problem!
-
 
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
