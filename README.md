@@ -6,8 +6,8 @@ Database files are missing! Anybody who copied my previous source code you shoul
 Required developers please contact me kumar.muthaiah@yahoo.com
 
 Other repositories needed to run this project:
-1. Universe Docs Brain
-2. Universe Docs Web
+1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
+2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
 
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
