@@ -1,0 +1,14 @@
+os: osx
+osx_image: xcode10
+language: objective-c
+install:
+  - eval "$(curl -sL https://swiftenv.fuller.li/install.sh)"
+before_script:
+  - pod lib lint --allow-warnings
+  - swiftlint --strict
+env:
+  global:
+    - DESTINATION="platform=iOS Simulator,name=iPhone 8"
+    - FRAMEWORK_NAME=PDFGenerator
+script:
+- xcodebuild test -project PDFGenerator.xcodeproj -scheme PDFGenerator -destination "${DESTINATION}"

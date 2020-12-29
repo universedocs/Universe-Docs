@@ -1,0 +1,189 @@
+{
+  "uvcViewModel" : [
+    {
+      "_id" : "",
+      "textLength" : 4,
+      "language" : "",
+      "uvcViewItemCollection" : {
+        "_id" : "",
+        "uvcOnOff" : [
+
+        ],
+        "uvcText" : [
+          {
+            "uvcEditType" : "UVCEditType.None",
+            "editObjectIdName" : "",
+            "uvcTextStyle" : {
+              "_id" : "",
+              "isSlanting" : false,
+              "udcHumanLanguageIdName" : "UDCHumanLanguage.English",
+              "udcTextScriptIdName" : [
+
+              ],
+              "intensity" : 51,
+              "textColor" : "UVCColor.Gray",
+              "backgroundColor" : "UVCColor.White"
+            },
+            "_id" : "",
+            "uvcTextTemplateType" : "UVCTextTemplateType.None",
+            "path" : [
+
+            ],
+            "editObjectName" : "",
+            "name" : "Name-B9209000-BEDD-4DD1-A430-0E3871A05C8A",
+            "childrenId" : [
+
+            ],
+            "isMultiline" : false,
+            "parentId" : [
+              "5d397d0484fd3837ab18a8c0"
+            ],
+            "wordIndex" : 0,
+            "helpText" : "",
+            "sentenceIndex" : 0,
+            "value" : " 17.",
+            "uvcMeasurement" : [
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.XAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.YAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 200,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Width"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 31,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Height"
+              }
+            ],
+            "isChanged" : false,
+            "isEditable" : false,
+            "uvcTextSize" : {
+              "_id" : "",
+              "value" : 20,
+              "uvcTextSizeType" : "UVCTextSizeType.Regular"
+            },
+            "modelValuePath" : "",
+            "memoryObject" : "",
+            "description" : ""
+          }
+        ],
+        "uvcPhoto" : [
+
+        ],
+        "uvcProgressIndicator" : [
+
+        ],
+        "uvcChoice" : [
+
+        ],
+        "uvcButton" : [
+
+        ],
+        "uvcTable" : [
+          {
+            "parentId" : [
+
+            ],
+            "_id" : "",
+            "path" : [
+
+            ],
+            "uvcAlignment" : [
+
+            ],
+            "childrenId" : [
+
+            ],
+            "description" : "",
+            "uvcMargin" : [
+
+            ],
+            "name" : "Name-B9209000-BEDD-4DD1-A430-0E3871A05C8ATable",
+            "uvcTableRow" : [
+              {
+                "_id" : "",
+                "uvcTableColumn" : [
+                  {
+                    "_id" : "",
+                    "uvcDirectionType" : "UVCFillType.Horiontal",
+                    "name" : "",
+                    "uvcViewItem" : [
+                      {
+                        "_id" : "",
+                        "uvcAlignment" : {
+                          "uvcPositionType" : "UVCPositionType.None",
+                          "uvcMeasurementType" : "UVCTextTemplateType.None"
+                        },
+                        "name" : "Name-B9209000-BEDD-4DD1-A430-0E3871A05C8A",
+                        "type" : "UVCViewItemType.Text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "description" : "",
+      "uvcViewItem" : [
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "Name-B9209000-BEDD-4DD1-A430-0E3871A05C8ATable",
+          "type" : "UVCViewItemType.Table"
+        },
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "Name-B9209000-BEDD-4DD1-A430-0E3871A05C8ATexts",
+          "type" : "UVCViewItemType.Text"
+        }
+      ],
+      "name" : "",
+      "rowLength" : 1
+    }
+  ],
+  "isEditableMode" : false,
+  "isChildrenAllowed" : false,
+  "_id" : "5d397d2084fd3837ab18a907",
+  "objectName" : "",
+  "path" : [
+    [
+      "பெயரிடப்படாதது-4E7CDFA1-B71B-4AF8-A209-13C853758356",
+      "அடிப்படை விவரம்",
+      "ஆவண உருப்படிகளை தேடு"
+    ]
+  ],
+  "level" : 0,
+  "children" : [
+
+  ],
+  "language" : "",
+  "childrenId" : [
+
+  ],
+  "model" : "",
+  "parentId" : [
+    "5d397d0484fd3837ab18a8c0"
+  ]
+}

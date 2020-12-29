@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SwiftyJSON-master/SwiftyJSON.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PDFGenerator-master/PDFGenerator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsBrain/UDocsBrain.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsTaskNeuron/UDocsTaskNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsFoodRecipeNeuron/UDocsFoodRecipeNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentGraphNeuron/UDocsDocumentGraphNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentItemConfigurationNeuron/UDocsDocumentItemConfigurationNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentItemNeuron/UDocsDocumentItemNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentMapNeuron/UDocsDocumentMapNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsOptionMapNeuron/UDocsOptionMapNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsGrammarNeuron/UDocsGrammarNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsPhotoNeuron/UDocsPhotoNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsSecurityNeuron/UDocsSecurityNeuron.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsTaskNeuronModel/UDocsTaskNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentItemConfigurationNeuronModel/UDocsDocumentItemConfigurationNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsFoodRecipeNeuronModel/UDocsFoodRecipeNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentItemNeuronModel/UDocsDocumentItemNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentMapNeuronModel/UDocsDocumentMapNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsOptionMapNeuronModel/UDocsOptionMapNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDatabaseModel/UDocsDatabaseModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentGraphNeuronModel/UDocsDocumentGraphNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsGrammarNeuronModel/UDocsGrammarNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsPhotoNeuronModel/UDocsPhotoNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsProfileModel/UDocsProfileModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsSecurityNeuronModel/UDocsSecurityNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsNeuronModel/UDocsNeuronModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsViewModel/UDocsViewModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsNeuronUtility/UDocsNeuronUtility.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentModel/UDocsDocumentModel.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDocumentUtility/UDocsDocumentUtility.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsValidationUtility/UDocsValidationUtility.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsDatabaseUtility/UDocsDatabaseUtility.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsViewUtility/UDocsViewUtility.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsRealmDatabaseUtility/UDocsRealmDatabaseUtility.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UDocsUtility/UDocsUtility.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Alamofire-master/Alamofire.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../Toucan-develop/Toucan.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:Universe Docs.xcodeproj">
+   </FileRef>
+</Workspace>

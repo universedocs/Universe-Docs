@@ -1,0 +1,382 @@
+{
+  "uvcViewModel" : [
+    {
+      "_id" : "",
+      "groupName" : "",
+      "uvcViewItemType" : "UVCViewItemType.Text",
+      "textLength" : 3,
+      "language" : "",
+      "uvcViewItemCollection" : {
+        "_id" : "",
+        "uvcOnOff" : [
+
+        ],
+        "uvcText" : [
+          {
+            "uvcTextStyle" : {
+              "_id" : "",
+              "isSlanting" : false,
+              "udcHumanLanguageIdName" : "UDCHumanLanguage.English",
+              "udcTextScriptIdName" : [
+
+              ],
+              "intensity" : 51,
+              "textColor" : "UVCColor.Gray",
+              "backgroundColor" : "UVCColor.White"
+            },
+            "optionObjectIdName" : "",
+            "_id" : "",
+            "isOptionAvailable" : false,
+            "uvcTextTemplateType" : "UVCTextTemplateType.None",
+            "optionObjectCategoryIdName" : "",
+            "path" : [
+
+            ],
+            "name" : "Name-E095D7C2-6999-4088-884B-ADC86801A41A",
+            "childrenId" : [
+
+            ],
+            "isMultiline" : false,
+            "parentId" : [
+              "5d4812d3e64c92485f6d45e5"
+            ],
+            "wordIndex" : 0,
+            "helpText" : "",
+            "sentenceIndex" : 0,
+            "value" : " 6.",
+            "isEditable" : false,
+            "isChanged" : false,
+            "uvcMeasurement" : [
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.XAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.YAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 200,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Width"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 31,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Height"
+              }
+            ],
+            "uvcViewItemType" : "UVCViewItemType.Text",
+            "uvcTextSize" : {
+              "_id" : "",
+              "value" : 20,
+              "uvcTextSizeType" : "UVCTextSizeType.Regular"
+            },
+            "optionObjectName" : "",
+            "modelValuePath" : "",
+            "memoryObject" : "",
+            "description" : ""
+          }
+        ],
+        "uvcPhoto" : [
+
+        ],
+        "uvcProgressIndicator" : [
+
+        ],
+        "uvcChoice" : [
+
+        ],
+        "uvcButton" : [
+
+        ],
+        "uvcTable" : [
+          {
+            "parentId" : [
+
+            ],
+            "_id" : "",
+            "path" : [
+
+            ],
+            "uvcAlignment" : [
+
+            ],
+            "childrenId" : [
+
+            ],
+            "description" : "",
+            "uvcMargin" : [
+
+            ],
+            "name" : "Name-E095D7C2-6999-4088-884B-ADC86801A41ATable",
+            "uvcTableRow" : [
+              {
+                "_id" : "",
+                "uvcTableColumn" : [
+                  {
+                    "_id" : "",
+                    "uvcDirectionType" : "UVCFillType.Horiontal",
+                    "name" : "",
+                    "uvcViewItem" : [
+                      {
+                        "_id" : "",
+                        "uvcAlignment" : {
+                          "uvcPositionType" : "UVCPositionType.None",
+                          "uvcMeasurementType" : "UVCTextTemplateType.None"
+                        },
+                        "name" : "Name-E095D7C2-6999-4088-884B-ADC86801A41A",
+                        "type" : "UVCViewItemType.Text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "description" : "",
+      "uvcViewItem" : [
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "Name-E095D7C2-6999-4088-884B-ADC86801A41ATable",
+          "type" : "UVCViewItemType.Table"
+        },
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "Name-E095D7C2-6999-4088-884B-ADC86801A41ATexts",
+          "type" : "UVCViewItemType.Text"
+        }
+      ],
+      "name" : "",
+      "rowLength" : 1
+    },
+    {
+      "_id" : "",
+      "groupName" : "",
+      "uvcViewItemType" : "UVCViewItemType.Text",
+      "textLength" : 11,
+      "language" : "ta",
+      "uvcViewItemCollection" : {
+        "_id" : "",
+        "uvcOnOff" : [
+
+        ],
+        "uvcText" : [
+          {
+            "uvcTextStyle" : {
+              "_id" : "",
+              "isSlanting" : false,
+              "udcHumanLanguageIdName" : "UDCHumanLanguage.English",
+              "udcTextScriptIdName" : [
+
+              ],
+              "intensity" : 51,
+              "textColor" : "UVCColor.Black",
+              "backgroundColor" : "UVCColor.White"
+            },
+            "optionObjectIdName" : "5cd12f3e45ac0c09ea189c3f",
+            "_id" : "5d4812d3e64c92485f6d45ed",
+            "isOptionAvailable" : false,
+            "uvcTextTemplateType" : "UVCTextTemplateType.None",
+            "optionObjectCategoryIdName" : "",
+            "path" : [
+
+            ],
+            "name" : "Name",
+            "childrenId" : [
+
+            ],
+            "isMultiline" : false,
+            "parentId" : [
+              "5d4812d3e64c92485f6d45e5"
+            ],
+            "wordIndex" : 0,
+            "helpText" : "",
+            "sentenceIndex" : 0,
+            "value" : "இதோடு ஒத்துப்போகும்",
+            "isEditable" : false,
+            "isChanged" : false,
+            "uvcMeasurement" : [
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.XAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.YAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 200,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Width"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 31,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Height"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.XAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.YAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 100,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Width"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 31,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Height"
+              }
+            ],
+            "uvcViewItemType" : "UVCViewItemType.Text",
+            "uvcTextSize" : {
+              "_id" : "",
+              "value" : 20,
+              "uvcTextSizeType" : "UVCTextSizeType.Regular"
+            },
+            "optionObjectName" : "UDCFoodRecipeCategory",
+            "modelValuePath" : "",
+            "memoryObject" : "",
+            "description" : ""
+          }
+        ],
+        "uvcPhoto" : [
+
+        ],
+        "uvcProgressIndicator" : [
+
+        ],
+        "uvcChoice" : [
+
+        ],
+        "uvcButton" : [
+
+        ],
+        "uvcTable" : [
+          {
+            "parentId" : [
+
+            ],
+            "_id" : "",
+            "path" : [
+
+            ],
+            "uvcAlignment" : [
+
+            ],
+            "childrenId" : [
+
+            ],
+            "description" : "",
+            "uvcMargin" : [
+
+            ],
+            "name" : "RecipeItemCategoryTable",
+            "uvcTableRow" : [
+              {
+                "_id" : "",
+                "uvcTableColumn" : [
+                  {
+                    "_id" : "",
+                    "uvcDirectionType" : "UVCFillType.Horiontal",
+                    "name" : "",
+                    "uvcViewItem" : [
+                      {
+                        "_id" : "",
+                        "uvcAlignment" : {
+                          "uvcPositionType" : "UVCPositionType.Left",
+                          "uvcMeasurementType" : "UVCTextTemplateType.None"
+                        },
+                        "name" : "Name",
+                        "type" : "UVCViewItemType.Text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "description" : "",
+      "uvcViewItem" : [
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "RecipeItemCategoryTable",
+          "type" : "UVCViewItemType.Table"
+        },
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "RecipeItemCategoryTexts",
+          "type" : "UVCViewItemType.Text"
+        }
+      ],
+      "name" : "",
+      "rowLength" : 1
+    }
+  ],
+  "isEditableMode" : false,
+  "isChildrenAllowed" : true,
+  "_id" : "5d4812d3e64c92485f6d45ed",
+  "objectName" : "",
+  "path" : [
+    [
+      "பெயரிடப்படாதது-296AE2AC-D04B-4390-B43D-3A90EFBF7FB5",
+      "இதோடு ஒத்துப்போகும்"
+    ]
+  ],
+  "level" : 1,
+  "children" : [
+
+  ],
+  "language" : "ta",
+  "childrenId" : [
+
+  ],
+  "model" : "",
+  "parentId" : [
+    "5d4812d3e64c92485f6d45e5"
+  ]
+}

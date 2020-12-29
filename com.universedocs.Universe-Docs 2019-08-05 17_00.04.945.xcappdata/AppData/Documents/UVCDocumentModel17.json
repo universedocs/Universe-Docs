@@ -1,0 +1,374 @@
+{
+  "uvcViewModel" : [
+    {
+      "_id" : "",
+      "textLength" : 3,
+      "language" : "",
+      "uvcViewItemCollection" : {
+        "_id" : "",
+        "uvcOnOff" : [
+
+        ],
+        "uvcText" : [
+          {
+            "uvcEditType" : "UVCEditType.None",
+            "editObjectIdName" : "",
+            "uvcTextStyle" : {
+              "_id" : "",
+              "isSlanting" : false,
+              "udcHumanLanguageIdName" : "UDCHumanLanguage.English",
+              "udcTextScriptIdName" : [
+
+              ],
+              "intensity" : 51,
+              "textColor" : "UVCColor.Gray",
+              "backgroundColor" : "UVCColor.White"
+            },
+            "_id" : "",
+            "uvcTextTemplateType" : "UVCTextTemplateType.None",
+            "path" : [
+
+            ],
+            "editObjectName" : "",
+            "name" : "Name-885D95E6-A64C-441C-B769-2E697DC9AD8D",
+            "childrenId" : [
+
+            ],
+            "isMultiline" : false,
+            "parentId" : [
+              "5d397d0484fd3837ab18a8bf"
+            ],
+            "wordIndex" : 0,
+            "helpText" : "",
+            "sentenceIndex" : 0,
+            "value" : " 18.",
+            "uvcMeasurement" : [
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.XAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.YAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 200,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Width"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 31,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Height"
+              }
+            ],
+            "isChanged" : false,
+            "isEditable" : false,
+            "uvcTextSize" : {
+              "_id" : "",
+              "value" : 20,
+              "uvcTextSizeType" : "UVCTextSizeType.Regular"
+            },
+            "modelValuePath" : "",
+            "memoryObject" : "",
+            "description" : ""
+          }
+        ],
+        "uvcPhoto" : [
+
+        ],
+        "uvcProgressIndicator" : [
+
+        ],
+        "uvcChoice" : [
+
+        ],
+        "uvcButton" : [
+
+        ],
+        "uvcTable" : [
+          {
+            "parentId" : [
+
+            ],
+            "_id" : "",
+            "path" : [
+
+            ],
+            "uvcAlignment" : [
+
+            ],
+            "childrenId" : [
+
+            ],
+            "description" : "",
+            "uvcMargin" : [
+
+            ],
+            "name" : "Name-885D95E6-A64C-441C-B769-2E697DC9AD8DTable",
+            "uvcTableRow" : [
+              {
+                "_id" : "",
+                "uvcTableColumn" : [
+                  {
+                    "_id" : "",
+                    "uvcDirectionType" : "UVCFillType.Horiontal",
+                    "name" : "",
+                    "uvcViewItem" : [
+                      {
+                        "_id" : "",
+                        "uvcAlignment" : {
+                          "uvcPositionType" : "UVCPositionType.None",
+                          "uvcMeasurementType" : "UVCTextTemplateType.None"
+                        },
+                        "name" : "Name-885D95E6-A64C-441C-B769-2E697DC9AD8D",
+                        "type" : "UVCViewItemType.Text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "description" : "",
+      "uvcViewItem" : [
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "Name-885D95E6-A64C-441C-B769-2E697DC9AD8DTable",
+          "type" : "UVCViewItemType.Table"
+        },
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "Name-885D95E6-A64C-441C-B769-2E697DC9AD8DTexts",
+          "type" : "UVCViewItemType.Text"
+        }
+      ],
+      "name" : "",
+      "rowLength" : 1
+    },
+    {
+      "_id" : "",
+      "textLength" : 5,
+      "language" : "ta",
+      "uvcViewItemCollection" : {
+        "_id" : "",
+        "uvcOnOff" : [
+
+        ],
+        "uvcText" : [
+          {
+            "uvcEditType" : "UVCEditType.None",
+            "editObjectIdName" : "5ca6426c7323e50c73bfcf4d",
+            "uvcTextStyle" : {
+              "_id" : "",
+              "isSlanting" : false,
+              "udcHumanLanguageIdName" : "UDCHumanLanguage.English",
+              "udcTextScriptIdName" : [
+
+              ],
+              "intensity" : 51,
+              "textColor" : "UVCColor.Black",
+              "backgroundColor" : "UVCColor.White"
+            },
+            "_id" : "5d397d0484fd3837ab18a8c3",
+            "uvcTextTemplateType" : "UVCTextTemplateType.None",
+            "path" : [
+
+            ],
+            "editObjectName" : "UDCFoodRecipeCategory",
+            "name" : "Name",
+            "childrenId" : [
+
+            ],
+            "isMultiline" : false,
+            "parentId" : [
+              "5d397d0484fd3837ab18a8bf"
+            ],
+            "wordIndex" : 0,
+            "helpText" : "",
+            "sentenceIndex" : 0,
+            "value" : "தேவையானவை",
+            "uvcMeasurement" : [
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.XAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.YAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 200,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Width"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 31,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Height"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.XAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 0,
+                "_id" : "",
+                "type" : "UVCMeasurementType.YAxis"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 100,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Width"
+              },
+              {
+                "unitType" : "UVCMeasurementUnitType.Pixels",
+                "value" : 31,
+                "_id" : "",
+                "type" : "UVCMeasurementType.Height"
+              }
+            ],
+            "isChanged" : false,
+            "isEditable" : false,
+            "uvcTextSize" : {
+              "_id" : "",
+              "value" : 20,
+              "uvcTextSizeType" : "UVCTextSizeType.Regular"
+            },
+            "modelValuePath" : "",
+            "memoryObject" : "",
+            "description" : ""
+          }
+        ],
+        "uvcPhoto" : [
+
+        ],
+        "uvcProgressIndicator" : [
+
+        ],
+        "uvcChoice" : [
+
+        ],
+        "uvcButton" : [
+
+        ],
+        "uvcTable" : [
+          {
+            "parentId" : [
+
+            ],
+            "_id" : "",
+            "path" : [
+
+            ],
+            "uvcAlignment" : [
+
+            ],
+            "childrenId" : [
+
+            ],
+            "description" : "",
+            "uvcMargin" : [
+
+            ],
+            "name" : "RecipeItemCategoryTable",
+            "uvcTableRow" : [
+              {
+                "_id" : "",
+                "uvcTableColumn" : [
+                  {
+                    "_id" : "",
+                    "uvcDirectionType" : "UVCFillType.Horiontal",
+                    "name" : "",
+                    "uvcViewItem" : [
+                      {
+                        "_id" : "",
+                        "uvcAlignment" : {
+                          "uvcPositionType" : "UVCPositionType.Left",
+                          "uvcMeasurementType" : "UVCTextTemplateType.None"
+                        },
+                        "name" : "Name",
+                        "type" : "UVCViewItemType.Text"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "description" : "",
+      "uvcViewItem" : [
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "RecipeItemCategoryTable",
+          "type" : "UVCViewItemType.Table"
+        },
+        {
+          "_id" : "",
+          "uvcAlignment" : {
+            "uvcPositionType" : "UVCPositionType.None",
+            "uvcMeasurementType" : "UVCTextTemplateType.None"
+          },
+          "name" : "RecipeItemCategoryTexts",
+          "type" : "UVCViewItemType.Text"
+        }
+      ],
+      "name" : "",
+      "rowLength" : 1
+    }
+  ],
+  "isEditableMode" : false,
+  "isChildrenAllowed" : false,
+  "_id" : "5d397d0484fd3837ab18a8c3",
+  "objectName" : "",
+  "path" : [
+    [
+      "பெயரிடப்படாதது-4E7CDFA1-B71B-4AF8-A209-13C853758356",
+      "தேவையானவை"
+    ]
+  ],
+  "level" : 1,
+  "children" : [
+
+  ],
+  "language" : "ta",
+  "childrenId" : [
+
+  ],
+  "model" : "",
+  "parentId" : [
+    "5d397d0484fd3837ab18a8bf"
+  ]
+}

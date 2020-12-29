@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DetailViewController.traitCollectionDidChange(_:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "uvcDocumentGraphModelList[section].uvcViewModel[uvcvmIndex].uvcViewItemCollection.uvcPhoto[0].borderColor">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewCell.configure(with:index:isEditableMode:):DetailViewCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "UVCDocumentGraphModel.getTextWidth(index:section:isParentNode:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "uvcViewModel">
+            </PersistentString>
+            <PersistentString
+               value = "uvcViewModel.count">
+            </PersistentString>
+            <PersistentString
+               value = "uvcViewModel[index + 1].uvcViewItemCollection.uvcText[0].value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in UVCDocumentViewController.loadPhotoData():UVCDocumentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "detailViewController!.currentOperationNameBeforeGettingPhoto">
+            </PersistentString>
+            <PersistentString
+               value = "detailViewController!.getCurrentOperation()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CallBrainControllerNeuron.setDendrite(neuronRequest:udbcDatabaseOrm:neuronUtility:):CallBrainControllerNeuron.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ApplicationSetting.DeviceUUID!">
+            </PersistentString>
+            <PersistentString
+               value = "CallBrainControllerNeuron.sourceIdToSourceName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SpeechService.speak(player:text:languageCode:):SpeechService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "languageCode.rawValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OptionViewController.brainControllerNeuronResponse(_:):OptionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.hash">
+            </PersistentString>
+            <PersistentString
+               value = "delegate">
+            </PersistentString>
+            <PersistentString
+               value = "hashOperationMap">
+            </PersistentString>
+            <PersistentString
+               value = "uvcOptionViewModelList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:AppDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SpeechService.speak(text:):SpeechService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OptionViewController.sendRequest(source:):OptionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "delegate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MasterViewController.handleOptions(neuronRequest:):MasterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.getDocumentMapDocumentOptions">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UVCDocumentViewController.searchPressed():UVCDocumentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "detailViewController!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OptionViewController.loadOptions():OptionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "delegate">
+            </PersistentString>
+            <PersistentString
+               value = "viewTitle">
+            </PersistentString>
+            <PersistentString
+               value = "self.hash">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UVCPhotoController.getView(uvcPhoto:view:uvcUIViewControllerCollection:uvcViewItemTag:iEditableMode:):UVCPhotoController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "getUIColor(uvcColorName: uvcPhoto.borderColor, type: &quot;Foreground&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UVCDocumentViewController.optionButtonPressed(_:):UVCDocumentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "uiBarButtonItem.image.named">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UVCTextController.getView(uvcText:view:uvcUIViewControllerCollection:uvcViewItemTag:iEditableMode:):UVCTextController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "getUIColor(uvcColorName: uvcText.uvcTextStyle.textColor, type: &quot;Foreground&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UVCDocumentViewController.handleDocumentGraphItemViewData(documentItemViewInsertData:documentItemViewChangeData:documentItemViewDeleteData:uvcViewItemType:lineAdjustment:columnAdjustment:):UVCDocumentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "detailViewController!.currentNodeIndex">
+            </PersistentString>
+            <PersistentString
+               value = "detailViewController!.uvcDocumentGraphModelList">
+            </PersistentString>
+            <PersistentString
+               value = "detailViewController!.uvcDocumentGraphModelList[divcd.nodeIndex]">
+            </PersistentString>
+            <PersistentString
+               value = "detailViewController!.currentItemIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UVCDocumentViewController.detailViewCellEvent(uvcViewItemType:eventName:uvcObject:uiObject:detailViewCell:):UVCDocumentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "detailViewController!.currentNodeIndex">
+            </PersistentString>
+            <PersistentString
+               value = "detailViewController!.currentItemIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OptionViewController.model.didset:OptionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewTitle">
+            </PersistentString>
+            <PersistentString
+               value = "self.hash">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in UVCDocumentViewController.handlePhoto(neuronRequest:):UVCDocumentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.detailViewController!">
+            </PersistentString>
+            <PersistentString
+               value = "detailViewController!.currentOperationNameBeforeGettingPhoto!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailViewController.viewWillTransition(to:with:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ApplicationSetting.DocumentType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
