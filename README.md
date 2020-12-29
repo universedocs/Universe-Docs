@@ -1,7 +1,7 @@
 # Universe-Docs
 Universe Docs
 
-Required developers please contact me kumar.muthaiah@yahoo.com!
+Required developers please contact me kumar.muthaiah@yahoo.com
 Development policies:
 Really human friendly
 Not profit only oriented
