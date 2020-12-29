@@ -12,6 +12,10 @@ Development policies:
 4. Need to benefit all humanity and not few
 5. Need to be done slow and not fast
 
+Other repositories needed to run this project:
+1. Universe Docs Brain
+2. Universe Docs Web
+
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
 What is this project? It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! Each document items in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! This application gathers data like human! Humans in brain they used to categorise informations they perceive and while writing a document or expressing things they use the categorised information in mind (document items)!
