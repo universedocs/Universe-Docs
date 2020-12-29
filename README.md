@@ -5,13 +5,6 @@ Database files are missing! Anybody who copied my previous source code you shoul
 
 Required developers please contact me kumar.muthaiah@yahoo.com
 
-Development policies:
-1. Really human friendly
-2. Not profit only oriented
-3. Don't obey few to spoil whole humanity
-4. Need to benefit all humanity and not few
-5. Need to be done slow and not fast
-
 Other repositories needed to run this project:
 1. Universe Docs Brain
 2. Universe Docs Web
