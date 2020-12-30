@@ -5,7 +5,7 @@ NOTE: Database files are missing! Anybody who copied my previous source code you
 
 Required developers see end of the document! 
 
-Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
+Universe Documents (Universe Docs) (I've started this project from October 2018)
 
 This project is partially done! Once completed it will benefit! 
 
