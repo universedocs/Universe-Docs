@@ -42,7 +42,7 @@ In what industries it is used?
 5. Smart things (using IoT)
 6. Other industries (form filling, etc.,)
 7. Data analytics
-More can be there....
+8. More can be there....
 
 What science and technologies it can use in future?
 1. Artificial intelligence (AI)
