@@ -178,7 +178,7 @@ Technical Skills:
 2. Mongo DB (Server database for online functionality)
 3. Kitura (REST Web Service)
 4. Realm DB (Client database for offline functionality)
-5. UI development: UWP CRT C++ (Windows), Kotlin (Stock Android and Base language), OneUI (Samsung), MIUI (Xiaomi), ColorOS (Oppo), EMUI (Huawei), Qt and C++ (Linux)
+5. UI development: Swift storyboard, Swift UI, UWP CRT C++ (Windows), Kotlin (Stock Android and Base language), OneUI (Samsung), MIUI (Xiaomi), ColorOS (Oppo), EMUI (Huawei), Qt and C++ (Linux)
 
 Hardware Requirement:
 1. Functionality development: Mac with 8GB RAM and enough SSD storage space
