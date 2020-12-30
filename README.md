@@ -3,6 +3,8 @@ Universe Docs
 
 NOTE: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
 
+Required developers see end of the document!
+
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
 This project is partially done! Once completed it will benefit! 
@@ -150,4 +152,19 @@ Social and websites blocked for this project:
 
 Universe Docs Documents: A registered developer will have those documents! 
 
+I'm looking for open source software developers (volunteers) who have enough experience for my project Universe Docs in GitHub: https://lnkd.in/gNuMyPK
+
+Technical Skills:
+1. Swift
+2. Mongo DB
+3. Kitura
+4. Realm DB
+
+Enough experience on the above so that can handle full development life cycle (R&D, analysis, design, development, testing)
+
+This project is big and serves all humanity if completed successfully! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! 
+
+Once released we can share the profit! 
+
+I will participate in it as much as possible, since this is a parallel work apart from my daily works! My daily work is having higher priority!
 
