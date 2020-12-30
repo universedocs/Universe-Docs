@@ -89,6 +89,7 @@ Universe docs brain is a web service that generates the view for the document, b
 2. option map - all the options are displayed through this
 3. toolbar
 4. object controller
+5. document editor
 
 ## In progress / to do / done things
 
