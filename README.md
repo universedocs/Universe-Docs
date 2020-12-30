@@ -77,6 +77,7 @@ UI controls
 7. table
 8. graph (for adding nested contents in graphical format)
 9. vector diagram (for embedding in school training books)
+10. charts for data visualisation
 
 UI interfaces
 
