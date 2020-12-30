@@ -120,6 +120,7 @@ Brain functions:
 4. We can view what neurons are executing in a brain
 5. Since neuron accept single input all the input data can be validate before using
 6. Need to explore options like "What if a neuron fails and the server stops?". Can use XPC mechanisms in swift! 
+7. Need to explore options to remove/add/update neuron from client or server dynamically without building application. XPC mechanism?
 
 Known issues:
 
