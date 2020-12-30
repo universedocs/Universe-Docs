@@ -34,7 +34,7 @@ How it compares to Google docs, Apple pages, microsoft word?
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
-In what industries it is used?
+In what industries it is used (NOTE: all industries using the Universe Docs documents to serve things)?
 1. Education
 2. Software Development
 3. Retail
