@@ -28,7 +28,7 @@ How it compares to Google docs, Apple pages, microsoft word?
 2. Each item (text, photo,etc.,) in the document are categorised while document is created / pre categorised, and no need extra processing by natural language processing!
 3. The document follows a model. Graph is used for now. Later it can include any other model!
 4. For deleting/copying a line/word/sentence/node just invoke a command no need to highlight and do it!
-5. Avoids duplicates.
+5. Avoids duplicates and reusable.
 6. Provides service to manipulate documents from remote. For example a robot can manipulate document from distance or through wireless communcation!
 7. Easy to find detials of each document items like description, further details, translations, meaning, hierarchy, etc., from the document itself! That details can be filtered based on specific document type!
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
