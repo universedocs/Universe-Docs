@@ -195,5 +195,5 @@ This projects can have deadlines, but make sure at later point of time it is hav
 
 Once released we can share the profit! 
 
-I will participate in it as much as possible, since this is a parallel work apart from my daily works! My daily work is having higher priority!
+I will participate in it as much as possible, since this is a parallel work apart from my daily works! My daily work is having higher priority! Once this project is developed enough and it is useful, it will be moved as a high priority work! 
 
