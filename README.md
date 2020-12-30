@@ -132,9 +132,6 @@ Objectives:
 1. To make everything manageable in device itself using documents. User no need to manage database or deployment server!
 2. I will not use web application for this since it creates suffering! Native application is the natural thing that takes care of the user! We have lots of duplicate operating system, programming languages, etc., it is not good and we need to support a single one! If we support single one we can cooperate and make it better for whole humanity!
 
-
-Required developers please contact me kumar.muthaiah@yahoo.com. This work is a parallel work to my other daily works! 
-
 Other repositories needed to run this project:
 1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
 2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
@@ -152,7 +149,7 @@ Social and websites blocked for this project:
 
 Universe Docs Documents: A registered developer will have those documents! 
 
-Job requirements:
+Job requirements: Required developers please contact me kumar.muthaiah@yahoo.com. This work is a parallel work to my other daily works! 
 
 I'm looking for open source software developers (volunteers) who have enough experience for my project Universe Docs in GitHub: https://lnkd.in/gNuMyPK
 
