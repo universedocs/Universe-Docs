@@ -189,7 +189,7 @@ Hardware:
 
 Enough experience on the above so that can handle full development life cycle (R&D, analysis, design, development, testing)
 
-This project is big and serves all humanity if completed successfully! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! It will need enough time, human resources and human expertise to complete this project on time! The developer as to use the software of this project in their daily lives so that is usable and of hight quality! 
+This project is big and serves all of humanity if completed successfully! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! It will need enough time, human resources and human expertise to complete this project on time! The developer as to use the software of this project in their daily lives so that is usable and of hight quality! 
 
 This projects can have deadlines, but make sure at later point of time it is having missed things that is not taken due to deadlines! Keep track of those missed things, postponed date and the reason for its delay! 
 
