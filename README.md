@@ -34,6 +34,13 @@ How it compares to Google docs, Apple pages, microsoft word?
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
+What science and technologies it can use in future?
+1. Artificial intelligence (AI)
+2. ML (Machine Learning)
+3. Robotics (regular, micro, nano)
+4. Augment Reality (AR) / Virtual Reality (VR)
+5. IoT
+
 What are the document types it can have?
 
 1. Training document (can be any training document! For each training document there is a separate document type)
