@@ -161,7 +161,7 @@ Technical Skills:
 
 Enough experience on the above so that can handle full development life cycle (R&D, analysis, design, development, testing)
 
-This project is big and serves all humanity if completed successfully! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! This software will be developed considering all of humanity and not few! It is not profit only oriented (Capitalism apporach)! It is moving towards Paradism principles (www.paradism.org) one step at a time, but still money required! So it will take lots of time and human resources to complete this project on time! The developer as to use the software of this project in their daily lives so that is usable and of hight quality! 
+This project is big and serves all humanity if completed successfully! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! This software will be developed considering all of humanity and not few! It is not profit only oriented (Capitalism apporach)! It is moving towards Paradism principles (www.paradism.org) one step at a time, but still money required! So it will take lots of time, human resources and human expertise to complete this project on time! The developer as to use the software of this project in their daily lives so that is usable and of hight quality! 
 
 Once released we can share the profit! 
 
