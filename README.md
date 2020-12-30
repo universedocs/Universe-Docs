@@ -19,7 +19,7 @@ A Document item can be a text, photo, video, animation, button, link, upload doc
 
 Universe docs brain is a web service that generates the view for the document, based on the device! The view is displayed in the client app "Universe Docs". The client app can be running in any platform the user desires! The view model is platform independent! Universe docs brain is nothing but set of neurons that is doing specific tasks!
 
-## Looks like a disadvantage but not like that:
+## Looks like a disadvantage but not like that
 
 1. Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can make the search faster using search alogrithms, indexing, etc.,
 2. We need to devote time to cateogrise document items of each document, but the time we spend for it benefits us later! Since the document is categorised it is easy to understand! It is used to get graph details of each document item from document! Categorisation can be made fast by using human like information gathering technologies like image recognition, speech recognition, video recognition, sound recognition, information search, AI, ML, etc.,
@@ -90,7 +90,7 @@ Universe docs brain is a web service that generates the view for the document, b
 3. toolbar
 4. object controller
 
-## In progress / to do / done things:
+## In progress / to do / done things
 
 1. making every user interface editable using document
 2. If a title of a document renames all the refered places renames
@@ -115,7 +115,7 @@ Universe docs brain is a web service that generates the view for the document, b
 21. Ability to redo or undo
 22. A document or part of document can be imported in a document. On change at source changes in target also (Reference)
 
-## Brain functions:
+## Brain functions
 
 1. Neurons can be moved to client or server as the user desires, while building the project! A client cannot hold all the neurons in that case server has those neurons! If the neurons are in client can do offline things! If neuron is in server can do online things! Same neuron code is used for client and server! Server is a web service!
 2. All the neurons can access the data using a single database server
@@ -125,14 +125,14 @@ Universe docs brain is a web service that generates the view for the document, b
 6. Need to explore options like "What if a neuron fails and the server stops?". Can use XPC mechanisms in swift! 
 7. Need to explore options to remove/add/update neuron from client or server dynamically without building application. XPC mechanism?
 
-## Known issues:
+## Known issues
 
 1. The udcdocument is not changing the document name when document title is changed. Also the language title is not changing!
 2. Some document items are not in natural order
 3. Some other issues are randomly coming need to resolve
 4. Due to database issue application is not running properly. It is resolvable!
 
-## Some documents you can view in document map (the left view. search by typig in search bar) to check how document items look like:
+## Some documents you can view in document map (the left view. search by typing in search bar) to check how document items look like
 
 1. food ingredient
 2. food ingredient unit
@@ -144,7 +144,7 @@ Universe docs brain is a web service that generates the view for the document, b
 
 Some document items are not linked to document map yet so you need to use the document id in udcdocument and put manually in view code to view it!
 
-## Future prospects:
+## Future prospects
 
 1. No code software - For this to happen we need to automate the whole application and make it programmable from client device itself! Application already designed to be no code software in future!
 2. Document as a service (Daas) - Used to modify a document from a device. For example plant IoT device residing in home. The univese docs brain will run in Linux and will be running in users home.
@@ -152,25 +152,25 @@ Some document items are not linked to document map yet so you need to use the do
 4. Printable books that can be sold - Need to follow some templates
 5. Add more platforms like Windows 10, Android, Linux, etc., since only view is changing. Funcitonality remains same. Since functionality is written in swift only swift supporting platforms can have offline functionality! This also can change since Swift programming language is now written for more operating systems like windows 10, amazon linux, centos, etc., So the nueron code can reside in both client and server for all operating system so one code can serve for all!
 
-## Objectives:
+## Objectives
 
 1. To make everything manageable in device itself using documents. User no need to manage database or deployment server!
 2. I will not use web application for this since it creates suffering! Native application is the natural thing that takes care of the user! We have lots of duplicate operating system, programming languages, etc., it is not good and we need to support a single one! If we support single one we can cooperate and make it better for whole humanity!
 
-## Other repositories needed to run this project:
+## Other repositories needed to run this project
 1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
 2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
 
 ## Other files needed to run this project 
 1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december). Due to this issue application not working properly.
 
-## Social and websites blocked for this project:
-1. Application website: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
-2. Company website: www.kumarmuthaiah.com (Expiry date: 18-Jan-2023, needs extension later)
-3. Support Email: support@universedocs.com (Expiry date: 18-Jan-2023, needs extension later)
-3. Facebook: https://www.facebook.com/universedocs
-4. Instagram: https://www.instagram.com/universedocs/
-5. Twitter: https://twitter.com/universedocs
+## Social and websites blocked for this project
+1. **Application website**: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
+2. **Company website**: www.kumarmuthaiah.com (Expiry date: 18-Jan-2023, needs extension later)
+3. **Support Email**: support@universedocs.com (Expiry date: 18-Jan-2023, needs extension later)
+3. **Facebook**: https://www.facebook.com/universedocs
+4. **Instagram**: https://www.instagram.com/universedocs/
+5. **Twitter**: https://twitter.com/universedocs
 
 ## Universe Docs Documents: 
 
@@ -178,7 +178,7 @@ A registered developer will have those documents!
 
 ## Planned software releases:
 
-| Version | End Date                             | Platforms | Targeted Users | Description | Detail |
+| **Version** | **End Date**                             | **Platforms** | **Targeted Users** | **Description** | **Detail** |
 | ------- | ------------------------------------ | --------- | -------------- | ----------- | ------ |
 | 0.1.0   | Every 6 months or less|iOS, iPadOS, macOS|Software professionals, school students, home makers, college students, workers, individuals|	Software training, one document collection, minimum no code, vector document, DaaS, only Apple platforms | iOS, iPadOS and Mac (Food Recipe with Shopping list, Cuisine collection, Training [High memory foot print: Swift, MongoDB, Real DB, Kitura. Low memory foot print: C, C++, Python]), No Code: Buttons, Vector document, DaaS (get document item documents) |
 |0.2.0|Every 6 months or less|iOS, iPadOS, macOS, Windows|Software professionals, school students, home makers, college students, workers, individuals|Add windows support to cover all desktop users|Windows support using UWP|
