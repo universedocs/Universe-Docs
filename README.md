@@ -34,6 +34,16 @@ How it compares to Google docs, Apple pages, microsoft word?
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
+In what industries it is used?
+1. Education
+2. Software Development
+3. Retail
+4. Robotics
+5. Smart things (using IoT)
+6. Other industries (form filling, etc.,)
+7. Data analytics
+More can be there....
+
 What science and technologies it can use in future?
 1. Artificial intelligence (AI)
 2. ML (Machine Learning)
