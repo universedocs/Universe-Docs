@@ -11,18 +11,20 @@ Universe Documents (Universe Docs) (I've started this project from October 2018)
 
 This project is partially done! Once completed it will benefit! 
 
-What is this project? It is developed as a native application! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! Each document items in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! This application gathers data like human! Humans in brain they used to categorise informations they perceive and while writing a document or expressing things they use the categorised information in mind (document items)!
+## What is this project? 
+
+It is developed as a native application! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! Each document items in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! This application gathers data like human! Humans in brain they used to categorise informations they perceive and while writing a document or expressing things they use the categorised information in mind (document items)!
 
 A Document item can be a text, photo, video, animation, button, link, upload document, download document or share button!If you tap or click a document item in document then other items of the same category shows and you can change it! If you click a photo other photos of same category shows up!
 
 Universe docs brain is a web service that generates the view for the document, based on the device! The view is displayed in the client app "Universe Docs". The client app can be running in any platform the user desires! The view model is platform independent! Universe docs brain is nothing but set of neurons that is doing specific tasks!
 
-Looks like a disadvantage but not like that:
+## Looks like a disadvantage but not like that:
 
 1. Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can make the search faster using search alogrithms, indexing, etc.,
 2. We need to devote time to cateogrise document items of each document, but the time we spend for it benefits us later! Since the document is categorised it is easy to understand! It is used to get graph details of each document item from document! Categorisation can be made fast by using human like information gathering technologies like image recognition, speech recognition, video recognition, sound recognition, information search, AI, ML, etc.,
 
-How it compares to Google docs, Apple pages, microsoft word?
+## How it compares to Google docs, Apple pages, microsoft word?
 
 1. Each item (text, photo,etc.,) in the document are categorised and easy to parse, validate, filter, remote access/modify! For example by robot which is learning a recipe and modifies the document!
 2. Each item (text, photo,etc.,) in the document are categorised while document is created / pre categorised, and no need extra processing by natural language processing!
@@ -34,7 +36,7 @@ How it compares to Google docs, Apple pages, microsoft word?
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
-In what industries it is used (NOTE: all industries using the Universe Docs documents to serve things)?
+## In what industries it is used (NOTE: all industries using the Universe Docs documents to serve things)?
 1. Education
 2. Software Development
 3. Retail
@@ -44,14 +46,14 @@ In what industries it is used (NOTE: all industries using the Universe Docs docu
 7. Data analytics
 8. More can be there....
 
-What science and technologies it can use in future?
+## What science and technologies it can use in future?
 1. Artificial intelligence (AI)
 2. ML (Machine Learning)
 3. Robotics (regular, micro, nano)
 4. Augment Reality (AR) / Virtual Reality (VR)
 5. IoT
 
-What are the document types it can have?
+## What are the document types it can have?
 
 1. Training document (can be any training document! For each training document there is a separate document type)
 2. Food recipe document
@@ -68,7 +70,7 @@ What are the document types it can have?
 13. algorithm document (used in software development. Extracts the comments from source code in hierarchial format so that user no need to see source code to understand the logic)
 14. source code document ( can be embeedded in software trainings)
 
-UI controls
+## UI controls
 
 1. text
 2. photo/video/animation
@@ -81,14 +83,14 @@ UI controls
 9. vector diagram (for embedding in school training books)
 10. charts for data visualisation
 
-UI interfaces
+## UI interfaces
 
 1. document map - graphically access documents
 2. option map - all the options are displayed through this
 3. toolbar
 4. object controller
 
-In progress / to do / done things:
+## In progress / to do / done things:
 
 1. making every user interface editable using document
 2. If a title of a document renames all the refered places renames
@@ -113,7 +115,7 @@ In progress / to do / done things:
 21. Ability to redo or undo
 22. A document or part of document can be imported in a document. On change at source changes in target also (Reference)
 
-Brain functions:
+## Brain functions:
 
 1. Neurons can be moved to client or server as the user desires, while building the project! A client cannot hold all the neurons in that case server has those neurons! If the neurons are in client can do offline things! If neuron is in server can do online things! Same neuron code is used for client and server! Server is a web service!
 2. All the neurons can access the data using a single database server
@@ -123,14 +125,14 @@ Brain functions:
 6. Need to explore options like "What if a neuron fails and the server stops?". Can use XPC mechanisms in swift! 
 7. Need to explore options to remove/add/update neuron from client or server dynamically without building application. XPC mechanism?
 
-Known issues:
+## Known issues:
 
 1. The udcdocument is not changing the document name when document title is changed. Also the language title is not changing!
 2. Some document items are not in natural order
 3. Some other issues are randomly coming need to resolve
 4. Due to database issue application is not running properly. It is resolvable!
 
-Some documents you can view in document map (the left view. search by typig in search bar) to check how document items look like:
+## Some documents you can view in document map (the left view. search by typig in search bar) to check how document items look like:
 
 1. food ingredient
 2. food ingredient unit
@@ -142,7 +144,7 @@ Some documents you can view in document map (the left view. search by typig in s
 
 Some document items are not linked to document map yet so you need to use the document id in udcdocument and put manually in view code to view it!
 
-Future prospects:
+## Future prospects:
 
 1. No code software - For this to happen we need to automate the whole application and make it programmable from client device itself! Application already designed to be no code software in future!
 2. Document as a service (Daas) - Used to modify a document from a device. For example plant IoT device residing in home. The univese docs brain will run in Linux and will be running in users home.
@@ -150,19 +152,19 @@ Future prospects:
 4. Printable books that can be sold - Need to follow some templates
 5. Add more platforms like Windows 10, Android, Linux, etc., since only view is changing. Funcitonality remains same. Since functionality is written in swift only swift supporting platforms can have offline functionality! This also can change since Swift programming language is now written for more operating systems like windows 10, amazon linux, centos, etc., So the nueron code can reside in both client and server for all operating system so one code can serve for all!
 
-Objectives:
+## Objectives:
 
 1. To make everything manageable in device itself using documents. User no need to manage database or deployment server!
 2. I will not use web application for this since it creates suffering! Native application is the natural thing that takes care of the user! We have lots of duplicate operating system, programming languages, etc., it is not good and we need to support a single one! If we support single one we can cooperate and make it better for whole humanity!
 
-Other repositories needed to run this project:
+## Other repositories needed to run this project:
 1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
 2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
 
-Other files needed to run this project 
+## Other files needed to run this project 
 1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december). Due to this issue application not working properly.
 
-Social and websites blocked for this project:
+## Social and websites blocked for this project:
 1. Application website: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
 2. Company website: www.kumarmuthaiah.com (Expiry date: 18-Jan-2023, needs extension later)
 3. Support Email: support@universedocs.com (Expiry date: 18-Jan-2023, needs extension later)
@@ -170,9 +172,11 @@ Social and websites blocked for this project:
 4. Instagram: https://www.instagram.com/universedocs/
 5. Twitter: https://twitter.com/universedocs
 
-Universe Docs Documents: A registered developer will have those documents! 
+## Universe Docs Documents: 
 
-Planned software releases:
+A registered developer will have those documents! 
+
+## Planned software releases:
 
 | Version | End Date                             | Platforms | Targeted Users | Description | Detail |
 | ------- | ------------------------------------ | --------- | -------------- | ----------- | ------ |
@@ -183,18 +187,18 @@ Planned software releases:
 |0.5.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, companies, individuals|Software with Daas Support and more document collections|DaaS for Companies/Individual (IoT, Robot, Applications), More Document collections (requirement, design, issue, algorithm)|
 |0.6.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, companies, actor, actress, individuals, shops|	Software with all no code features and more document collections|More no code items, More Document collections (Forms, Personal Page, Shopping)|
 
-Job requirements: 
+## Job requirements: 
 
 I'm looking for open source software developers (volunteers) who have enough experience for this project! 
 
-Software:
+### Software:
 1. Swift (programing language)
 2. Mongo DB (Server database for online functionality)
 3. Kitura (REST Web Service)
 4. Realm DB (Client database for offline functionality)
 5. UI development: Swift storyboard, Swift UI, UWP CRT C++ (Windows), Kotlin (Stock Android and Base language), OneUI (Samsung), MIUI (Xiaomi), ColorOS (Oppo), EMUI (Huawei), Python using Qt and GTK UI (Linux)
 
-Hardware:
+### Hardware:
 1. Functionality development: Mac with 8GB RAM and enough SSD storage space
 2. UI Development: Mac/Windows/Android/Linux
 3. Internet connection fast enough to download. Upload at least 3mbps
@@ -209,4 +213,3 @@ This projects can have deadlines, but make sure at later point of time it is hav
 Once released we can share the profit! 
 
 I will participate in it as much as possible, since this is a parallel work apart from my daily works! My daily work is having higher priority! Once this project is developed enough and it is useful, it will be moved as a high priority work! 
-
