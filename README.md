@@ -4,7 +4,7 @@ Universe Docs
 Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
 
 
-Required developers please contact me kumar.muthaiah@yahoo.com
+Required developers please contact me kumar.muthaiah@yahoo.com. This work is a parallel work to my other daily works! 
 
 Other repositories needed to run this project:
 1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
