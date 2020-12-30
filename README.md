@@ -174,10 +174,17 @@ Job requirements:
 I'm looking for open source software developers (volunteers) who have enough experience for this project! 
 
 Technical Skills:
-1. Swift
-2. Mongo DB
-3. Kitura
-4. Realm DB
+1. Swift (programing language)
+2. Mongo DB (Server database for online functionality)
+3. Kitura (REST Web Service)
+4. Realm DB (Client database for offline functionality)
+5. UI development: UWP CRT C++ (Windows), Kotlin (Stock Android and Base language), OneUI (Samsung), MIUI (Xiaomi), ColorOS (Oppo), EMUI (Huawei), Qt and C++ (Linux)
+
+Hardware Requirement:
+1. Functionality development: Mac with 8GB RAM and enough SSD storage space
+2. UI Development: Mac/Windows/Android/Linux
+3. Internet connection fast enough to download. Upload at least 3mbps
+4. Deployment Server: Mac/Ubuntu (Linux). Linux support need to be done! 
 
 Enough experience on the above so that can handle full development life cycle (R&D, analysis, design, development, testing)
 
