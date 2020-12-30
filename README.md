@@ -3,7 +3,7 @@ Universe Docs
 
 NOTE: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
 
-Required developers see end of the document! This software will be developed considering all of humanity and not few! It is not profit only oriented (Capitalism apporach)! It is moving towards Paradism principles (www.paradism.org) one step at a time, but still money required! So it will take lots of time and human resources to complete this project on time! 
+Required developers see end of the document! This software will be developed considering all of humanity and not few! It is not profit only oriented (Capitalism apporach)! It is moving towards Paradism principles (www.paradism.org) one step at a time, but still money required! So it will take lots of time and human resources to complete this project on time! The developer as to use the software of this project in their daily lives so that is usable and of hight quality! 
 
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
