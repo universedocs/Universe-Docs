@@ -145,8 +145,8 @@ Other repositories needed to run this project:
 1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
 2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
 
-Other files needed to run this project:
-1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december)
+Other files needed to run this project 
+1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december). Due to this issue application not working properly.
 
 Social and websites blocked for this project:
 1. Application website: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
