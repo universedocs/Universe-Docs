@@ -3,7 +3,7 @@ Universe Docs
 
 NOTE: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
 
-Anybody can copy this software, but the software I've developed under my control will be really human friendly and done in cooperation (not competition)! It can easily compete well with other copies that follow profit only approach or hybrid approach! 
+Anybody can copy this software, but the software I've developed under my control will benefit all humanity and not few and done in cooperation (not competition)! It can easily compete well with other copies that follow profit only approach or hybrid approach! 
 
 Required developers see end of the document! 
 
