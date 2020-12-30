@@ -1,7 +1,9 @@
 # Universe-Docs
 Universe Docs
 
-NOTE: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
+NOTE 1: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
+
+NOTE 2: Please don't create duplicate softwares to compete, rather do it in cooperation! Will make sure flexible! 
 
 Required developers see end of the document! 
 
