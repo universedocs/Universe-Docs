@@ -1,27 +1,7 @@
 # Universe-Docs
 Universe Docs
 
-Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
-
-
-Required developers please contact me kumar.muthaiah@yahoo.com. This work is a parallel work to my other daily works! 
-
-Other repositories needed to run this project:
-1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
-2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
-
-Other files needed to run this project:
-1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december)
-
-Social and websites blocked for this project:
-1. Application website: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
-2. Company website: www.kumarmuthaiah.com (Expiry date: 18-Jan-2023, needs extension later)
-3. Support Email: support@universedocs.com (Expiry date: 18-Jan-2023, needs extension later)
-3. Facebook: https://www.facebook.com/universedocs
-4. Instagram: https://www.instagram.com/universedocs/
-5. Twitter: https://twitter.com/universedocs
-
-Universe Docs Documents: A registered developer will have those documents! 
+NOTE: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
 
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
@@ -149,3 +129,25 @@ Objectives:
 
 1. To make everything manageable in device itself using documents. User no need to manage database or deployment server!
 2. I will not use web application for this since it creates suffering! Native application is the natural thing that takes care of the user! We have lots of duplicate operating system, programming languages, etc., it is not good and we need to support a single one! If we support single one we can cooperate and make it better for whole humanity!
+
+
+Required developers please contact me kumar.muthaiah@yahoo.com. This work is a parallel work to my other daily works! 
+
+Other repositories needed to run this project:
+1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
+2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
+
+Other files needed to run this project:
+1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december)
+
+Social and websites blocked for this project:
+1. Application website: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
+2. Company website: www.kumarmuthaiah.com (Expiry date: 18-Jan-2023, needs extension later)
+3. Support Email: support@universedocs.com (Expiry date: 18-Jan-2023, needs extension later)
+3. Facebook: https://www.facebook.com/universedocs
+4. Instagram: https://www.instagram.com/universedocs/
+5. Twitter: https://twitter.com/universedocs
+
+Universe Docs Documents: A registered developer will have those documents! 
+
+
