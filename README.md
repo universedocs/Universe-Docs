@@ -13,6 +13,13 @@ Other repositories needed to run this project:
 Other files needed to run this project:
 1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december)
 
+Social and websites blocked for this project:
+1. Application website: www.universedocs.com
+2. Company website: www.kumarmuthaiah.com
+3. Facebook: https://www.facebook.com/universedocs
+4. Instagram: https://www.instagram.com/universedocs/
+5. Twitter: https://twitter.com/universedocs
+
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
 This project is partially done! Once completed it will benefit! 
