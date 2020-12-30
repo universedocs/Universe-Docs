@@ -152,6 +152,8 @@ Social and websites blocked for this project:
 
 Universe Docs Documents: A registered developer will have those documents! 
 
+Job requirements:
+
 I'm looking for open source software developers (volunteers) who have enough experience for my project Universe Docs in GitHub: https://lnkd.in/gNuMyPK
 
 Technical Skills:
