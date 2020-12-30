@@ -3,7 +3,7 @@ Universe Docs
 
 NOTE: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
 
-Required developers see end of the document! This software will be developed considering all of humanity and not few! It is not profit only oriented (Capitalism apporach)! It is moving towards Paradism principles (www.paradism.org) one step at a time, but still money required! So it will take lots of time and human resources to complete this project on time! The developer as to use the software of this project in their daily lives so that is usable and of hight quality! 
+Required developers see end of the document! 
 
 Universe Documents (Universe Docs) (I've started this project from October 2018, after i resigned from a company to do self employement. After deciding to not work as slave and follow my dreams!)
 
@@ -151,7 +151,7 @@ Universe Docs Documents: A registered developer will have those documents!
 
 Job requirements: 
 
-I'm looking for open source software developers (volunteers) who have enough experience for this project!
+I'm looking for open source software developers (volunteers) who have enough experience for this project! 
 
 Technical Skills:
 1. Swift
@@ -161,7 +161,7 @@ Technical Skills:
 
 Enough experience on the above so that can handle full development life cycle (R&D, analysis, design, development, testing)
 
-This project is big and serves all humanity if completed successfully! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! 
+This project is big and serves all humanity if completed successfully! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! This software will be developed considering all of humanity and not few! It is not profit only oriented (Capitalism apporach)! It is moving towards Paradism principles (www.paradism.org) one step at a time, but still money required! So it will take lots of time and human resources to complete this project on time! The developer as to use the software of this project in their daily lives so that is usable and of hight quality! 
 
 Once released we can share the profit! 
 
