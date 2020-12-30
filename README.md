@@ -115,6 +115,7 @@ Known issues:
 1. The udcdocument is not changing the document name when document title is changed. Also the language title is not changing!
 2. Some document items are not in natural order
 3. Some other issues are randomly coming need to resolve
+4. Due to database issue application is not running properly. It is resolvable!
 
 Some documents you can view in document map (the left view. search by typig in search bar) to check how document items look like:
 
