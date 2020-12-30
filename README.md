@@ -17,19 +17,6 @@ A Document item can be a text, photo, video, animation, button, link, upload doc
 
 Universe docs brain is a web service that generates the view for the document, based on the device! The view is displayed in the client app "Universe Docs". The client app can be running in any platform the user desires! The view model is platform independent! Universe docs brain is nothing but set of neurons that is doing specific tasks!
 
-Planned software releases:
-
-| Version | End Date                             | Platforms | Targeted Users | Description | Detail |
-| ------- | ------------------------------------ | --------- | -------------- | ----------- | ------ |
-| 0.1.0   | Every 6 months or less|iOS, iPadOS, macOS|Software professionals, school students, home makers, college students, workers, individuals|	Software training, one document collection, minimum no code, vector document, DaaS, only Apple platforms | iOS, iPadOS and Mac (Food Recipe with Shopping list, Cuisine collection, Training [High memory foot print: Swift, MongoDB, Real DB, Kitura. Low memory foot print: C, C++, Python]), No Code: Buttons, Vector document, DaaS (get document item documents) |
-|0.2.0|Every 6 months or less|iOS, iPadOS, macOS, Windows|Software professionals, school students, home makers, college students, workers, individuals|Add windows support to cover all desktop users|Windows support using UWP|
-|0.3.0|Every 6 months or less|iOS, iPadOS, macOS, Windows|Software professionals, school students, home makers, college students, workers, individuals|export, offline support, more document collections|iOS (Offline storage in mobile, API, hindi national language), More Document collections (notes, photos, tasks, calendar)|
-|0.4.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, individuals|	Software with all platform support|Swift UI, Android (Kotlin)|
-|0.5.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, companies, individuals|Software with Daas Support and more document collections|DaaS for Companies/Individual (IoT, Robot, Applications), More Document collections (requirement, design, issue, algorithm)|
-|0.6.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, companies, actor, actress, individuals, shops|	Software with all no code features and more document collections|More no code items, More Document collections (Forms, Personal Page, Shopping)|
-
-
-
 Looks like a disadvantage but not like that:
 
 1. Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can make the search faster using search alogrithms, indexing, etc.,
@@ -184,6 +171,17 @@ Social and websites blocked for this project:
 5. Twitter: https://twitter.com/universedocs
 
 Universe Docs Documents: A registered developer will have those documents! 
+
+Planned software releases:
+
+| Version | End Date                             | Platforms | Targeted Users | Description | Detail |
+| ------- | ------------------------------------ | --------- | -------------- | ----------- | ------ |
+| 0.1.0   | Every 6 months or less|iOS, iPadOS, macOS|Software professionals, school students, home makers, college students, workers, individuals|	Software training, one document collection, minimum no code, vector document, DaaS, only Apple platforms | iOS, iPadOS and Mac (Food Recipe with Shopping list, Cuisine collection, Training [High memory foot print: Swift, MongoDB, Real DB, Kitura. Low memory foot print: C, C++, Python]), No Code: Buttons, Vector document, DaaS (get document item documents) |
+|0.2.0|Every 6 months or less|iOS, iPadOS, macOS, Windows|Software professionals, school students, home makers, college students, workers, individuals|Add windows support to cover all desktop users|Windows support using UWP|
+|0.3.0|Every 6 months or less|iOS, iPadOS, macOS, Windows|Software professionals, school students, home makers, college students, workers, individuals|export, offline support, more document collections|iOS (Offline storage in mobile, API, hindi national language), More Document collections (notes, photos, tasks, calendar)|
+|0.4.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, individuals|	Software with all platform support|Swift UI, Android (Kotlin)|
+|0.5.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, companies, individuals|Software with Daas Support and more document collections|DaaS for Companies/Individual (IoT, Robot, Applications), More Document collections (requirement, design, issue, algorithm)|
+|0.6.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, companies, actor, actress, individuals, shops|	Software with all no code features and more document collections|More no code items, More Document collections (Forms, Personal Page, Shopping)|
 
 Job requirements: 
 
