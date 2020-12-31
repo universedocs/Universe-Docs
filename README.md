@@ -61,7 +61,7 @@ Universe docs brain is a web service that generates the view for the document, b
 4. For client and server Swift is used, if Swift is available on all platforms! That is happening wait and see! Until then different language is used for UI. But same view model regardless of operating system! 
 5. Offline support is not a security risk, since using native code and can be reviewed by apple store reviewers! Same code is used in both server and client! Even server code can be reviewed if needed! 
 6. No duplicates (centralised storage and avoids duplicates)
-7. Reusability is very high (Document items are used in all documents, document parts or whole document can be reused)
+7. Reusability is very high (Document items are reused in documents, document parts or whole document can be reused)
 8. Each things are completely automatable using no code features
 9. Documents follow a model
 10. Open source
