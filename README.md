@@ -160,7 +160,7 @@ Some document items are not linked to document map yet so you need to use the do
 ## Objectives
 
 1. To make everything manageable in device itself using documents. User no need to manage database or deployment server!
-2. I will not use web application for this since it creates suffering! Native application is the natural thing that takes care of the user! We have lots of duplicate operating system, programming languages, etc., it is not good and we need to support a single one! If we support single one we can cooperate and make it better for whole humanity!
+2. I will not use web application for this since it creates suffering! Native application is the natural thing that takes care of the user! We have lots of duplicate operating system, programming languages, etc., it is not good and we need to support a single one! If we support single one we can cooperate and make it better for whole humanity! But still nobody can stop from developing it in Web (this software can do that also), due to the freedom it gives! Even though we have freedom there are so many other problems that causes web application in browser to be waste of energy!  
 
 ## Other GitHub projects used / to be used. Thanks a lot to them! 
 1. Network library: https://github.com/Alamofire/Alamofire
