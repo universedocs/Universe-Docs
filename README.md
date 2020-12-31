@@ -39,7 +39,7 @@ Universe docs brain is a web service that generates the view for the document, b
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
-## Anybody noticed? This software is similar to a web browser, but different in many ways
+## Anybody noticed? This software is similar to a Web Browser, but different in many ways
 
 ### Problems of Web Borwser and its applications
 1. It is using so many technologies for view model (CSS, JavaScript, HTML, VBScript, etc.,) that is developed by other than operating system developer. Operating system is fearing about it! So many security holes happening as time goes! 
@@ -49,15 +49,22 @@ Universe docs brain is a web service that generates the view for the document, b
 5. It is not object oriented, rather template oriented! Real world objects are object oriented and computers need to follow it! 
 6. So many duplicates
 7. Reusability is very low
+8. Some are closed source and some are open sourced
+9. Each vendor provides their own way of no code features confusing and creating lots of frustration to the user! 
 
 ### What about this software Universe Docs
 1. It uses JSON as the view model and is object oriented. Once received in client it converts to the native UI.
 2. Each individual items are a view model and only those that are modified are saved! The documents are always saved no worries to press a button! 
-3. It is using the UI of the operating system so can use all the features of the operating system UI
+3. It is using the UI of the operating system so works well with operating system UI. Games, 3D design, vector drawings, etc., can also be developed to use the power of the hardware?
 4. For client and server Swift is used, if Swift is available on all platforms! That is happening wait and see! Until then different language is used for UI.
 5. Offline support is not a security risk, since using native code and can be reviewed by apple store reviewers! Same code is used in both server and client! Even server code can be reviewed if needed! 
 6. No duplicates (centralised storage and avoids duplicates)
 7. Reusability is very high (Document items are used in all documents, document parts or whole document can be reused)
+8. Each things are completely automatable using no code features
+9. Documents follow a model
+10. Open source
+
+It is the new way for the application! Hope developer recognise it! 
 
 ## In what industries it is used (NOTE: all industries using the Universe Docs documents to serve things)?
 1. Education
