@@ -205,7 +205,7 @@ I'm looking for open source software developers (volunteers) who have enough exp
 
 ### Hardware:
 1. Functionality development: Mac with 8GB RAM and enough SSD storage space
-2. UI Development: Mac/Windows/Android/Linux
+2. UI Development: Mac/Windows/Linux
 3. Internet connection fast enough to download. Upload at least 3mbps
 4. Deployment Server: Mac/Ubuntu (Linux). Linux support need to be done! 
 
