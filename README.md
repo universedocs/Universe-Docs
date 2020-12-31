@@ -52,12 +52,13 @@ Universe docs brain is a web service that generates the view for the document, b
 8. Some are closed source and some are open sourced
 9. Each vendor provides their own way of no code features confusing and creating lots of frustration to the user! 
 10. Functionality is in server and requires internet connection
+11. Some are web service and some are other. Not future proof! 
 
 ### What about this software Universe Docs
 1. It uses JSON as the view model and is object oriented. Once received in client it converts to the native UI.
 2. Each individual items are a view model and only those that are modified are saved! The documents are always saved no worries to press a button! 
 3. It is using the UI of the operating system so works well with operating system UI. Games, 3D design, vector drawings, etc., can also be developed to use the power of the hardware?
-4. For client and server Swift is used, if Swift is available on all platforms! That is happening wait and see! Until then different language is used for UI.
+4. For client and server Swift is used, if Swift is available on all platforms! That is happening wait and see! Until then different language is used for UI. But same view model regardless of operating system! 
 5. Offline support is not a security risk, since using native code and can be reviewed by apple store reviewers! Same code is used in both server and client! Even server code can be reviewed if needed! 
 6. No duplicates (centralised storage and avoids duplicates)
 7. Reusability is very high (Document items are used in all documents, document parts or whole document can be reused)
@@ -65,6 +66,7 @@ Universe docs brain is a web service that generates the view for the document, b
 9. Documents follow a model
 10. Open source
 11. Functionality is residing server and client! No worries about internet connection! 
+12. Functionality resides in web service and is future proof
 
 It is the new way for the application! Hope developer recognise it! 
 
