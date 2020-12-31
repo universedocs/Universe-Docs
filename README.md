@@ -204,7 +204,7 @@ I'm looking for open source software developers (volunteers) who have enough exp
 5. UI development: Swift storyboard, Swift UI, UWP CRT C++ (Windows), Kotlin (Stock Android and Base language), OneUI (Samsung), MIUI (Xiaomi), ColorOS (Oppo), EMUI (Huawei), Python using Qt and GTK UI (Linux)
 
 ### Hardware:
-1. Functionality development: Mac with 8GB RAM and enough SSD storage space
+1. Functionality development: Mac/Ubuntu (linux) with 8GB RAM and enough SSD storage space. Linux doesn't have all the features! 
 2. UI Development: Mac/Windows/Linux
 3. Internet connection fast enough to download. Upload at least 3mbps
 4. Deployment Server: Mac/Ubuntu (Linux). Linux support need to be done! 
