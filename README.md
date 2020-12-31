@@ -55,7 +55,7 @@ Universe docs brain is a web service that generates the view for the document, b
 11. Some are web service and some are other. Not future proof! 
 
 ### What about this software Universe Docs
-1. It uses JSON as the view model and is object oriented. Once received in client it converts to the native UI. it is created using WYSIWYG! 
+1. It uses JSON as the view model and is object oriented. Once received in client it converts to the native UI. It is created using WYSIWYG editor! 
 2. Each individual items are a view model and only those that are modified are saved! The documents are always saved no worries to press a button! 
 3. It is using the UI of the operating system so works well with operating system UI. Games, 3D design, vector drawings, etc., can also be developed to use the power of the hardware?
 4. For client and server Swift is used, if Swift is available on all platforms! That is happening wait and see! Until then different language is used for UI. But same view model regardless of operating system! 
