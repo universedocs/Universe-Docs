@@ -5,6 +5,8 @@ Universe Docs
 
 **NOTE 2**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
 
+**NOTE 3**: Software is free and open source so that all can use it, can include any valuable feature user needs no restrictions! Contents and usage may be paid or free, so still can earn money! Can share profit! 
+
 Required developers see end of the document! 
 
 Universe Documents (Universe Docs) (I've started this project from October 2018)
