@@ -39,6 +39,26 @@ Universe docs brain is a web service that generates the view for the document, b
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
+## Anybody noticed? This software is similar to a web browser, but different in many ways
+
+### Problems of Web Borwser and its applications
+1. It is using so many technologies for view model (CSS, JavaScript, HTML, VBScript, etc.,) that is developed by other than operating system developer. Operating system is fearing about it! So many security holes happening as time goes! 
+2. It is using its own UI (javascript, DOM) within the limitation of web browser window and not outside the web browser window! 
+3. There are different technologies for client (Divi, React, Bootstrap, etc.,) and server (PHP, Java, WordPress). Ther is no cooperation!
+4. Offline support is a security risk, since the user can forget to clear the offline data! 
+5. It is not object oriented, rather template oriented! Real world objects are object oriented and computers need to follow it! 
+6. So many duplicates
+7. Reusability is very low
+
+### What about this software Universe Docs
+1. It uses JSON as the view model and is object oriented. Once received in client it converts to the native UI.
+2. Each individual items are a view model and only those that are modified are saved! The documents are always saved no worries to press a button! 
+3. It is using the UI of the operating system so can use all the features of the operating system UI
+4. For client and server Swift is used, if Swift is available on all platforms! That is happening wait and see! Until then different language is used for UI.
+5. Offline support is not a security risk, since using native code and can be reviewed by apple store reviewers! Same code is used in both server and client! Even server code can be reviewed if needed! 
+6. No duplicates (centralised storage and avoids duplicates)
+7. Reusability is very high (Document items are used in all documents, document parts or whole document can be reused)
+
 ## In what industries it is used (NOTE: all industries using the Universe Docs documents to serve things)?
 1. Education
 2. Food
