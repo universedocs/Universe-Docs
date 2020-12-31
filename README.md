@@ -197,7 +197,7 @@ A registered developer will have those documents!
 I'm looking for open source software developers (volunteers) who have enough experience for this project! 
 
 ### Software:
-1. Swift (programing language)
+1. Swift (programing language). Swift is later coming with full support to Windows 10, Amazon Linux, CentOS, etc.,
 2. Mongo DB (Server database for online functionality)
 3. Kitura (REST Web Service)
 4. Realm DB (Client database for offline functionality)
