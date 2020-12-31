@@ -41,7 +41,7 @@ Universe docs brain is a web service that generates the view for the document, b
 
 ## Anybody noticed? This software is similar to a Web Browser, but different in many ways
 
-### Problems of Web Borwser and its applications
+### Problems of Web Browser and its applications
 1. It is using so many technologies for view model (CSS, JavaScript, HTML, VBScript, etc.,) that is developed by other than operating system developer. Operating system is fearing about it! So many security holes happening as time goes! 
 2. It is using its own UI (javascript, DOM) within the limitation of web browser window and not outside the web browser window! 
 3. There are different technologies for client (Divi, React, Bootstrap, etc.,) and server (PHP, Java, WordPress). Ther is no cooperation!
