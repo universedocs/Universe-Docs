@@ -162,6 +162,14 @@ Some document items are not linked to document map yet so you need to use the do
 1. To make everything manageable in device itself using documents. User no need to manage database or deployment server!
 2. I will not use web application for this since it creates suffering! Native application is the natural thing that takes care of the user! We have lots of duplicate operating system, programming languages, etc., it is not good and we need to support a single one! If we support single one we can cooperate and make it better for whole humanity!
 
+## Other GitHub projects used / to be used. Thanks a lot to them! 
+1. Network library: https://github.com/Alamofire/Alamofire
+2. Image processing library: https://github.com/gavinbunney/Toucan
+3. Video generator from image, audio, video library: https://github.com/dev-labs-bg/swift-video-generator
+4. JSON string parser: https://github.com/SwiftyJSON/SwiftyJSON
+5. Swift Mongo DB driver: https://github.com/mongodb/mongo-swift-driver
+6. Data visualisation: https://github.com/AnyChart/AnyChart-iOS
+
 ## Other repositories needed to run this project
 1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
 2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
@@ -191,6 +199,10 @@ A registered developer will have those documents!
 |0.4.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, individuals, companies|	Software with all platform support|Swift UI, Kotlin (Stock Android and Base language), OneUI (Samsung), MIUI (Xiaomi), ColorOS (Oppo), EMUI (Huawei), Python using Qt and GTK UI (Linux)|Food recipe, school interactive book, and training document collections, other apps using predefined data from data repositary, teaching in class or in meeting, better UI, offline access, private documents, personal document collections, export to text or PDF, printable books,all platforms|
 |0.5.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, companies, individuals|Software with Daas Support and more document collections|DaaS for Companies/Individual (IoT, Robot, Applications), More Document collections (requirement, design, issue, algorithm)|Food recipe, school interactive book, and training document collections, other apps using predefined data from data repositary, teaching in class or in meeting, better UI, offline access, private documents, personal document collections,export to text or PDF, printable books, all platforms, full DaaS, software development document collections|
 |0.6.0|Every 6 months or less|iOS, iPadOS, macOS, Windows, Android|Software professionals, school students, home makers, college students, workers, companies, actor, actress, individuals, shops|	Software with all no code features and more document collections|More no code items, ui control validation, More Document collections (Forms, Personal Page, Shopping)| Create custom applications, Food recipe, school interactive book, and training document collections, other apps using predefined data from data repositary, teaching in class or in meeting, better UI, offline access, private documents, personal document collections, export to text or PDF, printable books,all platforms, full DaaS, software development document collections, full no code,form filling, personal page document collections, shop document collections|
+
+## License
+
+MIT License. Can copy or do whatever you want! Instead of creating competitive product it is better we cooperate and do one thing! 
 
 ## Job requirements: 
 
