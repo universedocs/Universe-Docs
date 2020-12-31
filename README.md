@@ -41,13 +41,14 @@ Universe docs brain is a web service that generates the view for the document, b
 
 ## In what industries it is used (NOTE: all industries using the Universe Docs documents to serve things)?
 1. Education
-2. Software Development
-3. Retail
-4. Robotics
-5. Smart things (using IoT)
-6. Other industries (form filling, etc.,)
-7. Data analytics
-8. More can be there....
+2. Food
+3. Software Development
+4. Retail
+5. Robotics
+6. Smart things (using IoT)
+7. Other industries (form filling, etc.,)
+8. Data analytics
+9. More can be there....
 
 ## What science and technologies it can use in future?
 1. Artificial intelligence (AI)
