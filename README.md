@@ -68,6 +68,7 @@ Universe docs brain is a web service that generates the view for the document, b
 11. Functionality is residing in server and client! No worries about internet connection! Can move some functionality to server due to low memory! 
 12. Functionality resides in web service and is future proof
 13. It uses brain and neuron concept to do things and is more flexible like human brains! 
+14. Supports multi langauge by nature
 
 It is the new way for the application! Hope developer recognise it! 
 
