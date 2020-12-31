@@ -51,6 +51,7 @@ Universe docs brain is a web service that generates the view for the document, b
 7. Reusability is very low
 8. Some are closed source and some are open sourced
 9. Each vendor provides their own way of no code features confusing and creating lots of frustration to the user! 
+10. Functionality is in server and requires internet connection
 
 ### What about this software Universe Docs
 1. It uses JSON as the view model and is object oriented. Once received in client it converts to the native UI.
@@ -63,6 +64,7 @@ Universe docs brain is a web service that generates the view for the document, b
 8. Each things are completely automatable using no code features
 9. Documents follow a model
 10. Open source
+11. Functionality is residing server and client! No worries about internet connection! 
 
 It is the new way for the application! Hope developer recognise it! 
 
