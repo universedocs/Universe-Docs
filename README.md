@@ -169,6 +169,7 @@ Some document items are not linked to document map yet so you need to use the do
 4. JSON string parser: https://github.com/SwiftyJSON/SwiftyJSON
 5. Swift Mongo DB driver: https://github.com/mongodb/mongo-swift-driver
 6. Data visualisation: https://github.com/AnyChart/AnyChart-iOS
+7. Converting UICollectionView to PDF. Means can convert any document to PDF. But still need server side generation of PDF: https://github.com/sgr-ksmt/PDFGenerator  
 
 ## Other repositories needed to run this project
 1. Universe Docs Brain (https://github.com/universedocs/Universe-Docs-Brain)
