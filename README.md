@@ -65,7 +65,7 @@ Universe docs brain is a web service that generates the view for the document, b
 8. Each things are completely automatable using no code features
 9. Documents follow a model
 10. Open source
-11. Functionality is residing server and client! No worries about internet connection! 
+11. Functionality is residing in server and client! No worries about internet connection! Can move some functionality to server due to low memory! 
 12. Functionality resides in web service and is future proof
 
 It is the new way for the application! Hope developer recognise it! 
