@@ -46,7 +46,7 @@ Universe docs brain is a web service that generates the view for the document, b
 2. It is using its own UI (javascript, DOM) within the limitation of web browser window and not outside the web browser window! 
 3. There are different technologies for client (Divi, React, Bootstrap, etc.,) and server (PHP, Java, WordPress). Ther is no cooperation!
 4. Offline support is a security risk, since the user can forget to clear the offline data! 
-5. It is not object oriented, rather template oriented! Real world objects are object oriented and computers need to follow it! 
+5. It is not object oriented that much, rather template oriented! Real world objects are object oriented and computers need to follow it! 
 6. So many duplicates
 7. Reusability is very low
 8. Some are closed source and some are open sourced
