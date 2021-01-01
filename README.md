@@ -2,7 +2,7 @@
 
 ## -- Merges Native application and Web Application into one and runs in all platforms
 ## -- All items are reusable and no duplicates
-## -- Open source or free
+## -- Open source or free. Still can earn money through it!
 ## -- WYSIWYG editor, Interactive, No security issues, Users consent, Access all hardware features, Efficient
 ## -- No code features
 ## -- Application, documents and anything can be managed from any device
