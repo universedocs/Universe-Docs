@@ -1,4 +1,4 @@
-# Univese Docs
+# Universe Docs
 
 ## -- Merges Native application and Web Application into one and runs in all platforms
 ## -- WYSIWYG editor, Interactive, No security issues, Users consent, Access all hardware features, Efficient
