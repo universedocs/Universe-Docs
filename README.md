@@ -1,10 +1,10 @@
 # Universe-Docs 
 
-# <span style="color: green"> -- Merges Native application and Web Application into one and runs in all platforms. </span>
-# <span style="color: green">-- WYSIWYG editor, No security issues, Users consent, Access all hardware, Efficient and No code features</span>
-# <span style="color: green">-- Application and documents can be accessed remotely</span>
-# <span style="color: green">-- Application and document library</span>
-# <span style="color: green">-- Training tool</span>
+# -- Merges Native application and Web Application into one and runs in all platforms
+# -- WYSIWYG editor, No security issues, Users consent, Access all hardware, Efficient and No code features
+# -- Application and documents can be accessed remotely
+# -- Application and document library
+# -- Training tool
 
 **NOTE 1**: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
 
