@@ -1,6 +1,7 @@
 # Universe Docs
 
 ## -- Merges Native application and Web Application into one and runs in all platforms
+## -- Open source or free
 ## -- WYSIWYG editor, Interactive, No security issues, Users consent, Access all hardware features, Efficient
 ## -- No code features
 ## -- Application, documents and anything can be managed from any device
