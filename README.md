@@ -52,6 +52,8 @@ Universe docs brain is a web service that generates the view for the document, b
 |7|The web browser by default doesn't provide no code software, but several vendors of the web application provides no code softwares that is different and making users to suffer|No code software comes with the application and ready to use.|
 |8|It is not designed by default WYSIWYG, rather the web application need to take that step! Some web application will not be WYSIWYG! |Application designed by default WYSIWYG!|
 |9|Web application is separate and native applicatin is separate|Merges native and web application into one native application running in all platforms. Can use it online and/or offline mode!|
+|10|Some are done without user consent|Done always with user consent|
+|11|Can only use most features of the hardware|Can use all the features of hardware|
 
 It is the new way for the application and documents! Hope developer recognise it! 
 
