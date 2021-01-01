@@ -1,7 +1,7 @@
 # Universe-Docs 
 
 ## -- Merges Native application and Web Application into one and runs in all platforms
-## -- WYSIWYG editor, No security issues, Users consent, Access all hardware, Efficient
+## -- WYSIWYG editor, Interactive, No security issues, Users consent, Access all hardware, Efficient
 ## -- No code features
 ## -- Application and documents can be managed remotely using REST Web Service from a single device
 ## -- Application and document library
