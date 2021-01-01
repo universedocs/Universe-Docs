@@ -39,38 +39,20 @@ Universe docs brain is a web service that generates the view for the document, b
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
-## Anybody noticed? This software is similar to a Web Browser, but different in many ways
+## Web Browser Vs Universe Docs
 
-### Problems of Web Browser and its applications
-1. It is using so many technologies for view model (CSS, JavaScript, HTML, VBScript, etc.,) that is developed by other than operating system developer. Operating system is fearing about it! So many security holes happening as time goes! 
-2. It is using its own UI (javascript, DOM) within the limitation of web browser window and not outside the web browser window! 
-3. There are different technologies for client (Divi, React, Bootstrap, etc.,) and server (PHP, Java, WordPress). Ther is no cooperation!
-4. Offline support is a security risk, since the user can forget to clear the offline data! 
-5. It is not object oriented that much, rather template oriented! Real world objects are object oriented and computers need to follow it! 
-6. So many duplicates
-7. Reusability is very low
-8. Some are closed source and some are open sourced
-9. Each vendor provides their own way of no code features confusing and creating lots of frustration to the user! 
-10. Functionality is in server and requires internet connection
-11. Some are web service and some are other. Not future proof! 
+| Serial Number | Web Browser | Universe Docs |
+| ------------- | ----------- | ------------- |
+|1|It was designed in 1990 and 30 years as gone. Designed based on the knowledge at that time and not changed much! They don't want to change much so that past internet contents are not affected! No Innovation for 30 years to make it close to the operating system!|It can change as per new innovations|
+|2|It does not use the UI of the operating system, rather uses the content of the window as UI (drawing canvas or form)! It cannot use the other UI elements of an operating system for example toolbar, status bar! UI is not standard and encourages to have different UI for same type of application thereby spoiling the user experience and understanding! So many clicking of back and forward buttons and it is not natural! |Uses the UI of the operating system and closely works with it. Standard UI for each type of application and is human friendly!|
+|3|It is not purely object oriented, rather mix of template and object oriented. Real world objects are object oriented and it is the proper way! |Purely object oriented! UI objects are represented as JSON and is mapped to programming language objects! |
+|4|Web browser is not designed securely by default. Each web browser is following its own way! Due to the vulnerabilities it is the popular way to attack user by hackers!|The application is designed taking security into consideration and is managed by single entity but developed in cooperation with all peoples! |
+|5|The client functionality and data is closely tied to web browser and not application. So the user need to do two steps to be safe: log out application, clear the browser cache. The application and user don't know what web browser configuration is set that creates security issue to the user using it! Other application can access user data stored by the web application if have admin privileges! |The client functionality, configuration and data is in the control of the application! Other application cannot access, since operating system doesn't allow (sandbox) !|
+|6|It uses its own language and files like JavaScript, VBScript, CSS, HTML, etc., rather than operating system language and files. This language is interpreter based (slower than compiler) | It only uses operating system language and operating system controlled files! It is fast since it is compiled.|
+|7|The web browser by default doesn't provide no code software, but several vendors of the web application provides no code softwares making users to suffer|No code software comes with the application and ready to use.|
+|8|It is not designed by default WYSIWYG, rather the web application need to take that step! Some web application will not be WYSIWYG! |Application designed by default WYSIWYG!|
 
-### What about this software Universe Docs
-1. It uses JSON as the view model and is object oriented. Once received in client it converts to the native UI. It is created using WYSIWYG editor! 
-2. Each individual items are a view model and only those that are modified are saved! The documents are always saved no worries to press a button! 
-3. It is using the UI of the operating system so works well with operating system UI. Games, 3D design, vector drawings, etc., can also be developed to use the power of the hardware?
-4. For client and server Swift is used, if Swift is available on all platforms! That is happening wait and see! Until then different language is used for UI. But same view model regardless of operating system! 
-5. Offline support is not a security risk, since using native code and can be reviewed by apple store reviewers! Same code is used in both server and client! Even server code can be reviewed if needed! 
-6. No duplicates (centralised storage and avoids duplicates)
-7. Reusability is very high (Document items are reused in documents, document parts or whole document can be reused)
-8. Each things are completely automatable using no code features
-9. Documents follow a model
-10. Open source
-11. Functionality is residing in server and client! No worries about internet connection! Can move some functionality to server due to low memory! 
-12. Functionality resides in web service and is future proof
-13. It uses brain and neuron concept to do things and is more flexible like human brains! 
-14. Supports multi langauge by nature
-
-It is the new way for the application! Hope developer recognise it! 
+It is the new way for the application and documents! Hope developer recognise it! 
 
 ## What is a No Code Software?
 
