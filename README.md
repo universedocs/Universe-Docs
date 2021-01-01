@@ -1,7 +1,7 @@
 # Universe Docs
 
 ## -- Merges Native application and Web Application into one and runs in all platforms
-## -- All items are reusable and no duplicates
+## -- All items are reusable, object oriented and no duplicates
 ## -- Open source or free. Still can earn money through it!
 ## -- WYSIWYG editor, Interactive, No security issues, Users consent, Access all hardware features, Efficient
 ## -- No code features
