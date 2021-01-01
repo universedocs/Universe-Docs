@@ -54,6 +54,7 @@ Universe docs brain is a web service that generates the view for the document, b
 |9|Web application is separate and native applicatin is separate|Merges native and web application into one native application running in all platforms. Can use it online and/or offline mode!|
 |10|Some are done without user consent|Done always with user consent|
 |11|Can only use most features of the hardware|Can use all the features of hardware|
+|12|It complicates and delays things|It simplifies and makes things fast|
 
 It is the new way for the application and documents! Hope developer recognise it! 
 
