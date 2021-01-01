@@ -51,7 +51,6 @@ Universe docs brain is a web service that generates the view for the document, b
 |6|It uses its own language and files like JavaScript, VBScript, CSS, HTML, etc., rather than operating system language and files. This language is interpreter based (slower than compiler) | It only uses operating system language and operating system controlled files! It is fast since it is compiled.|
 |7|The web browser by default doesn't provide no code software, but several vendors of the web application provides no code softwares making users to suffer|No code software comes with the application and ready to use.|
 |8|It is not designed by default WYSIWYG, rather the web application need to take that step! Some web application will not be WYSIWYG! |Application designed by default WYSIWYG!|
-|9|Software developer need to handle database separately and need new learning|Document itself is a database and no need new learning|
 
 It is the new way for the application and documents! Hope developer recognise it! 
 
