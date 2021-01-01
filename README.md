@@ -3,7 +3,7 @@
 ## -- Merges Native application and Web Application into one and runs in all platforms
 ## -- WYSIWYG editor, Interactive, No security issues, Users consent, Access all hardware, Efficient
 ## -- No code features
-## -- Application and documents can be managed from any device
+## -- Application, documents and anything can be managed from any device
 ## -- Application and document library
 ## -- Training tool
 ## -- Can export to file and print hard copy
