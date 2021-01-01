@@ -2,6 +2,9 @@
 
 # -- Merges Native application and Web Application into one and runs in all platforms. 
 # -- WYSIWYG editor, No security issues, Users consent, Access all hardware, Efficient and No code features
+# -- Application and documents can be accessed remotely
+# -- Application and document library
+# -- Training tool
 
 **NOTE 1**: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
 
@@ -17,7 +20,7 @@ This project is partially done! Once completed it will benefit!
 
 ## What is this project? 
 
-It is developed as a native application! It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library! Each document items in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! This application gathers data like human! Humans in brain they used to categorise informations they perceive and while writing a document or expressing things they use the categorised information in mind (document items)!
+Each document items in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! This application gathers data like human! Humans in brain they used to categorise informations they perceive and while writing a document or expressing things they use the categorised information in mind (document items)!
 
 A Document item can be a text, photo, video, animation, button, link, upload document, download document or share button!If you tap or click a document item in document then other items of the same category shows and you can change it! If you click a photo other photos of same category shows up!
 
