@@ -38,17 +38,25 @@ Since don't have screen shots now!
 
 ### Document Item Document
 
+Stores document items in natural order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc.,
+
 ![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/document%20item%20document.jpg)
 
 ### Document View and Document Item Search
+
+Each document of specific type is associated with several document item documents. Those document items can be searched! 
 
 ![Document Item Search](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20search.jpg)
 
 ### Document View and Document Item Option
 
+When user taps any document item the other document items of the same cateogry pops up and can change it! 
+
 ![Document Item Option](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20option.jpg)
 
 ### Document Map Search
+
+Can search the document map graph to locate the document in the library. No need to browse the documents figuring out where the document is! 
 
 ![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20map.jpg)
 
