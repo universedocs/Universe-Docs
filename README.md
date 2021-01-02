@@ -38,7 +38,7 @@ Since don't have screen shots now!
 
 ### Document Item Document
 
-Stores document items in natural order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc.,
+Stores document items in natural and hierarchial order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc., This document item document is opened whern a user selects "Show Graph" for it in a document! 
 
 ![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/document%20item%20document.jpg)
 
