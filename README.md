@@ -32,6 +32,10 @@ A Document item can be a text, photo, video, animation, button, link, upload doc
 
 Universe docs brain is a web service that generates the view for the document, based on the device! The view is displayed in the client app "Universe Docs". The client app can be running in any platform the user desires! The view model is platform independent! Universe docs brain is nothing but set of neurons that is doing specific tasks!
 
+## Screen Diagrams
+
+[Document Item Document](universedocs.github.com/Universe-Docs/document item document.jpg)
+
 ## Looks like a disadvantage but not like that
 
 1. Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can disable search, make the search faster using search alogrithms, indexing, etc.,
