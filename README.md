@@ -44,7 +44,7 @@ Stores document items in natural and hierarchial order so that user can understa
 
 ### Document View and Document Item Search
 
-Each document of specific type is associated with several document item documents. Those document items can be searched! When document items are indexed using an efficient search alogrithm then it will be fast search!
+Each document of specific type is associated with several document item documents. Those document items can be searched! When document items are indexed using an efficient search alogrithm then it will be fast search! For some items like field, we can automatically show it instead of asking user to search! For items like language grammars, can automatically add it there, instead of showing the search popup! So we can optimise it a lot no worries! But still if one feels the searching delays things, then can type all texts without searching (in urgent case by disabling searching) and later on we can parse the document using the provided document item documents for the document type and categorisation is done! We can use AI to do it perfectly or user need to manually confirm whether the categorisation is correct or not! Since the document item documents are specific to document the categorisation mostly should be accurate! 
 
 ![Document Item Search](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20search.jpg)
 
