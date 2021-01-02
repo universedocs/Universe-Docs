@@ -40,11 +40,11 @@ Since don't have screen shots now!
 
 ![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/document%20item%20document.jpg)
 
-### Document Item Search
+### Document View and Document Item Search
 
 ![Document Item Search](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20search.jpg)
 
-### Document Item Option
+### Document View and Document Item Option
 
 ![Document Item Option](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20option.jpg)
 
