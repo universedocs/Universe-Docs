@@ -34,7 +34,7 @@ Universe docs brain is a web service that generates the view for the document, b
 
 ## Screen Diagrams
 
-[Document Item Document](universedocs.github.com/Universe-Docs/document item document.jpg)
+![Document Item Document](https://github.com/universedocs/Universe-Docs/edit/master/document item document.jpg)
 
 ## Looks like a disadvantage but not like that
 
