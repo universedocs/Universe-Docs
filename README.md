@@ -32,7 +32,9 @@ A Document item can be a text, photo, video, animation, button, link, upload doc
 
 Universe docs brain is a web service that generates the view for the document, based on the device! The view is displayed in the client app "Universe Docs". The client app can be running in any platform the user desires! The view model is platform independent! Universe docs brain is nothing but set of neurons that is doing specific tasks!
 
-## Screen Diagrams
+## Screen Diagrams 
+
+Since don't have screen shots now! 
 
 ### Document Item Document
 
@@ -40,11 +42,11 @@ Universe docs brain is a web service that generates the view for the document, b
 
 ### Document Item Search
 
-![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20search.jpg)
+![Document Item Search](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20search.jpg)
 
 ### Document Item Option
 
-![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20option.jpg)
+![Document Item Option](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20option.jpg)
 
 ## Looks like a disadvantage but not like that
 
