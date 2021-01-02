@@ -38,7 +38,7 @@ Since don't have screen shots now!
 
 ### Document Item Document
 
-Stores document items in natural and hierarchial order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc., This document item document is opened when a user selects "Show Graph" from a document item in a document. For example "Trichy"!
+Stores document items in natural and hierarchial order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc., Each document item can be associated with image, video, animation, document, etc., While searching for it in the document the user can add either text or photo or video or animation or document of a document item. When document items are indexed using an efficient search alogrithm then it will be fast! The user can also import document items either in document or in document item document, from external source for example line of texts, set of images, CSV file, camera, etc., This document item document is opened when a user selects "Show Graph" from a document item in a document. For example "Trichy"! 
 
 ![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/document%20item%20document.jpg)
 
@@ -56,7 +56,7 @@ When user taps any document item the other document items of the same cateogry p
 
 ### Document Map Search
 
-Can search the document map graph to locate the document in the library. No need to browse the documents figuring out where the document is! 
+Can search the document map graph to locate the document in the library. No need to browse the documents figuring out where the document is! This is where all the training documents, filled forms, vector diagrams, shopping forms, school interactive books are searched and shown as categorised! 
 
 ![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20map.jpg)
 
