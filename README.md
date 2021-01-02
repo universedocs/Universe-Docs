@@ -64,7 +64,7 @@ Can search the document map graph to locate the document in the library. No need
 
 ### Food Recipe
 
-Show document in view mode and when edited allows to edit here itself (WYSIWYG) and no need separate form to fill up those! Similarly all documents! Like this there can be large number of recipes for a collection. For example "Chettinad" collection! 
+Show document in view mode and when edited allows to edit here itself (WYSIWYG) and no need separate form to fill up those! Similarly all documents! Like this there can be large number of recipes for a collection. For example "Chettinad" collection! Since all the documents follow Graph model, each level is in different colour! The field name is in bold! 
 
 ![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Broadbeans%20Sambar.jpg)
 
