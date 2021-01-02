@@ -60,6 +60,20 @@ Can search the document map graph to locate the document in the library. No need
 
 ![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20map.jpg)
 
+## Screen Shots
+
+### Food Recipe
+
+![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Broadbeans%20Sambar.jpg)
+
+### Software Training Overview
+
+![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Swift%20Overview.jpg)
+
+### Software Training Introduction
+
+![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Swift%20Introduction.jpg)
+
 ## Looks like a disadvantage but not like that
 
 1. Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can disable search, make the search faster using search alogrithms, indexing, etc.,
