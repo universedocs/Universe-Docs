@@ -121,7 +121,7 @@ It is the new way for the application and documents! Hope developer recognise it
 
 No code software is a shift in how users interface with software tools! No need to know any programming language! All are visual and human friendly! Only need few no code software companies! Software developers realise the transition! Don’t waste your time and energy in programming langauges that is not useful! 
 
-## In what industries it is used (NOTE: all industries using the Universe Docs documents to serve things)?
+## In what industries it is used (NOTE: all industries using the Universe Docs documents and/or Universer Docs Brain to do/process things)?
 1. Education
 2. Food
 3. Software Development
