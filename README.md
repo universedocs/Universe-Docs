@@ -48,6 +48,10 @@ Since don't have screen shots now!
 
 ![Document Item Option](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20option.jpg)
 
+### Document Map Search
+
+![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20map.jpg)
+
 ## Looks like a disadvantage but not like that
 
 1. Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can disable search, make the search faster using search alogrithms, indexing, etc.,
