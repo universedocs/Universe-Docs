@@ -117,6 +117,8 @@ This shows the introduction document! Like this there will be large number of do
 
 It is the new way for the application and documents! Hope developer recognise it! 
 
+## Challenges and Solutions
+
 | Serial Number | Challenges | Solutions |
 | ------------- | ----------- | ----------- |
 |1|To create a platform independent document that is exportable to any format the user feels.|Put the document view in a data model (JSON) and convert into platform specific document view. The view can be used to export into other document formats.|
