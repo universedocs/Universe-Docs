@@ -117,6 +117,41 @@ This shows the introduction document! Like this there will be large number of do
 
 It is the new way for the application and documents! Hope developer recognise it! 
 
+https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Document.jpg
+https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Change.jpg
+https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Search.jpeg
+https://github.com/universedocs/Universe-Docs/blob/master/Document.jpg
+
+
+| Serial Number | Challenges | Solutions |
+| ------------- | ----------- | ----------- |
+|1|To create a platform independent document that is exportable to any format the user feels.|Put the document view in a data model (JSON) and convert into platform specific document view. The view can be used to export into other document formats.|
+|2|To make the document items reusable|Put the document items (text, photo, video, etc.,) in a document item document and allow it be accessible in the document|
+|3|To edit the document in WYSIWYG format|The document is following graph model and each nodes are represented as lines and each items in the nodes are represented as document items|
+|4|Document saving should not be an issue if internet is gone|On each edit the document is saved no worries of saving!|
+|5|To handle database without working in database directly|Manage data as document item and documents. Document is following a data model and can have complex data!|
+|6|To add/change/remove components of the software dynamically|Human brain is a great example that adds and removes things dynamically. So designed a software brain to handle it. |
+|7|To parse and validate document|Categorise each document item so that can identify it|
+|8|To find documents that have one or more document items? For example to find food recipes that have tomato ingredient.
+|Categorise each document item so that can identify it while searching|
+|9|Searching each document items and creating the document is slow|Document items are sorted as per a searching algorithm or stored in search engine database. When searching will be faster! |
+|10|Have to create documents some times very fast|Disable the search and create document faster. Later parse the document and replace text with categorised document items! Until we use AI, prased document items needs confirmation from user! |
+|11|Need to reused on document in other document|Just refer one or more documents in other documents. If source changes target also changes!|
+|12|Renaming a document item need to change in affected documents|A logic will automatically do this since there is a document reference put in each document item. |
+|13|Need a way to search the documents and user interface options|All document names and option names are stored as document item document so easy to search|
+|14|Need to update user interface dynamically from any device|All the user interface elements are represented as document item documents. You update in any device since document view is platform independent!|
+|15|Need to have no code features|All user interface elements are represented as documents and each functions of the software are accessible through REST web service. Can easily do no code features!|
+|16|Need to represent complex document models like vector diagrams, 3D diagrams, etc.,?|Currently document uses graph model to represent simple document. Later can use any model to implement whatever the user desires! 
+Since a vector document can be embedded in a document, we can put any complex interactive elements!|
+|17|Need to represent the interactive elements of a document. For example in school subject training|Since a vector document can be embedded in a document, we can put any complex interactive elements! |
+|18|Need to be secure|Web service is secured using SSL. Each input parameters are validated and frequeny attacks are blocked! |
+|19|Need to handle enough number of users without affecting performance|Since the server software represents a software brain, we can have as many of them to handle traffic! Each brain can handle only specific numbers of requests at a time! |
+|20|Need a way so that Robot can manage the software and its documents. For example to add/change/remove things. Can also be used by IoT devices and applications.|Since the software is accessible through REST web service and all of them are represented as documents using document items it is easily manageable by Robots on the fly!|
+|21|Use AI to provide intelligence|Since all the document items in the document are categorised it is easy to process it and provide intelligence! |
+|22|Ability to move the user interface from 2D to 3D for AR / VR|Each user interface item are created taking into 3D in consideration|
+|23|To work in offline and/or online|Since the brain is available in both client and server. So when internet is not available can work in offline and make it online later on! Note: client cannot hold all the neurons of a brain! |
+|24|The document can be used to do presentation without duplicating the content in another presentation document. It can be converted to video.|Since document is following a model we can do presentation without duplicates! Text to speech can be used to generate audio and document can generate images! Just need images and audios to create a video.|
+
 ## What is a No Code Software?
 
 No code software is a shift in how users interface with software tools! No need to know any programming language! All are visual and human friendly! Only need few no code software companies! Software developers realise the transition! Don’t waste your time and energy in programming langauges that is not useful! 
