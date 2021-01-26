@@ -40,19 +40,19 @@ Since don't have screen shots now!
 
 Stores document items in natural and hierarchial order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc., Each document item can be associated with image, video, animation, document, etc., While searching for it in the document the user can add either text or photo or video or animation or document of a document item. The user can also import document items either in document or in document item document, from external source for example line of texts, set of images, CSV file, camera (image or video: use AI to recognize), speech (audio: use AI to recognise) etc., This document item document is opened when a user selects "Show Graph" from a document item in a document. For example "Trichy"! Can also search by category if you are not sure about an document item, after the result comes choose the respective document item from the document category by searching in it! 
 
-![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/document%20item%20document.jpg)
+![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Document.jpg)
 
 ### Document View and Document Item Search
 
 Each document of specific type is associated with several document item documents. Those document items can be searched! When document items are indexed using an efficient search alogrithm then it will be fast search! For some items like field, we can automatically show it instead of asking user to search! For items like language grammars, can automatically add it there, instead of showing the search popup! So we can optimise it a lot no worries! But still if one feels the searching delays things, then can type all texts without searching (in urgent case by disabling searching) and later on we can parse the document using the provided document item documents for the document type and categorisation is done! We can use AI to do it perfectly or user need to manually confirm whether the categorisation is correct or not! Since the document item documents are specific to document the categorisation mostly should be accurate! 
 
-![Document Item Search](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20search.jpg)
+![Document Item Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Search.jpeg)
 
-### Document View and Document Item Option
+### Document View and Document Item Change
 
 When user taps any document item the other document items of the same cateogry pops up and can change it! 
 
-![Document Item Option](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20option.jpg)
+![Document Item Change](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Change.jpg)
 
 ### Document Map Search
 
