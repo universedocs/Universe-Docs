@@ -58,7 +58,7 @@ When user taps any document item the other document items of the same cateogry p
 
 Can search the document map graph to locate the document in the library. No need to browse the documents figuring out where the document is! This is where all the training documents, filled forms, vector diagrams, shopping forms, school interactive books are searched and shown as categorised! 
 
-![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20map.jpg)
+![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Map%20Search.jpg)
 
 ## Screen Shots
 
