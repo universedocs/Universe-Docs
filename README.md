@@ -291,7 +291,7 @@ Some document items are not linked to document map yet so you need to use the do
 
 ## Social and websites blocked for this project
 1. **Application website**: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
-2. **Company website**: www.kumarmuthaiah.com (Expiry date: 18-Jan-2023, needs extension later)
+2. **Company website**: www.kumarmuthaiah.com (Expiry date: 09-Oct-2021, needs extension later)
 3. **Support Email**: support@universedocs.com (Expiry date: 18-Jan-2023, needs extension later)
 3. **Facebook**: https://www.facebook.com/universedocs
 4. **Instagram**: https://www.instagram.com/universedocs/
