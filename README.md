@@ -122,7 +122,7 @@ It is the new way for the application and documents! Hope developer recognise it
 | Serial Number | Challenges | Solutions |
 | ------------- | ----------- | ----------- |
 |1|To create a platform independent document that is exportable to any format the user feels.|Put the document view in a data model (JSON) and convert into platform specific document view. The view can be used to export into other document formats.|
-|2|To make the document items reusable|Put the document items (text, photo, video, etc.,) in a document item document and allow it be accessible in the document|
+|2|To make the document items reusable|Put the document items (text, photo, video, etc.,) in a document item document and allow it be accessible in the document. Not only words, we can reuse for example quotes, paragraphs, lines, words, documents, groups of paragraphs or photos, etc.,|
 |3|To edit the document in WYSIWYG format|The document is following graph model and each nodes are represented as lines and each items in the nodes are represented as document items|
 |4|Document saving should not be an issue if internet is gone|On each edit the document is saved no worries of saving!|
 |5|To handle database without working in database directly|Manage data as document item and documents. Document is following a data model and can have complex data!|
