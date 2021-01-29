@@ -144,7 +144,7 @@ It is the new way for the application and documents! Hope developer recognise it
 |21|Use AI to provide intelligence|Since all the document items in the document are categorised it is easy to process it and provide intelligence! |
 |22|Ability to move the user interface from 2D to 3D for AR / VR|Each user interface item are created taking into 3D in consideration|
 |23|To work in offline and/or online|Since the brain is available in both client and server. So when internet is not available can work in offline and make it online later on! Note: client cannot hold all the neurons of a brain! |
-|24|The document can be used to do presentation without duplicating the content in another presentation document. It can be converted to video.|Since document is following a model we can do presentation without duplicates! Text to speech can be used to generate audio and document can generate images! Just need images and audios to create a video.|
+|24|The document can be used to do presentation without duplicating the content in another presentation document. It can be converted to video.|Since document is following a model we can do presentation without duplicates! Text to speech can be used to generate audio and document can generate images! Since text to speech is used the trainings can be done in any language the user desires, but exisitng video recording doesn't provide that benefit since once recorded difficult to modify for other languages! Just need images and audios to create a video.|
 
 ## What is a No Code Software?
 
