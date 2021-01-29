@@ -129,8 +129,8 @@ It is the new way for the application and documents! Hope developer recognise it
 |6|To add/change/remove components of the software dynamically|Human brain is a great example that adds and removes things dynamically. So designed a software brain to handle it. |
 |7|To parse and validate document|Categorise each document item so that can identify it|
 |8|To find documents that have one or more document items? For example to find food recipes that have tomato ingredient.|Categorise each document item so that can identify it while searching|
-|9|Searching each document items and creating the document is slow|Document items are sorted as per a searching algorithm or stored in search engine database. When searching will be faster! |
-|10|Have to create documents some times very fast|Disable the search and create document faster. Later parse the document and replace text with categorised document items! Until we use AI, prased document items needs confirmation from user! |
+|9|Searching each document items and creating the document is slow|Document items are sorted as per a searching algorithm or stored in search engine database. When searching will be faster! Auto complete in iOS while typing works fastly and hence this also can be made fast, if followed such thing done by auto complete! |
+|10|Have to create documents some times very fast|Disable the search and create document faster. Later parse the document and replace text with categorised document items! Until we use AI, prased document items needs confirmation from user! Auto complete in iOS while typing works fastly and hence this also can be made fast, if followed such thing done by auto complete!  |
 |11|Need to reused on document in other document|Just refer one or more documents in other documents. If source changes target also changes!|
 |12|Renaming a document item need to change in affected documents|A logic will automatically do this since there is a document reference put in each document item. |
 |13|Need a way to search the documents and user interface options|All document names and option names are stored as document item document so easy to search|
