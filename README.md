@@ -46,7 +46,7 @@ Universe docs brain is a web service that generates the view for the document, b
 4. We can have templates if we want to have customised presentation screens. Refer the main document in the templates rather than duplicating it.
 5. In the middle of presentation can look for graphical representation of a document item, translation of a document item, definition or details of a document item, etc.,
 6. Can search and jump to a specific presentation item since the document is in graphical format.
-7. Can attach documents to document items like notes, source code, image, video, animation, etc., 
+7. Can attach documents like notes, source code, image, video, animation, etc., to document items
 8. Can have a board to explain things in meeting using vector document. Just add the document item needed by searching. Use digital pencil to draw shapes and lines to explain things. For example you can use the document items of a training document to explain things in board. Since all the world knowledge can be put as document items, it is easy to explain anything in the board.
 
 ## Screen Diagrams 
