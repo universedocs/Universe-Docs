@@ -42,7 +42,7 @@ Universe docs brain is a web service that generates the view for the document, b
       c) If a vector diagram has children commands to highlight/animate/invoke action of a item and speak, then the vector diagram will remain in screen and the item will be highlighted/animated/invoked action and spoken.
 2. Since the documents are separated in to parts we can easily combine to form a curriculum and do the presentation for it, in the order it is appearing in presentation collection.
 3. Since the documents can be represented in multiple languages, the knowledge represented by the document can be known by all peoples regardless of language they speak. There are tools like Google Translate to do the job better, since it is already used to translate web page text languages.
-3. We can get the screen shots each steps of presentation and its audio to make video. Will help those who feel video is better. 
+3. We can get the screen shots (automatically by software or through screen recording application) each steps of presentation and its audio to make video. Will help those who feel video is better. 
 4. We can have templates if we want to have customised presentation screens. Refer the document in the templates rather than duplicating it.
 
 ## Screen Diagrams 
