@@ -257,6 +257,7 @@ No code software is a shift in how users interface with software tools! No need 
 3. Some other issues are randomly coming need to resolve
 4. Document item document management is redesigned to avoid duplicates. So it will not work fully!
 5. First time the application may not run. Next time runs properly! 
+6. Neuron codes are duplicated in client and server. To avoid dupliates, have to put each neuron in separate respositary! Code changes required. Use the neuron repositories in client and server!
 
 ## Some documents you can view in document map (the left view. search by typing in search bar) to check how document items look like
 
