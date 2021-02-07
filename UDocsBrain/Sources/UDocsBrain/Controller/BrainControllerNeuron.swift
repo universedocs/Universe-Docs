@@ -197,7 +197,7 @@ open class BrainControllerNeuron : Neuron {
             let json = jsonUtility.convertAnyObjectToJson(jsonObject: neuronRequestLocal)
             
     //        let baseUrl = "http://172.20.10.6:83"
-            let baseUrl = "http://192.168.1.5:83"
+            let baseUrl = "http://192.168.1.3:83"
     //        let baseUrl = "http://127.0.0.1:83"
     //        let baseUrl = "https://63.135.170.17"
     //        let baseUrl = "https://192.168.1.142:83"

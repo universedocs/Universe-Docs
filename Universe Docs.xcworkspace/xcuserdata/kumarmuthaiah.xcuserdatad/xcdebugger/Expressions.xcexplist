@@ -39,6 +39,14 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
+         contextName = "DetailViewController.pressesEnded(_:with:):DetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "key.characters">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "CallBrainControllerNeuron.setDendrite(neuronRequest:udbcDatabaseOrm:neuronUtility:):CallBrainControllerNeuron.swift">
          <PersistentStrings>
             <PersistentString
@@ -97,6 +105,14 @@
          </PersistentStrings>
       </ContextState>
       <ContextState
+         contextName = "TextToSpeechUtility.speak(player:text:voiceType:languageCode:pitch:speakingRate:):TextToSpeechUtility.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(data!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
          contextName = "UVCDocumentViewController.searchPressed():UVCDocumentViewController.swift">
          <PersistentStrings>
             <PersistentString
@@ -108,13 +124,13 @@
          contextName = "OptionViewController.loadOptions():OptionViewController.swift">
          <PersistentStrings>
             <PersistentString
-               value = "delegate">
-            </PersistentString>
-            <PersistentString
                value = "viewTitle">
             </PersistentString>
             <PersistentString
                value = "self.hash">
+            </PersistentString>
+            <PersistentString
+               value = "delegate">
             </PersistentString>
          </PersistentStrings>
       </ContextState>

@@ -7,48 +7,48 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "F87EDEAC-ED06-4752-872D-EE984073EE2B"
+            uuid = "4D741409-4E6F-49F9-8595-273B79ABA059"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Universe Docs/Controller/View/UVCDocumentViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1005"
-            endingLineNumber = "1005"
-            landmarkName = "optionViewControllerEvent(uvcViewItemType:eventName:uvcObject:uiObject:optionViewCell:uvcOptionViewModel:parentIndex:callerObject:operationName:)"
+            startingLineNumber = "2413"
+            endingLineNumber = "2413"
+            landmarkName = "loadPhotoData()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "384BEA80-98F9-42F2-A836-28C8313279C3"
+            uuid = "221CE4ED-882D-4DE3-BCDC-D43ED56D8FA2"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Universe Docs/Controller/View/UVCDocumentViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "2260"
-            endingLineNumber = "2260"
-            landmarkName = "handleDocumentGetView(neuronRequest:)"
+            startingLineNumber = "1858"
+            endingLineNumber = "1858"
+            landmarkName = "handlePhoto(neuronRequest:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "E50135D2-A57D-4C20-B3C1-818430192C7C"
+            uuid = "37FCADA1-8AE8-40F4-8AF2-1F880AF7CFE6"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Universe Docs/Controller/View/UVCDocumentViewController.swift"
+            filePath = "Universe Docs/Controller/View/DetailViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "700"
-            endingLineNumber = "700"
-            landmarkName = "searchPressed()"
+            startingLineNumber = "828"
+            endingLineNumber = "828"
+            landmarkName = "textToSpeechCommand(keyCommand:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

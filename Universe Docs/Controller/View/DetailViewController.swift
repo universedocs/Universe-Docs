@@ -27,6 +27,7 @@ import UDocsOptionMapNeuronModel
 import PDFKit
 import UDocsUtility
 import AVKit
+import UDocsDocumentUtility
 
 private let reuseIdentifier = "DetailViewCell"
 private let sectionInsets = UIEdgeInsets(top: 50.0, left: 20.0, bottom: 50.0, right: 20.0)
@@ -180,6 +181,7 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
     public var isSearchBoxVisible: Bool = true
     public var isDocumentItemEditable: Bool = false
     public var isLetterSpaceLocked: Bool = false
+    public var isDoubleQuoteLocked: Bool = false
     public var isSearchEnabled: Bool = true
     public var isPopup: Bool = false
     public var popupUdcDocumentTypeIdName: String = ""
@@ -190,7 +192,7 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
     //    public var isTextEditedBefore: Bool = false
     
     public var toolbar: UIToolbar?
-    
+    var alertController:UIAlertController?
  
     func deleteFile(fileName: String) throws {
         let paths = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)
@@ -279,7 +281,7 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
     override func viewWillAppear(_ animated: Bool) {
         setDocumentTitle(title: getDocumentTitle())
     }
-    
+    let uiTextView = UITextView()
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -287,6 +289,9 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
         notificationCenter.addObserver(self, selector: #selector(adjustForKeyboard), name: UIResponder.keyboardWillHideNotification, object: nil)
         notificationCenter.addObserver(self, selector: #selector(adjustForKeyboard), name: UIResponder.keyboardWillChangeFrameNotification, object: nil)
         
+        
+        
+       
         setDocumentTitle(title: getDocumentTitle())
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         optionViewNavigationController = storyboard.instantiateViewController(
@@ -750,16 +755,53 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
         }
     }
     
+    override func pressesEnded(_ presses: Set<UIPress>, with event: UIPressesEvent?) {
+        // Stop running when the user releases the left or right arrow key.
+
+        var didHandleEvent = false
+        for press in presses {
+            guard let key = press.key else { continue }
+            if key.charactersIgnoringModifiers == UIKeyCommand.inputUpArrow {
+                uvcViewController.handleArrowKeys(name: "UpDirectionArrow")
+                didHandleEvent = true
+            } else if key.charactersIgnoringModifiers == UIKeyCommand.inputDownArrow {
+                uvcViewController.handleArrowKeys(name: "DownDirectionArrow")
+                didHandleEvent = true
+            } else if key.charactersIgnoringModifiers == UIKeyCommand.inputLeftArrow {
+                let searchBox = collectionView.cellForItem(at: NSIndexPath(item: currentItemIndex, section: currentNodeIndex) as IndexPath) as! DetailViewCell
+                let uiTextField = searchBox.uvcViewController.uvcUIViewControllerItemCollection.getTextField(tag: 0, name: "UDCDocumentItemMapNode.SearchDocumentItems")?.uiTextField
+                if uiTextField!.text!.isEmpty {
+                    uvcViewController.handleArrowKeys(name: "LeftDirectionArrow")
+                    didHandleEvent = true
+                }
+            } else if key.charactersIgnoringModifiers == UIKeyCommand.inputRightArrow {
+                let searchBox = collectionView.cellForItem(at: NSIndexPath(item: currentItemIndex, section: currentNodeIndex) as IndexPath) as! DetailViewCell
+                let uiTextField = searchBox.uvcViewController.uvcUIViewControllerItemCollection.getTextField(tag: 0, name: "UDCDocumentItemMapNode.SearchDocumentItems")?.uiTextField
+                if uiTextField!.text!.isEmpty {
+                    uvcViewController.handleArrowKeys(name: "RightDirectionArrow")
+                    didHandleEvent = true
+                }
+            }
+            
+        }
+        
+        if didHandleEvent == false {
+            // Didn't handle this key press, so pass the event to the next responder.
+            super.pressesBegan(presses, with: event)
+        }
+    }
+    
     override var keyCommands: [UIKeyCommand]? {
         return [
+            UIKeyCommand.init(input: "e", modifierFlags: [.command], action: #selector(textToSpeechCommand)),
+            // F3 function key
+            UIKeyCommand.init(input: UIKeyCommand.f3, modifierFlags: [], action: #selector(searchOnOffPressed)),
+            // F4 function key
+            UIKeyCommand.init(input: UIKeyCommand.f4, modifierFlags: [], action: #selector(letterSpacePressed)),
             // Command + Shift + "d"                    : Delete
             UIKeyCommand.init(input: "d", modifierFlags: [.command, .shift], action: #selector(deleteLinePressed)),
             // Command + "d"                    : Delete
             UIKeyCommand.init(input: "d", modifierFlags: [.command], action: #selector(deletePressed)),
-            // Command + "l"                    : Lock spaces
-            UIKeyCommand.init(input: "l", modifierFlags: [.command], action: #selector(letterSpaceLockPressed)),
-            // Command + "r"           : Search on or off
-            UIKeyCommand.init(input: "r", modifierFlags: [.command], action: #selector(searchOnOffPressed)),
             // Command + Option + "f"           : Format
             UIKeyCommand.init(input: "f", modifierFlags: [.command, .alternate], action: #selector(formatPressed)),
             // Command + Option + "t"           : Configuration
@@ -772,23 +814,59 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
             UIKeyCommand.init(input: "v", modifierFlags: [.command, .alternate], action: #selector(viewPressed)),
             // Command + Option + "o"           : Options
             UIKeyCommand.init(input: "o", modifierFlags: [.command, .alternate], action: #selector(optionPressed)),
-            // Command + Up Arrow               : Up Arrow
-            UIKeyCommand.init(input: UIKeyCommand.inputUpArrow, modifierFlags: [.command], action: #selector(upArrow)),
-            // Command + Down Arrow             : Down Arrow
-            UIKeyCommand.init(input: UIKeyCommand.inputDownArrow, modifierFlags: [.command], action: #selector(downArrow)),
-            // Command + Left Arrow             : Left Arrow
-            UIKeyCommand.init(input: UIKeyCommand.inputLeftArrow, modifierFlags: [.command], action: #selector(leftArrow)),
-            // Command + Right Arrow            : Right Arrow
-            UIKeyCommand.init(input: UIKeyCommand.inputRightArrow, modifierFlags: [.command], action: #selector(rightArrow)),
-            // Command + Option + Left Arrow    : Home
-            UIKeyCommand.init(input: UIKeyCommand.inputLeftArrow, modifierFlags: [.command, .alternate], action: #selector(homePressed)),
-            // Command + Option + Right Arrow   : End
-            UIKeyCommand.init(input: UIKeyCommand.inputRightArrow, modifierFlags: [.command, .alternate], action: #selector(endPressed)),
-            // Command + Option + Up Arrow      : Page Home
-            UIKeyCommand.init(input: UIKeyCommand.inputUpArrow, modifierFlags: [.command, .alternate], action: #selector(pageHomePressed)),
-            // Command + Option + Down Arrow    : Page End
-            UIKeyCommand.init(input: UIKeyCommand.inputDownArrow, modifierFlags: [.command, .alternate], action: #selector(pageEndPressed))
+            // Command + Left Arrow    : Home
+            UIKeyCommand.init(input: UIKeyCommand.inputLeftArrow, modifierFlags: [.command], action: #selector(homePressed)),
+            // Command + Right Arrow   : End
+            UIKeyCommand.init(input: UIKeyCommand.inputRightArrow, modifierFlags: [.command], action: #selector(endPressed)),
+            // Command + Up Arrow      : Page Home
+            UIKeyCommand.init(input: UIKeyCommand.inputUpArrow, modifierFlags: [.command], action: #selector(pageHomePressed)),
+            // Command + Down Arrow    : Page End
+            UIKeyCommand.init(input: UIKeyCommand.inputDownArrow, modifierFlags: [.command], action: #selector(pageEndPressed))
         ]
+    }
+    @objc public func textToSpeechCommand(keyCommand: UIKeyCommand) {
+        alertController = UIAlertController(title: "Enter Text",
+                                            message: "Enter some text below",
+                                            preferredStyle: .alert)
+        alertController!.addTextField(
+            configurationHandler: {(textField: UITextField!) in
+                        textField.placeholder = "Enter something"
+                })
+        
+        let action = UIAlertAction(title: "Submit",
+                                   style: UIAlertAction.Style.default,
+                                   handler: {[weak self]
+                                    (paramAction:UIAlertAction!) in
+                                    if let textFields = self!.alertController?.textFields{
+                                        let theTextFields = textFields as [UITextField]
+                                        let enteredText = theTextFields[0].text
+                                        self!.textToSpeech(text: enteredText!)
+                                        
+                                    }
+                                   })
+        alertController?.addAction(action)
+        self.present(alertController!,
+                                       animated: true,
+                                       completion: nil)
+    }
+    @objc public func textToSpeech(text: String)
+    {
+        
+        let textToSpeechUtility = TextToSpeechUtility()
+        do {
+            try textToSpeechUtility.speak(player: &aviAudioPlayer, text: "Ready 1 2 3 4 5 6 7 8 9 ten. \(text)", voiceType: .englishStandardMale, languageCode: .englishUS, pitch: 0, speakingRate: 0)
+        } catch {
+            print("Text to speech error: \(error)")
+        }
+    }
+    
+    @objc public func letterSpacePressed(keyCommand: UIKeyCommand)
+    {
+        if isLetterSpaceLocked {
+            isLetterSpaceLocked = false
+        } else {
+            isLetterSpaceLocked = true
+        }
     }
     
     @objc public func deleteLinePressed(keyCommand: UIKeyCommand)
@@ -806,14 +884,10 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
         uvcViewController.formatPressed(keyCommand: keyCommand)
     }
     
+    // Can use single key (function key) to enable or disable instead of "Command" + "l"
     @objc public func searchOnOffPressed(keyCommand: UIKeyCommand)
     {
         uvcViewController.searchOnOffPressed(keyCommand: keyCommand)
-    }
-    
-    @objc public func letterSpaceLockPressed(keyCommand: UIKeyCommand)
-    {
-        uvcViewController.letterSpaceLockPressed(keyCommand: keyCommand)
     }
     
     @objc public func configurationPressed(keyCommand: UIKeyCommand)
@@ -891,13 +965,13 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
     
     public func setDocumentTitle(title: String) {
         
-        if (UIDevice.current.userInterfaceIdiom == .pad) {
-            //            self.title = title
-            self.navigationController?.navigationBar.topItem?.title = title
-            //                   self.navigationItem.title = title
-        } else {
-            self.tabBarController!.navigationItem.title = title
-        }
+//        if (UIDevice.current.userInterfaceIdiom == .pad) {
+//            //            self.title = title
+////            self.navigationController?.navigationBar.topItem?.title = title
+//                               self.navigationItem.title = title
+//        } else {
+            self.tabBarController!.navigationItem.title = "சாம்பார்"
+//        }
         if isPopup {
             setRightButton(name: ["UDCOptionMapNode.Done"])
         } else {
@@ -967,7 +1041,8 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
                 //                if self.navigationItem.title != nil {
                 //                    self.activityIndicatorTitle = self.navigationItem.title!
                 //                }
-                self.navigationItem.title = activityDescription
+                self.navigationItem.title = ""
+                self.setTabBarItems(item: [""])
 //                self.navigationItem.titleView = self.activityIndicator
             } else {
                 //                if self.tabBarController!.navigationItem.title != nil {

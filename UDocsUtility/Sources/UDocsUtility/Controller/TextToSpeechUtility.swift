@@ -61,7 +61,7 @@ public enum languageCode: String {
 
 let ttsAPIUrl = "https://texttospeech.googleapis.com/v1beta1/text:synthesize"
 
-let APIKey = "AIzaSyDJ8nljsfXfyMzkQPx4dmim_mgDKeZCAwY"
+let APIKey = "[api key]"
 
 public class TextToSpeechUtility: NSObject, AVAudioPlayerDelegate {
     

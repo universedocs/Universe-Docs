@@ -555,22 +555,27 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
             let uiTextField = uiObject as! UITextField
             let uvcDocumentGraphModel = detailViewCell.uvcDocumentGraphModel!
             if detailViewController!.uvcDocumentGraphModelList[detailViewCell.section].uvcViewModel[detailViewCell.index].uvcViewItemCollection.uvcText[0].name == "UDCDocumentItemMapNode.SearchDocumentItems" {
-                let searchText = uiTextField.text!.trimmingCharacters(in: .whitespaces)
+                var searchText = uiTextField.text!.trimmingCharacters(in: .whitespaces)
                 if searchText.isEmpty {
                     uiTextField.text = ""
                     return
                 }
                 detailViewController!.searchText = searchText
-//                if uiTextField.text!.characters.last == " " && !detailViewController!.isLetterSpaceLocked {
-//                    if detailViewController!.isSearchEnabled {
-//                        let newSender = (detailViewController!.collectionView.cellForItem(at: NSIndexPath(item: detailViewController!.currentItemIndex, section: detailViewController!.currentNodeIndex) as IndexPath) as! DetailViewCell).getViewController().uvcUIViewControllerItemCollection.getTextField()?.uiTextField
-//                        print(newSender?.text)
-//                        searchAndinsertItem(section: detailViewController!.currentNodeIndex, index: detailViewController!.currentItemIndex, level: detailViewController!.currentLevel, sender: newSender)
-//                    } else {
-//                        insertItem(section: detailViewCell.section, index: detailViewCell.index, level: detailViewCell.level, searchText: searchText, itemData: "", uvOptionViewModel: UVCOptionViewModel(), documentGraphInsertItemRequestParam: nil, parentIndex: 0)
-//                    }
-//                    return
-//                }
+                if uiTextField.text!.characters.last == " " && !detailViewController!.isLetterSpaceLocked {
+                    if detailViewController!.isSearchEnabled {
+                        let newSender = (detailViewController!.collectionView.cellForItem(at: NSIndexPath(item: detailViewController!.currentItemIndex, section: detailViewController!.currentNodeIndex) as IndexPath) as! DetailViewCell).getViewController().uvcUIViewControllerItemCollection.getTextField()?.uiTextField
+                        print(newSender?.text)
+                        searchAndinsertItem(section: detailViewController!.currentNodeIndex, index: detailViewController!.currentItemIndex, level: detailViewController!.currentLevel, sender: newSender)
+                    } else {
+                        // ********
+                        // ******** There is a performance issue here
+                        // ********
+                        // This delays for each word (since to server and back takes time) so need to save it locally (offline). User as to manually notify the application to make it online! Making it online means replace the model in the server with the client prepared model! If the user enables search then have to sync with server and then allow to edit!
+                        insertItem(section: detailViewCell.section, index: detailViewCell.index, level: detailViewCell.level, searchText: searchText, itemData: "", uvOptionViewModel: UVCOptionViewModel(), documentGraphInsertItemRequestParam: nil, parentIndex: 0)
+                    }
+                
+                    return
+                }
             }
         } else if uvcViewItemType == "UVCViewItemType.Button" && eventName == "UVCViewItemEvent.Button.Pressed" {
             let uvcButton = uvcObject as! UVCButton
@@ -635,7 +640,7 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
         
     }
     
-    private func deleteItem() {
+    public func deleteItem() {
         //            It is the root of the document so return
         let documentGraphDeleteItemRequest = DocumentGraphDeleteItemRequest()
         documentGraphDeleteItemRequest.documentId = detailViewController!.documentId
@@ -772,15 +777,6 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
         optionAction(sender: nil)
     }
     
-    public func letterSpaceLockPressed(keyCommand: UIKeyCommand)
-    {
-        if !detailViewController!.isLetterSpaceLocked {
-            detailViewController!.isLetterSpaceLocked = true
-        } else {
-            detailViewController!.isLetterSpaceLocked = false
-        }
-    }
-    
     public func searchOnOffPressed(keyCommand: UIKeyCommand)
     {
         if !detailViewController!.isSearchEnabled {
@@ -860,8 +856,6 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
             detailViewController!.isEditableMode = true
             ApplicationSetting.DocumentLanguage = "en"
             
-            // document item document items
-                        detailViewController!.documentId = "5f3ab9039f428041de484be6"
             // document permissions
 //            detailViewController!.documentId = "5fc675d92667c07ef864684e"
 
@@ -967,28 +961,75 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
             
 //            ApplicationSetting.DocumentType = "UDCDocumentType.Photo"
 //            detailViewController!.documentId = "5f675031f308bc3bd34e5a4d"
-//            ApplicationSetting.DocumentType = "UDCDocumentType.FoodRecipe"
-//            detailViewController!.documentId = "5e4bc9397241cc5b146756c7"
+//                        ApplicationSetting.DocumentType = "UDCDocumentType.EmailProfile"
+            ApplicationSetting.DocumentType = "UDCDocumentType.FoodRecipe"
+            detailViewController!.documentId = "5e4bc9397241cc5b146756c7"
+//            detailViewController!.documentId = "5e4bc92d7241cc5b1467562d"
 //                        detailViewController!.documentId = "5e4bc61b7241cc5b14674dd4"
 //                        ApplicationSetting.DocumentType = "UDCDocumentType.DocumentAccessRole"
-            ApplicationSetting.DocumentType = "UDCDocumentType.DocumentItem"
+//            ApplicationSetting.DocumentType = "UDCDocumentType.DiviWordPressTheme"
+//            ApplicationSetting.DocumentType = "UDCDocumentType.DocumentItem"
 //            ApplicationSetting.DocumentType = "UDCDocumentType.DocumentAccess"
 //            ApplicationSetting.DocumentType = "UDCDocumentType.DocumentHistory"
 //            ApplicationSetting.DocumentType = "UDCDocumentType.Document"
 //            ApplicationSetting.DocumentType = "UDCDocumentType.User"
             detailViewController!.isEditableMode = true
-            ApplicationSetting.DocumentLanguage = "en"
-//            ApplicationSetting.DocumentLanguage = "ta"
+//            ApplicationSetting.DocumentLanguage = "en"
+            ApplicationSetting.DocumentLanguage = "ta"
             // photo view detail
 //            detailViewController!.documentId = "5f6703870282b7462d636ec2"
             // photo document items
 //            detailViewController!.documentId = "5f670d50f308bc3bd34e4de7"
             // user (blank)
 //            detailViewController!.documentId = "5fce3425a1a8ba5090044fcc"
-            
+            // document item map
+//            detailViewController!.documentId = "5ff2aafecef83d17dc6ff56d"
+            // document item configuration document items
+//            detailViewController!.documentId = "5ff3151a5acff629a63caee5"
+            // Document item configuration details
+//            detailViewController!.documentId = "5e14a3b115a5aa5adc2c011f"
+            // food recipe document items
+//            detailViewController!.documentId = "5ff3249790b2be2b7e2c1c23"
+//             sambar title photo
+//            detailViewController!.documentId = "5e514fd414f30e61e21ab7a9"
+            // document item document items
+//            detailViewController!.documentId = "5ff2c10ffa9dae25865f26aa"
+            // ingredient document items
+//            detailViewController!.documentId = "5ff32a3590b2be2b7e2c1e08"
+            // human profile document items
+//            detailViewController!.documentId = "5ff32c4790b2be2b7e2c1f8e"
+            // human profile
+//            detailViewController!.documentId = "5e3029127f303f1c6c4e1c71"
+            // email profile document items
+//            detailViewController!.documentId = "5ff32d8790b2be2b7e2c2123"
+            // email profile details
+//            detailViewController!.documentId = "5e37c5d099313a5ac567a1be"
+            // email profile
+//            detailViewController!.documentId = "5e3244920695c87cb87a343c"
+            // time unit document items
+//            detailViewController!.documentId = "5ff407981408d247070934f4"
+            // time unit
+//            detailViewController!.documentId = "5e3c12ba5e783f39257c43b2"
+            // cuisine detail
+//            detailViewController!.documentId = "5e3ff33253bbd15fdd6323e8"
+            // divi word press theme
+//            detailViewController!.documentId = "5ff59218ee46662d0b77ce84"
+            // document item docuemnts
+//            detailViewController!.documentId = "60001c7b1af7f1507c181f4a"
+            // cuisine document items
+//            detailViewController!.documentId = "5ff408291408d2470709367a"
+            // button document items
+//            detailViewController!.documentId = "5ff408fe1408d24707093800"
+            // human profile detial
+//            detailViewController!.documentId = "5e3198dbf2528f20927cac60"
+            // ingredient details
+//            detailViewController!.documentId = "5e2431e3d80009284a7593b0"
+            // blank email profile
+//            detailViewController!.documentId = "5ff45d2e5fd79b390d7c46a8"
+//            detailViewController!.documentId = "5e37dc38a9cd43693c6d8254"
             
             // food recipe documents
-            detailViewController!.documentId = "5fad1275a4cbd255381bb017"
+//            detailViewController!.documentId = "5fad1275a4cbd255381bb017"
             // document item documents
 //            detailViewController!.documentId = "5fae44da34786b642d0ea2bc"
             
@@ -1060,6 +1101,10 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
 //            detailViewController!.documentId = "5fc509a1de3d6b63db23a632"
             // food ingredient document
 //            detailViewController!.documentId = "5fc61c3b46a8a3325d2f9c34"
+            // sambar photo
+//            detailViewController!.documentId = "5e5129a8710eb465e51727f4"
+            // sambar title photo
+//            detailViewController!.documentId = "5e514fd414f30e61e21ab7a9"
             
             // desktop computer
 //            detailViewController!.documentId = "5fbfc0695e60c81b596a7940"
@@ -1069,8 +1114,6 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
 //            detailViewController!.documentId = "5fbced90f35a7f0a877f8ad0"
             // tablet computer
 //            detailViewController!.documentId = "5fbcdb3af35a7f0a877f6709"
-            // document item document items
-//                        detailViewController!.documentId = "5fc8ba3d21c33c6fc847110d"
             // administrator (document access role)
 //            detailViewController!.documentId = "5fc8cece21c33c6fc8472e07"
             // broadbeans sambar title photo
@@ -1115,9 +1158,12 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
 //            detailViewController!.documentId = "5f5312838e51ad07752d27f0"
 //            try getDocumentView(editMode: true, objectType: "UDCDocumentType.Photo", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
 //            try getDocumentView(editMode: true, objectType: "UDCDocumentType.KnowledgeOverview", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
-//            try getDocumentView(editMode: true, objectType: "UDCDocumentType.FoodRecipe", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
+            try getDocumentView(editMode: true, objectType: "UDCDocumentType.FoodRecipe", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
+            
+//                        try getDocumentView(editMode: true, objectType: "UDCDocumentType.EmailProfile", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
 //            try getDocumentView(editMode: true, objectType: "UDCDocumentType.SwiftProgrammingLanguage", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
-            try getDocumentView(editMode: true, objectType: "UDCDocumentType.DocumentItem", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
+//            try getDocumentView(editMode: true, objectType: "UDCDocumentType.DocumentItem", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
+//            try getDocumentView(editMode: true, objectType: "UDCDocumentType.DiviWordPressTheme", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
 //            try getDocumentView(editMode: true, objectType: "UDCDocumentType.Document", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
 //            try getDocumentView(editMode: true, objectType: "UDCDocumentType.DocumentHistory", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
 //            try getDocumentView(editMode: true, objectType: "UDCDocumentType.DocumentAccessRole", isToGetDuplicate: false, isToCheckIfFound: false, language: nil, isToLaunchDetailedView: false, isToLaunchConfigurationView: false, isDocumentMapView: false, isFormatView: false)
@@ -1508,6 +1554,7 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
                 detailViewController!.documetSentenceSearchBox?.text = uvcOptionViewModel.getText(name: "Name")!.value
                 let documentGraphInsertItemRequestParam = DocumentGraphInsertItemRequest()
                 documentGraphInsertItemRequestParam.isOption = true
+                documentGraphInsertItemRequestParam.item = uvcOptionViewModel.getText(name: "Name")!.value
                 if uvcOptionViewModel.idName.hasPrefix("UDCPhotoDocument") {
                     detailViewController!.uvcViewItemType = "UVCViewItemType.Photo"
                 } else {
@@ -1808,6 +1855,7 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
                         "documentGraphGetPhotoRequest": documentGraphGetPhotoRequest]])
                     self.detailViewController!.sendRequest(sourceName: self.detailViewController!.sourceName)
                 } else {
+                    self.detailViewController!.setDocumentTitle(title: "solar system")
 //                    let paths = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask)
 //                    let docDirectoryPath = paths[0]
 //                    let pdfPath = docDirectoryPath.appendingPathComponent("viewPdf1.pdf")
@@ -2291,6 +2339,7 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
             self.detailViewController!.documentTitle = getDocumentGraphViewResponse.documentTitle.capitalized
             self.detailViewController!.collectionView.reloadData()
             
+
         
             //        detailViewController!.scrollToCurrent()
             
@@ -2360,6 +2409,8 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
                     "documentGraphGetPhotoRequest": documentGraphGetPhotoRequest]])
                 
                 self.detailViewController!.sendRequest(sourceName: self.detailViewController!.sourceName)
+            } else {
+                self.detailViewController!.setDocumentTitle(title: "solar system")
             }
         }
     }
@@ -2405,7 +2456,7 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
         }
     }
     
-    private func focusSearchBox() {
+    public func focusSearchBox() {
         
         let searchBoxObject = detailViewController!.collectionView.cellForItem(at: NSIndexPath(item: (detailViewController?.currentItemIndex)!, section: detailViewController!.currentNodeIndex) as IndexPath)
         if searchBoxObject != nil {
@@ -2894,7 +2945,7 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
         
     }
     
-    private func handleArrowKeys(name: String) {
+    public func handleArrowKeys(name: String) {
         if name == "LeftDirectionArrow" {
             if detailViewController!.currentItemIndex == 1 {
                 print("cursorIndex: \(detailViewController!.currentItemIndex)")
@@ -3360,6 +3411,7 @@ public class UVCDocumentViewController : UVCDetailViewCellDelegate,  OptionViewC
             return
         } else {
             searchPressed()
+            
         }
     }
     
