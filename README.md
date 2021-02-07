@@ -28,7 +28,7 @@ This project is partially done! Once completed it will benefit!
 
 It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
 
-Each document items (text, photo, video, animation, button, link, upload document, download document or share button) in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! 
+Each document items (text, photo, video, animation, button, link, upload document, download document or share button) in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It also allows to create applications using set of documents! Document item search can be enabled or disabled, to create document fast.
 
 If you tap or click a document item in document then other items of the same category shows and you can change it! If you click a photo other photos of same category shows up!
 
