@@ -12,11 +12,9 @@
 ## -- Can export to file and print hard copy
 ## -- Use it online and/or offline mode
 
-**NOTE 1**: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
+**NOTE 1**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
 
-**NOTE 2**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
-
-**NOTE 3**: Software is free and open source so that all can use it, can include any valuable feature user needs no restrictions! Contents and usage may be paid or free, so still can earn money! Can share profit! 
+**NOTE 2**: Software is free and open source so that all can use it, can include any valuable feature user needs no restrictions! Contents and usage may be paid or free, so still can earn money! Can share profit! 
 
 Required developers see end of the document! 
 
@@ -257,7 +255,7 @@ No code software is a shift in how users interface with software tools! No need 
 1. The udcdocument is not changing the document name when document title is changed. Also the language title is not changing!
 2. Some document items are not in natural order
 3. Some other issues are randomly coming need to resolve
-4. Due to database issue application is not running properly. It is resolvable!
+4. Document item document management is redesigned to avoid duplicates. So it will not work fully!
 
 ## Some documents you can view in document map (the left view. search by typing in search bar) to check how document items look like
 
@@ -298,7 +296,7 @@ Some document items are not linked to document map yet so you need to use the do
 2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
 
 ## Other files needed to run this project 
-1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december). Due to this issue application not working properly.
+1. Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing
 
 ## Social and websites blocked for this project
 1. **Application website**: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
