@@ -24,7 +24,7 @@ This project is partially done! Once completed it will benefit!
 
 ## Introduction 
 
-It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
+It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library, database management. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
 
 ## Screen Shots
 
