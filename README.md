@@ -34,7 +34,7 @@ A Document item can be a text, photo, video, animation, button, link, upload doc
 
 Universe docs brain is a web service that generates the view for the document, based on the device! The view is displayed in the client app "Universe Docs". The client app can be running in any platform the user desires! The view model is platform independent! Universe docs brain is nothing but set of neurons that is doing specific tasks!
 
-## Document can be presentable without duplicates
+## Document can be presentable without duplicates (Hence a great training tool along with other features)
 
 1. Each photo/video/animation/text/vector diagram can have childrens. 
       a) If photo have text-to-speech children's then the photo will remain in screen and the text-to-speech will run in background. Google Text-To-Speech supports large number of languages. 
@@ -42,8 +42,12 @@ Universe docs brain is a web service that generates the view for the document, b
       c) If a vector diagram has children commands to highlight/animate/invoke action of a item and speak, then the vector diagram will remain in screen and the item will be highlighted/animated/invoked action and spoken.
 2. Since the documents are separated in to parts we can easily combine to form a curriculum and do the presentation for it, in the order it is appearing in presentation collection.
 3. Since the documents can be represented in multiple languages, the knowledge represented by the document can be known by all peoples regardless of language they speak. There are tools like Google Translate to do the job better, since it is already used to translate web page text languages.
-3. We can get the screen shots (automatically by software or through screen recording application) each steps of presentation and its audio to make video. Will help those who feel video is better. 
-4. We can have templates if we want to have customised presentation screens. Refer the document in the templates rather than duplicating it.
+3. We can get the screen shots (automatically by Universe Docs or through screen recording application) each steps of presentation and its audio to make video. Will help those who feel video is better. 
+4. We can have templates if we want to have customised presentation screens. Refer the main document in the templates rather than duplicating it.
+5. In the middle of presentation can look for graphical representation of a document item, translation of a document item, definition or details of a document item, etc.,
+6. Can search and jump to a specific presentation item since the document is in graphical format.
+7. Can attach documents to document items like notes, source code, image, video, animation, etc., 
+8. Can have a board to explain things in meeting using vector document. Just add the document item needed by searching. Use digital pencil to draw shapes and lines to explain things. For example you can use the document items of a training document to explain things in board. Since all the world knowledge can be put as document items, it is easy to explain anything in the board.
 
 ## Screen Diagrams 
 
