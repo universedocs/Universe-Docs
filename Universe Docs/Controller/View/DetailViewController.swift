@@ -965,13 +965,13 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
     
     public func setDocumentTitle(title: String) {
         
-//        if (UIDevice.current.userInterfaceIdiom == .pad) {
-//            //            self.title = title
-////            self.navigationController?.navigationBar.topItem?.title = title
-//                               self.navigationItem.title = title
-//        } else {
-            self.tabBarController!.navigationItem.title = "சாம்பார்"
-//        }
+        if (UIDevice.current.userInterfaceIdiom == .pad) {
+            //            self.title = title
+//            self.navigationController?.navigationBar.topItem?.title = title
+                               self.navigationItem.title = title
+        } else {
+            self.tabBarController!.navigationItem.title = title
+        }
         if isPopup {
             setRightButton(name: ["UDCOptionMapNode.Done"])
         } else {
@@ -1041,8 +1041,8 @@ class DetailViewController: UICollectionViewController, UIPopoverPresentationCon
                 //                if self.navigationItem.title != nil {
                 //                    self.activityIndicatorTitle = self.navigationItem.title!
                 //                }
-                self.navigationItem.title = ""
-                self.setTabBarItems(item: [""])
+                self.navigationItem.title = activityDescription
+//                self.setTabBarItems(item: [activityDescription])
 //                self.navigationItem.titleView = self.activityIndicator
             } else {
                 //                if self.tabBarController!.navigationItem.title != nil {
