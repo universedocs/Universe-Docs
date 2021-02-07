@@ -28,27 +28,6 @@ This project is partially done! Once completed it will benefit!
 
 It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
 
-Each document items (text, photo, video, animation, button, link, upload document, download document or share button) in the document are searchable and added to the document! The document items are categorised graphically for easier understanding! It also allows to create applications using set of documents! Document item search can be enabled or disabled, to create document fast.
-
-If you tap or click a document item in document then other items of the same category shows and you can change it! If you click a photo other photos of same category shows up!
-
-Universe docs brain is a web service that generates the view for the document, based on the device! The view is displayed in the client app "Universe Docs". The client app can be running in any platform the user desires! The view model is platform independent! Universe docs brain is nothing but set of neurons that is doing specific tasks!
-
-## Document can be presentable without duplicates (Hence a great training tool along with other features)
-
-1. Each photo/video/animation/text/vector diagram can have childrens. 
-      a) If photo have text-to-speech children's then the photo will remain in screen and the text-to-speech will run in background. Google Text-To-Speech supports large number of languages. 
-      b) If photo have audio then the photo will remain in screen and the audio will be spoken
-      c) If a vector diagram has children commands to highlight/animate/invoke action of a item and speak, then the vector diagram will remain in screen and the item will be highlighted/animated/invoked action and spoken.
-2. Since the documents are separated in to parts we can easily combine to form a curriculum and do the presentation for it, in the order it is appearing in presentation collection.
-3. Since the documents can be represented in multiple languages, the knowledge represented by the document can be known by all peoples regardless of language they speak. There are tools like Google Translate to do the job better, since it is already used to translate web page text languages.
-3. We can get the screen shots (automatically by Universe Docs or through screen recording application) each steps of presentation and its audio to make video. Will help those who feel video is better. 
-4. We can have templates if we want to have customised presentation screens. Refer the main document in the templates rather than duplicating it.
-5. In the middle of presentation can look for graphical representation of a document item, translation of a document item, definition or details of a document item, etc.,
-6. Can search and jump to a specific presentation item since the document is in graphical format.
-7. Can attach documents like notes, source code, image, video, animation, etc., to document items
-8. Can have a board to explain things in meeting using vector document. Just add the document item needed by searching. Use digital pencil to draw shapes and lines to explain things. For example you can use the document items of a training document to explain things in board. Since all the world knowledge can be put as document items, it is easy to explain anything in the board.
-
 ## Screen Diagrams 
 
 Since don't have screen shots now! 
@@ -102,6 +81,22 @@ This shows the introduction document! Like this there will be large number of do
 1. Since each document item or text is searched and added to the document, it will be slow. Our brain is designed to handle things slowly and it is better to do things slowly! We humans do everything fast and is a problem! It doesn't mean it is designed to delay user, but we can disable search, make the search faster using search alogrithms, indexing, etc.,
 2. We need to devote time to cateogrise document items of each document, but the time we spend for it benefits us later! Categorisation also can be done later (disable document item search) so that documents can be created in urgent cases! Since the document is categorised it is easy to understand. It is used to get details of each document item from document itself! Categorisation can be made fast by using human like information gathering technologies like image recognition, speech recognition, video recognition, sound recognition, information search, AI, ML, etc.,
 3. Editing interface uses text box to move between document items! Can customise the view to look like well known document editiors! I don't have time to do this! 
+
+## Document can be presentable without duplicates (Hence a great training tool along with other features)
+
+1. Each photo/video/animation/text/vector diagram can have childrens. 
+      a) If photo have text-to-speech children's then the photo will remain in screen and the text-to-speech will run in background. Google Text-To-Speech supports large number of languages. 
+      b) If photo have audio then the photo will remain in screen and the audio will be spoken
+      c) If a vector diagram has children commands to highlight/animate/invoke action of a item and speak, then the vector diagram will remain in screen and the item will be highlighted/animated/invoked action and spoken.
+2. Since the documents are separated in to parts we can easily combine to form a curriculum and do the presentation for it, in the order it is appearing in presentation collection.
+3. Since the documents can be represented in multiple languages, the knowledge represented by the document can be known by all peoples regardless of language they speak. There are tools like Google Translate to do the job better, since it is already used to translate web page text languages.
+3. We can get the screen shots (automatically by Universe Docs or through screen recording application) each steps of presentation and its audio to make video. Will help those who feel video is better. 
+4. We can have templates if we want to have customised presentation screens. Refer the main document in the templates rather than duplicating it.
+5. In the middle of presentation can look for graphical representation of a document item, translation of a document item, definition or details of a document item, etc.,
+6. Can search and jump to a specific presentation item since the document is in graphical format.
+7. Can attach documents like notes, source code, image, video, animation, etc., to document items
+8. Can have a board to explain things in meeting using vector document. Just add the document item needed by searching. Use digital pencil to draw shapes and lines to explain things. For example you can use the document items of a training document to explain things in board. Since all the world knowledge can be put as document items, it is easy to explain anything in the board.
+
 
 ## How it compares to Google docs, Apple pages, microsoft word?
 
