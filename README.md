@@ -28,7 +28,7 @@ This project is partially done! Once completed it will benefit!
 
 It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
 
-## Screen Diagrams 
+## Screen Shots
 
 ### Document Item Document
 
@@ -53,8 +53,6 @@ When user taps any document item the other document items of the same cateogry p
 Can search the document map graph to locate the document in the library. No need to browse the documents figuring out where the document is! This is where all the training documents, filled forms, vector diagrams, shopping forms, school interactive books are searched and shown as categorised! 
 
 ![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Map%20Search.jpg)
-
-## Screen Shots
 
 ### Food Recipe
 
