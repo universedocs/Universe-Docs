@@ -32,7 +32,7 @@ It is a WYSIWYG document editor, no code software, application store, document a
 
 ### Document Item Document
 
-Stores document items in natural and hierarchial order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc., Each document item can be associated with image, video, animation, document, etc., While searching for it in the document the user can add either text or photo or video or animation or document of a document item. The user can also import document items either in document or in document item document, from external source for example line of texts, set of images, CSV file, camera (image or video: use AI to recognize), speech (audio: use AI to recognise) etc., This document item document is opened when a user selects "Show Graph" from a document item in a document. For example "Asia" document item in a history document! 
+Stores document items in natural and graphical order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc., Each document item can be associated with image, video, animation, document, etc., While searching for it in the document the user can add either text or photo or video or animation or document of a document item. The user can also import document items either in document or in document item document, from external source for example line of texts, set of images, CSV file, camera (image or video: use AI to recognize), speech (audio: use AI to recognise) etc., This document item document is opened when a user selects "Show Graph" from a document item in a document. For example "Asia" document item in a history document! 
 
 ![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Document.jpg)
 
@@ -102,7 +102,7 @@ This shows the introduction document! Like this there will be large number of do
 4. For deleting/copying a line/word/sentence/node just invoke a command no need to highlight and do it!
 5. Avoids duplicates. Reusable document items! 
 6. Provides service to manipulate documents from remote. For example a robot can manipulate document from distance or through wireless communcation!
-7. Easy to find detials of each document items like description, further details, translations, meaning, hierarchy, etc., from the document itself! That details can be filtered based on specific document type!
+7. Easy to find detials of each document items like description, further details, translations, meaning, graphical representation, etc., from the document itself! That details can be filtered based on specific document type!
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
