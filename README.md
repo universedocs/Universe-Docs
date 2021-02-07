@@ -92,6 +92,8 @@ This shows the introduction document! Like this there will be large number of do
 6. Can search and jump to a specific presentation item since the document is in graphical format.
 7. Can attach documents like notes, source code, image, video, animation, etc., to document items
 8. Can have a board to explain things in meeting using vector document. Just add the document item needed by searching. Use digital pencil to draw shapes and lines to explain things. For example you can use the document items of a training document to explain things in board. Since all the world knowledge can be put as document items, it is easy to explain anything in the board.
+9. Can jump to figures of a document based on link.
+10. The vector diagram can represent a complex biological entity for example and can put numbers to indentifiy the parts using numbers. On clicking the number will identify and explain the part. 
 
 
 ## How it compares to Google docs, Apple pages, microsoft word?
