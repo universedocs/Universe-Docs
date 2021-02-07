@@ -12,11 +12,9 @@
 ## -- Can export to file and print hard copy
 ## -- Use it online and/or offline mode
 
-**NOTE 1**: Database files are missing! Anybody who copied my previous source code you should have database files! Can you send it to me at kumar.muthaiah@yahoo.com, else i need to do lots of effort! I've a old copy of database files! If nobody gives the latest database files, then I will try to fix the old one and put here, but it will take time!
+**NOTE 1**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
 
-**NOTE 2**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
-
-**NOTE 3**: Software is free and open source so that all can use it, can include any valuable feature user needs no restrictions! Contents and usage may be paid or free, so still can earn money! Can share profit! 
+**NOTE 2**: Software is free and open source so that all can use it, can include any valuable feature user needs no restrictions! Contents and usage may be paid or free, so still can earn money! Can share profit! 
 
 Required developers see end of the document! 
 
@@ -26,47 +24,39 @@ This project is partially done! Once completed it will benefit!
 
 ## Introduction 
 
-Each document items in the document are searchable and added to the document! The document items are categorised hierarchially for easier understanding! It allows to create applications using set of documents! Document item search can be enabled or disabled! This application gathers data like human! Humans in brain they used to categorise informations they perceive and while writing a document or expressing things they use the categorised information in mind (document items)!
+It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
 
-A Document item can be a text, photo, video, animation, button, link, upload document, download document or share button!If you tap or click a document item in document then other items of the same category shows and you can change it! If you click a photo other photos of same category shows up!
-
-Universe docs brain is a web service that generates the view for the document, based on the device! The view is displayed in the client app "Universe Docs". The client app can be running in any platform the user desires! The view model is platform independent! Universe docs brain is nothing but set of neurons that is doing specific tasks!
-
-## Screen Diagrams 
-
-Since don't have screen shots now! 
+## Screen Shots
 
 ### Document Item Document
 
-Stores document items in natural and hierarchial order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc., Each document item can be associated with image, video, animation, document, etc., While searching for it in the document the user can add either text or photo or video or animation or document of a document item. The user can also import document items either in document or in document item document, from external source for example line of texts, set of images, CSV file, camera (image or video: use AI to recognize), speech (audio: use AI to recognise) etc., This document item document is opened when a user selects "Show Graph" from a document item in a document. For example "Trichy"! Can also search by category if you are not sure about an document item, after the result comes choose the respective document item from the document category by searching in it! 
+Stores document items in natural and graphical order so that user can understand its nature! Document item is nothing but a unique text or photo or video or etc., Each document item can be associated with image, video, animation, document, etc., While searching for it in the document the user can add either text or photo or video or animation or document of a document item. The user can also import document items either in document or in document item document, from external source for example line of texts, set of images, CSV file, camera (image or video: use AI to recognize), speech (audio: use AI to recognise) etc., This document item document is opened when a user selects "Show Graph" from a document item in a document. For example "Asia" document item in a history document! 
 
-![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/document%20item%20document.jpg)
+![Document Item Document](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Document.jpg)
 
-### Document View and Document Item Search
+### Document Item Search
 
 Each document of specific type is associated with several document item documents. Those document items can be searched! When document items are indexed using an efficient search alogrithm then it will be fast search! For some items like field, we can automatically show it instead of asking user to search! For items like language grammars, can automatically add it there, instead of showing the search popup! So we can optimise it a lot no worries! But still if one feels the searching delays things, then can type all texts without searching (in urgent case by disabling searching) and later on we can parse the document using the provided document item documents for the document type and categorisation is done! We can use AI to do it perfectly or user need to manually confirm whether the categorisation is correct or not! Since the document item documents are specific to document the categorisation mostly should be accurate! 
 
-![Document Item Search](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20search.jpg)
+![Document Item Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Search.jpeg)
 
-### Document View and Document Item Option
+### Document Item Change
 
 When user taps any document item the other document items of the same cateogry pops up and can change it! 
 
-![Document Item Option](https://github.com/universedocs/Universe-Docs/blob/53c91f103c1449a25ad3d7a596d794d1e404aa92/Document%20item%20option.jpg)
+![Document Item Change](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Item%20Change.jpg)
 
 ### Document Map Search
 
 Can search the document map graph to locate the document in the library. No need to browse the documents figuring out where the document is! This is where all the training documents, filled forms, vector diagrams, shopping forms, school interactive books are searched and shown as categorised! 
 
-![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20map.jpg)
-
-## Screen Shots
+![Document Map Search](https://github.com/universedocs/Universe-Docs/blob/master/Document%20Map%20Search.jpg)
 
 ### Food Recipe
 
-Show document in view mode and when edited allows to edit here itself (WYSIWYG) and no need separate form to fill up those! Similarly all documents! Like this there can be large number of recipes for a collection. For example "Chettinad" collection! Since all the documents follow Graph model, each level is in different colour! The field name is in bold! 
+Allows to edit here itself (WYSIWYG) and no need separate form to fill up those! Similarly all documents! Like this there can be large number of recipes for a collection. For example "Chettinad" collection! Since all the documents follow Graph model, each level is in different colour! The field name is in bold! 
 
-![Food Recipe](https://github.com/universedocs/Universe-Docs/blob/master/Broadbeans%20Sambar.jpg)
+![Food Recipe](https://github.com/universedocs/Universe-Docs/blob/master/Document.jpg)
 
 ### Software Training Overview
 
@@ -86,6 +76,24 @@ This shows the introduction document! Like this there will be large number of do
 2. We need to devote time to cateogrise document items of each document, but the time we spend for it benefits us later! Categorisation also can be done later (disable document item search) so that documents can be created in urgent cases! Since the document is categorised it is easy to understand. It is used to get details of each document item from document itself! Categorisation can be made fast by using human like information gathering technologies like image recognition, speech recognition, video recognition, sound recognition, information search, AI, ML, etc.,
 3. Editing interface uses text box to move between document items! Can customise the view to look like well known document editiors! I don't have time to do this! 
 
+## Document can be presentable without duplicates (Hence a great training tool along with other features)
+
+1. Each photo/video/animation/text/vector diagram can have childrens. 
+      a) If photo have text-to-speech children's then the photo will remain in screen and the text-to-speech will run in background. Google Text-To-Speech supports large number of languages. 
+      b) If photo have audio then the photo will remain in screen and the audio will be spoken
+      c) If a vector diagram has children commands to highlight/animate/invoke action of a item and speak, then the vector diagram will remain in screen and the item will be highlighted/animated/invoked action and spoken.
+2. Since the documents are separated in to parts we can easily combine to form a curriculum and do the presentation for it, in the order it is appearing in presentation collection.
+3. Since the documents can be represented in multiple languages, the knowledge represented by the document can be known by all peoples regardless of language they speak. There are tools like Google Translate to do the job better, since it is already used to translate web page text languages.
+3. We can get the screen shots (automatically by Universe Docs or through screen recording application) each steps of presentation and its audio to make video. Will help those who feel video is better. 
+4. We can have templates if we want to have customised presentation screens. Refer the main document in the templates rather than duplicating it.
+5. In the middle of presentation can look for graphical representation of a document item, translation of a document item, definition or details of a document item, etc.,
+6. Can search and jump to a specific presentation item since the document is in graphical format.
+7. Can attach documents like notes, source code, image, video, animation, etc., to document items
+8. Can have a board to explain things in meeting using vector document. Just add the document item needed by searching. Use digital pencil to draw shapes and lines to explain things. For example you can use the document items of a training document to explain things in board. Since all the world knowledge can be put as document items, it is easy to explain anything in the board.
+9. Can jump to figures of a presentation based on link. Based on link can also jump to other presentations. Gone go back to where we jumped.
+10. The vector diagram can represent a complex biological entity for example and can put numbers to identifiy the parts using numbers. On clicking the number will identify and explain the part. 
+
+
 ## How it compares to Google docs, Apple pages, microsoft word?
 
 1. Each item (text, photo,etc.,) in the document are categorised and easy to parse, validate, filter, remote access/modify! For example by robot which is learning a recipe and modifies the document!
@@ -94,7 +102,7 @@ This shows the introduction document! Like this there will be large number of do
 4. For deleting/copying a line/word/sentence/node just invoke a command no need to highlight and do it!
 5. Avoids duplicates. Reusable document items! 
 6. Provides service to manipulate documents from remote. For example a robot can manipulate document from distance or through wireless communcation!
-7. Easy to find detials of each document items like description, further details, translations, meaning, hierarchy, etc., from the document itself! That details can be filtered based on specific document type!
+7. Easy to find detials of each document items like description, further details, translations, meaning, graphical representation, etc., from the document itself! That details can be filtered based on specific document type!
 8. Brings all documents and applications in central place like a book library, that is easy to search, interact between them and access
 9. The document items can be used as a thing for changing the text in document to other one easily
 
@@ -116,6 +124,36 @@ This shows the introduction document! Like this there will be large number of do
 |12|It complicates and delays things|It simplifies and makes things fast|
 
 It is the new way for the application and documents! Hope developer recognise it! 
+
+## Challenges and Solutions
+
+| Serial Number | Challenges | Solutions |
+| ------------- | ----------- | ----------- |
+|1|To create a platform independent document that is exportable to any format the user feels.|Put the document view in a data model (JSON) and convert into platform specific document view. The view can be used to export into other document formats.|
+|2|To make the document items reusable|Put the document items (text, photo, video, etc.,) in a document item document and allow it be accessible in the document. Not only words, we can reuse for example quotes, paragraphs, lines, words, documents, groups of paragraphs or photos, etc.,|
+|3|To edit the document in WYSIWYG format|The document is following graph model and each nodes are represented as lines and each items in the nodes are represented as document items|
+|4|Document saving should not be an issue if internet is gone|On each edit the document is saved no worries of saving!|
+|5|To handle database without working in database directly|Manage data as document item and documents. Document is following a data model and can have complex data!|
+|6|To add/change/remove components of the software dynamically|Human brain is a great example that adds and removes things dynamically. So designed a software brain to handle it. |
+|7|To parse and validate document|Categorise each document item so that can identify it|
+|8|To find documents that have one or more document items? For example to find food recipes that have tomato ingredient.|Categorise each document item so that can identify it while searching|
+|9|Searching each document items and creating the document is slow|Document items are sorted as per a searching algorithm or stored in search engine database. When searching will be faster! Auto complete in iOS while typing works fastly and hence this also can be made fast |
+|10|Have to create documents some times very fast|Disable the search and create document faster. Later parse the document and replace text with categorised document items! Until we use AI, prased document items needs confirmation from user! Auto complete in iOS while typing works fastly and hence this also can be made fast |
+|11|Need to reused one document in other document|Just refer one or more documents in other documents. If source changes target also changes! Not only words, we can reuse for example quotes, paragraphs, lines, words, documents, groups of paragraphs or photos, etc.,|
+|12|Renaming a document item need to change in affected documents|A logic will automatically do this since there is a document reference put in each document item. |
+|13|Need a way to search the documents and user interface options|All document names and option names are stored as document item document so easy to search|
+|14|Need to update user interface dynamically from any device|All the user interface elements are represented as document item documents. You update in any device since document view is platform independent!|
+|15|Need to have no code features|All user interface elements are represented as documents and each functions of the software are accessible through REST web service. Can easily do no code features!|
+|16|Need to represent complex document models like vector diagrams, 3D diagrams, etc.,?|Currently document uses graph model to represent simple document. Later can use any model to implement whatever the user desires!|
+|17|Need to represent the interactive elements of a document. For example in school subject training|Since a vector document can be embedded in a document, we can put any complex interactive elements! |
+|18|Need to be secure|Web service is secured using SSL. Each input parameters are validated and frequeny attacks are blocked! |
+|19|Need to handle enough number of users without affecting performance|Since the server software represents a software brain, we can have as many of them to handle traffic! Each brain can handle only specific numbers of requests at a time! |
+|20|Need a way so that Robot can manage the software and its documents. For example to add/change/remove things. Can also be used by IoT devices and applications.|Since the software is accessible through REST web service and all of them are represented as documents using document items it is easily manageable by Robots on the fly!|
+|21|Use AI to provide intelligence|Since all the document items in the document are categorised it is easy to process it and provide intelligence! |
+|22|Ability to move the user interface from 2D to 3D for AR / VR|Each user interface item are created taking into 3D in consideration|
+|23|To work in offline and/or online|Since the brain is available in both client and server. So when internet is not available can work in offline and make it online later on! Note: client cannot hold all the neurons of a brain! |
+|24|The document can be used to do presentation without duplicating the content in another presentation document. It can be converted to video.|Since document is following a model we can do presentation without duplicates! Text to speech can be used to generate audio and document can generate images! Since text to speech is used the trainings can be done in any language the user desires, but exisitng video recording doesn't provide that benefit since once recorded difficult to modify for other languages! Just need images and audios to create a video.|
+|25|Can i represent a document or book or application library? So that can represent entire world knowledge!|The document map is organised using Dewey Decimal Classification (DDC) used in libraries and has the 10 main classes for the entire world knowledge! Each main class is further structured into ten hierarchical divisions, each having ten sections of increasing specificity. Put all application and documents in the library! Can be easily searched and located!|
 
 ## What is a No Code Software?
 
@@ -217,7 +255,7 @@ No code software is a shift in how users interface with software tools! No need 
 1. The udcdocument is not changing the document name when document title is changed. Also the language title is not changing!
 2. Some document items are not in natural order
 3. Some other issues are randomly coming need to resolve
-4. Due to database issue application is not running properly. It is resolvable!
+4. Document item document management is redesigned to avoid duplicates. So it will not work fully!
 
 ## Some documents you can view in document map (the left view. search by typing in search bar) to check how document items look like
 
@@ -258,11 +296,11 @@ Some document items are not linked to document map yet so you need to use the do
 2. Universe Docs Web (https://github.com/universedocs/Universe-Docs-Web)
 
 ## Other files needed to run this project 
-1. Old Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing: Graph model updates are missing, document items for each document types are missing. Need to find out what else is missing! On the process of fixing it! Total of 4 months work missing (september, october, november, december). Due to this issue application not working properly.
+1. Database files: https://drive.google.com/drive/folders/11PFAVuoTnV28xw5v0NcLHCm0hKX9hfJg?usp=sharing
 
 ## Social and websites blocked for this project
 1. **Application website**: www.universedocs.com (Expiry date: 13-Jan-2023, needs extension later)
-2. **Company website**: www.kumarmuthaiah.com (Expiry date: 18-Jan-2023, needs extension later)
+2. **Company website**: www.kumarmuthaiah.com (Expiry date: 09-Oct-2021, needs extension later)
 3. **Support Email**: support@universedocs.com (Expiry date: 18-Jan-2023, needs extension later)
 3. **Facebook**: https://www.facebook.com/universedocs
 4. **Instagram**: https://www.instagram.com/universedocs/
