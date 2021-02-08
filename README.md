@@ -22,9 +22,13 @@ Universe Documents (Universe Docs) (I've started this project from October 2018)
 
 This project is partially done! Once completed it will benefit! 
 
+## Platforms
+
+iOS, iPadOS, macOS. Future support for tvOS, watchOS, Windows 10, Stock Android, Other Android Vendors, etc.,
+
 ## Introduction 
 
-It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
+It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library, database management. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
 
 ## Screen Shots
 
@@ -69,6 +73,32 @@ This shows the overview document of the training and can purchase the training f
 This shows the introduction document! Like this there will be large number of documents! The user can select one or more documents or categories in a curriculum!You should have noticed the texts are not in proper case and there is no proper space between texts and is resolvable! 
 
 ![Software Training Introduction](https://github.com/universedocs/Universe-Docs/blob/master/Swift%20Introduction.jpg)
+
+## Planned Features:
+
+### Digital Board (Vector document)
+
+To teach things. Teacher can add any of the document items (text, photo, video, animation, button, document, etc.,) based on the topic that is been taught. All document items are reusable. Can use the board to draw anything with digital pen. Can also provide browsable and categorised document items if the user needs! 
+
+![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0082.jpg)
+
+### Document As A Service (DAAS)
+
+All the documents of the software is accessible by IoT devices, Robots, appplicaions, etc., For example news company can access, shopping  company sales statistics document.
+
+![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0091.jpg)
+
+### Data Repository
+
+For example a government software or Universe Docs can put country, city, state and district information. Other applications like shop app. and contact app. can read data. Documents like food recipe and profile in Universe Docs can read data.
+
+![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0088.jpg)
+
+### Interactive Book
+
+Can create interactive books for school students, software developers, etc., to teach things. The interactive content can be provided by the vector document as in picture below.Can also add buttons and when clicked can change the interactive content. The text, photo, etc., are taken from reusable document items. So can use the same to create other parts of the book. Can also use line along with number to describe a biological object parts and when selected will identify the part. 
+
+![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0090.jpg)
 
 ## Looks like a disadvantage but not like that
 
@@ -256,6 +286,8 @@ No code software is a shift in how users interface with software tools! No need 
 2. Some document items are not in natural order
 3. Some other issues are randomly coming need to resolve
 4. Document item document management is redesigned to avoid duplicates. So it will not work fully!
+5. First time the application may not run. Next time runs properly! 
+6. Neuron codes are duplicated in client and server. To avoid dupliates, have to put each neuron in separate respositary! Code changes required. Use the neuron repositories in client and server!
 
 ## Some documents you can view in document map (the left view. search by typing in search bar) to check how document items look like
 
