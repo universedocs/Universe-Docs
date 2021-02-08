@@ -2,7 +2,7 @@
 
 ## One Line Benefit
 
-Create interactive documents and applications in natural way without coding. Document and application items are reusable and no duplicates! Allows documents and applications to be remotely managed by other applications and devices (IoT, Robots, etc.,). 
+Create and use interactive documents and applications in natural way without coding. Document and application items are reusable and no duplicates! Allows documents and applications to be remotely managed by other applications and devices (IoT, Robots, etc.,). 
 
 ## Detailed Beneifts
 
