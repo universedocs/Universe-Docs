@@ -1,6 +1,10 @@
 # Universe Docs
 
-## Beneifts
+## One Line Benefit
+
+Create interactive documents and applications in natural way without coding. Document and application items are reusable and no duplicates! Allows it to be remotely managed by other applications/devices. 
+
+## Detailed Beneifts
 
 1. Is a What You See Is What You Get (WYSIWYG) document editor
 2. Document is in structured format (graph model) for easier searching/parsing/validating by this software and other documents/applications/devices
