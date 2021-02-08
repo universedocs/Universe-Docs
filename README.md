@@ -1,16 +1,23 @@
 # Universe Docs
 
-## -- Merges Native application and Web Application into one and runs in all platforms
-## -- All items are reusable, object oriented and no duplicates
-## -- Open source or free. Still can earn money through it!
-## -- WYSIWYG editor, Interactive, No security issues, Users consent, Access all hardware features, Efficient
-## -- No code features
-## -- Application, documents and anything can be managed from any device
-## -- Application and documents can be managed by other applications 
-## -- Application and document library
-## -- Training tool
-## -- Can export to file and print hard copy
-## -- Use it online and/or offline mode
+## Beneifts
+
+1. Is a What You See Is What You Get (WYSIWYG) document editor
+2. Document is in structured format (graph model) for easier searching/parsing/validating by this software and other documents/applications/devices
+3. Document is created, like humans create information in brain. Document items (text, photo, video, animation, button, link, upload, download, quote, paragraph, document, etc.,) are categorised before using it.
+4. Document items are reusable and no duplicates.
+5. Document can be edited offline / online. For each entry it is saved.
+6. Can create documents in multiple text languages
+7. Allows to access the details of a document item (meaning, more details, translation, etc.,) from the document itself
+8. Allows to present the document in presentation mode without the need for a duplicate presentation document. The presentation can be converted to a video.
+9. Document can be used as a board to teach things
+10. Document can be used as an interactive/graphical item in school books, flyer, banner, greeting card, visiting card, etc.,
+11. Document can be created/viewed/edited/deleted from remote applications/devices
+12. Can be used to store data (data repository) that other applications/devices can access
+13. Combines native and web applications into one
+14. Collection of documents can be used to create an application without any coding (no code software)
+15. It is a library for applications, documents, books, etc.,
+16. All items (documents, options, document items) are searchable using text
 
 **NOTE 1**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
 
