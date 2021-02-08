@@ -96,7 +96,7 @@ For example a government software or Universe Docs can put country, city, state 
 
 ### Interactive Book
 
-Can create interactive books for school students, software developers, etc., to teach things. The interactive content can be provided by the vector document as in picture below.Can also add buttons and when clicked can change the interactive content. The text, photo, etc., are taken from reusable document items. So can use the same to create other parts of the book.
+Can create interactive books for school students, software developers, etc., to teach things. The interactive content can be provided by the vector document as in picture below.Can also add buttons and when clicked can change the interactive content. The text, photo, etc., are taken from reusable document items. So can use the same to create other parts of the book. Can also use line along with number to describe a biological object parts and when selected will identify the part. 
 
 ![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0090.jpg)
 
