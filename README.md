@@ -74,7 +74,7 @@ This shows the introduction document! Like this there will be large number of do
 
 ![Software Training Introduction](https://github.com/universedocs/Universe-Docs/blob/master/Swift%20Introduction.jpg)
 
-## Planned Featurs:
+## Planned Features:
 
 ### Digital Board (Vector document)
 
