@@ -86,7 +86,7 @@ To teach things. Teacher can add any of the document items (text, photo, video, 
 
 All the documents of the software is accessible by IoT devices, Robots, appplicaions, etc., For example news company can access, shopping  company sales statistics document.
 
-![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0086.jpg)
+![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0091.jpg)
 
 ### Data Repository
 
