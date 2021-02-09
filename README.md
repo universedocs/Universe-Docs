@@ -1,16 +1,27 @@
 # Universe Docs
 
-## -- Merges Native application and Web Application into one and runs in all platforms
-## -- All items are reusable, object oriented and no duplicates
-## -- Open source or free. Still can earn money through it!
-## -- WYSIWYG editor, Interactive, No security issues, Users consent, Access all hardware features, Efficient
-## -- No code features
-## -- Application, documents and anything can be managed from any device
-## -- Application and documents can be managed by other applications 
-## -- Application and document library
-## -- Training tool
-## -- Can export to file and print hard copy
-## -- Use it online and/or offline mode
+## Short Benefits
+
+Create and use interactive documents similar to how human create and use information through brain. Set of documents is an application with no code features. Document and application items are reusable and no duplicates! Document is presentable and acts as a class room board! Allows documents and applications to be remotely managed by other applications and devices (IoT, Robots, etc.,).
+
+## Detailed Beneifts
+
+1. Is a What You See Is What You Get (WYSIWYG) document editor
+2. Document data model is in structured format (graph model) for easier searching/parsing/validating by this software and other documents/applications/devices. This model can be represented in any format (structured format or unstructured format) the user desires. For example software developer contacts can be put in resume as the user feels.
+3. Document is created, like humans create information in brain. Document items (text, photo, video, animation, button, link, upload, download, quote, paragraph, document, etc.,) are categorised before using it. Does not need Natural Language Processor (NLP) to parse document before using AI, since human confirms each document item in document while creating itself. 
+4. Document items are reusable and no duplicates.
+5. Document can be edited offline / online. For each entry it is saved.
+6. Can create documents in multiple text languages
+7. Allows to access the details of a document item (meaning, more details, translation, etc.,) from the document itself
+8. Allows to present the document in presentation mode without the need for a duplicate presentation document. The presentation can be converted to a video.
+9. Document can be used as a board to teach things
+10. Document can be used as an interactive/graphical item in school books, flyer, banner, greeting card, visiting card, etc.,
+11. Document can be created/viewed/edited/deleted from remote applications/devices
+12. Can be used to store data (data repository) that other applications/devices can access
+13. Combines native and web applications into one
+14. Collection of documents can be used to create an application without any coding (no code software)
+15. It is a library for applications, documents, books, etc.,
+16. All items (documents, options, document items) are searchable using text
 
 **NOTE 1**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
 
@@ -25,10 +36,6 @@ This project is partially done! Once completed it will benefit!
 ## Platforms
 
 iOS, iPadOS, macOS. Future support for tvOS, watchOS, Windows 10, Stock Android, Other Android Vendors, etc.,
-
-## Introduction 
-
-It is a WYSIWYG document editor, no code software, application store, document as a service, data repository, training tool, book library, database management. Documents are created similar to how humans create information in brain. First document items (text, button, photo, video, link, upload, download, share, etc.,) are categorised/not categorised in brain. Then we use the already gathered document items in brain to create a document. When we get more information we do categorisation for those that is not done. If we do it fast then just jot it down without much thinking and later categorise it! 
 
 ## Screen Shots
 
@@ -120,7 +127,7 @@ Can create interactive books for school students, software developers, etc., to 
 6. Can search and jump to a specific presentation item since the document is in graphical format.
 7. Can attach documents like notes, source code, image, video, animation, etc., to document items
 8. Can have a board to explain things in meeting using vector document. Just add the document item needed by searching. Use digital pencil to draw shapes and lines to explain things. For example you can use the document items of a training document to explain things in board. Since all the world knowledge can be put as document items, it is easy to explain anything in the board.
-9. Can jump to figures of a presentation based on link. Based on link can also jump to other presentations. Gone go back to where we jumped.
+9. Can jump to figures of a presentation based on link. Based on link can also jump to other presentations. Can go back to where we jumped.
 10. The vector diagram can represent a complex biological entity for example and can put numbers to identifiy the parts using numbers. On clicking the number will identify and explain the part. 
 
 
