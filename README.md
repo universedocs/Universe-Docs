@@ -115,6 +115,8 @@ Documents and applicaions should be managable remotely by Robots, IoT and other 
 
 ## Document does not need Natural Language Processing (NLP)
 
+On the left the existing editor need NLP to use AI, where as the right Universe Docs editor doesn't need NLP to use AI.
+
 ![Universe Docs no need NLP](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0093.jpg)
 
 ## Looks like a disadvantage but not like that
