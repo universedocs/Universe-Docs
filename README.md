@@ -9,6 +9,7 @@ Create and use interactive documents and applications in natural way without cod
 1. Is a What You See Is What You Get (WYSIWYG) document editor
 2. Document is in structured format (graph model) for easier searching/parsing/validating by this software and other documents/applications/devices
 3. Document is created, like humans create information in brain. Document items (text, photo, video, animation, button, link, upload, download, quote, paragraph, document, etc.,) are categorised before using it.
+3.1. Does not need Natural Language Processor (NLP) to parse document before using AI, since human confirms each document item in document while creating itself. 
 4. Document items are reusable and no duplicates.
 5. Document can be edited offline / online. For each entry it is saved.
 6. Can create documents in multiple text languages
