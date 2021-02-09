@@ -7,7 +7,7 @@ Create and use interactive documents similar to how human create and use informa
 ## Detailed Beneifts
 
 1. Is a What You See Is What You Get (WYSIWYG) document editor
-2. Document data model is in structured format (graph model) and/or unstructured format for easier searching/parsing/validating by this software and other documents/applications/devices. For example the resume of a software developer is in structure format, but the user sees in any format he desires. 
+2. Document data model is in structured format (graph model) for easier searching/parsing/validating by this software and other documents/applications/devices. For example the resume of a software developer is in structure format, but can be presented in any format the user desires.
 3. Document is created, like humans create information in brain. Document items (text, photo, video, animation, button, link, upload, download, quote, paragraph, document, etc.,) are categorised before using it. Does not need Natural Language Processor (NLP) to parse document before using AI, since human confirms each document item in document while creating itself. 
 4. Document items are reusable and no duplicates.
 5. Document can be edited offline / online. For each entry it is saved.
