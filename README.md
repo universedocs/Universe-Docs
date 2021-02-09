@@ -1,5 +1,15 @@
 # Universe Docs
 
+**NOTE 1**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
+
+**NOTE 2**: Software is free and open source so that all can use it, can include any valuable feature user needs no restrictions! Contents and usage may be paid or free, so still can earn money! Can share profit! 
+
+Required developers see end of the document! 
+
+Universe Documents (Universe Docs) (I've started this project from October 2018)
+
+This project is partially done! Once completed it will benefit! 
+
 ## Short Benefits
 
 Create and use interactive documents similar to how human create and use information through brain. Set of documents is an application with no code features. Document and application items are reusable and no duplicates! Document is presentable in any format the user desires and acts as a class room board! Allows documents and applications to be remotely managed by other applications and devices (IoT, Robots, etc.,).
@@ -22,16 +32,6 @@ Create and use interactive documents similar to how human create and use informa
 14. Collection of documents can be used to create an application without any coding (no code software)
 15. It is a library for applications, documents, books, etc.,
 16. All items (documents, options, document items) are searchable using text
-
-**NOTE 1**: Please don't create duplicate softwares to compete, rather we can do it in cooperation! Will make sure flexible! 
-
-**NOTE 2**: Software is free and open source so that all can use it, can include any valuable feature user needs no restrictions! Contents and usage may be paid or free, so still can earn money! Can share profit! 
-
-Required developers see end of the document! 
-
-Universe Documents (Universe Docs) (I've started this project from October 2018)
-
-This project is partially done! Once completed it will benefit! 
 
 ## Platforms
 
@@ -106,6 +106,16 @@ For example a government software or Universe Docs can put country, city, state 
 Can create interactive books for school students, software developers, etc., to teach things. The interactive content can be provided by the vector document as in picture below.Can also add buttons and when clicked can change the interactive content. The text, photo, etc., are taken from reusable document items. So can use the same to create other parts of the book. Can also use line along with number to describe a biological object parts and when selected will identify the part. 
 
 ![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0090.jpg)
+
+## World Knowledge accessible by IoT and Robots
+
+Documents and applicaions should be managable remotely by Robots, IoT and other devices. Since all machine like tasks are transfered to Robots in future. Human just enjoys life and does what he likes (art, sex, etc.,). See below diagram.
+
+![Trasnfer world knowledge to Robot](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0092.jpg)
+
+## Document does not need Natural Language Processing (NLP)
+
+![Universe Docs no need NLP](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0093.jpg)
 
 ## Looks like a disadvantage but not like that
 
