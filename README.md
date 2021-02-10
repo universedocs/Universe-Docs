@@ -16,9 +16,20 @@ Create and use interactive documents similar to how human create and use informa
 
 ## Objective
 
+* Paradism: No work, No money, No Government, No Slavery, No Poverty
+* Final objective but for now need money
+* Achieve it step by step
+
 ![Paradism](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0097.jpg)
 
 ## Archiecture
+
+* Simulates human brain to handle things
+* One or more devices containing "Universe Docs" (Client) sends or receives information from "Universe Docs Brain" (applicaion server) through a SSL secure connection. Since each neurons accept only single input the inputs are validated before processing.
+* "Universe Docs Brain" can be Mac or Linux and contains functionality of "Universe Docs" application. Written in Swift programming language.
+* "Universe Docs" client application can contain some neurons and "Universer Docs Brain" will contain all neurons. Based on clients portable needs can copy some neurons from "Universe Docs Brain". For that requires privacy the neurons can be in client.
+* Clients Offline functionality for only Swift programmed devices. Others Online. Software developers no need to learn lots of things!
+* "Universe Docs" can control Robots directly and through server. For example: Robot navigation and Food making robot respectively.
 
 ![Universe Docs Architecture](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0099.jpg)
 
