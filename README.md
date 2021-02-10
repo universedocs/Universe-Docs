@@ -20,7 +20,7 @@ Create and use interactive documents similar to how human create and use informa
 
 ## Archiecture
 
-![Universe Docs Architecture](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0095.jpg)
+![Universe Docs Architecture](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0099.jpg)
 
 ## Detailed Beneifts
 
