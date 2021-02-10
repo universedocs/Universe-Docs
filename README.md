@@ -14,6 +14,10 @@ This project is partially done! Once completed it will benefit!
 
 Create and use interactive documents similar to how human create and use information through brain. Set of documents is an application with no code features. Document and application items are reusable and no duplicates! Document is presentable in any format the user desires and acts as a class room board! Allows documents and applications to be remotely managed by other applications and devices (IoT, Robots, etc.,).
 
+## Objective
+
+![Paradism](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0097.jpg)
+
 ## Archiecture
 
 ![Universe Docs Architecture](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0095.jpg)
