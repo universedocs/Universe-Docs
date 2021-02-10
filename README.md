@@ -19,6 +19,9 @@ Create and use interactive documents similar to how human create and use informa
 * Paradism: No work, No money, No Government, No Slavery, No Poverty
 * Final objective but for now need money
 * Achieve it step by step
+* One or more documents contain the complex data in structured format
+* One or more document items contain the data respository that is reusable and no duplicates
+* One or more applicaions uses documents and logic without UI to handle things
 
 ![Paradism](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0097.jpg)
 
