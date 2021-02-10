@@ -8,7 +8,9 @@ Required developers see end of the document!
 
 Universe Documents (Universe Docs) (I've started this project from October 2018)
 
-This project is partially done! Once completed it will benefit! 
+## Status
+
+This project is in progress! Once completed it will benefit! Look through deeply and connect dots you wil know! 
 
 ## Short Benefits
 
