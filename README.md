@@ -10,7 +10,9 @@ Universe Documents (Universe Docs) (I've started this project from October 2018)
 
 ## Status
 
-This project is in progress! Once completed it will benefit! Look through deeply and connect dots you wil know! 
+### In Progress
+
+Once completed it will benefit! Look through deeply and connect dots you wil know! 
 
 ## Short Benefits
 
