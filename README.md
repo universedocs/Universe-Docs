@@ -28,7 +28,7 @@ Create and use interactive documents similar to how human create and use informa
 * One or more applicaions uses documents and logic without UI to handle things
 * Let the Robot do machine tasks. Humans just enjoy (art, sex, if want can work, etc.,) and relax
 
-![Paradism](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0097.jpg)
+![Paradism](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0100.jpg)
 
 ## Archiecture
 
