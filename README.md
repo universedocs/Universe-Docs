@@ -26,7 +26,7 @@ Create and use interactive documents similar to how human create and use informa
 * One or more documents contain the complex data in structured format
 * One or more document items contain the data respository that is reusable and no duplicates
 * One or more applicaions uses documents and logic without UI to handle things
-* Let the Robot do machine tasks. Humans just enjoy (art, sex, if want can work, etc.,) and relax
+* Let the Robot do machine tasks. Humans just do what they like (art, sex, etc.,), enjoy and relax. If want can work.
 
 ![Paradism](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0100.jpg)
 
