@@ -27,7 +27,7 @@ Create and use interactive documents similar to how human create and use informa
 * One or more document items contain the data respository that is reusable and no duplicates
 * One or more applicaions uses documents and logic without UI to handle things
 * Let the Robot do machine tasks. Humans just do what they like (art, sex, etc.,), enjoy and relax. If want can work.
-* Will governments, companies, entrepreneurs, workers, etc., will support this? Not now, since some 1% criminals want people to suffer and divided whatever field they work and also in life. Around 90% people are having fear, blind belief and ignorance.  Until they wakeup and understand what the 1% is doing to them, Paradism is not possible! If we try to do now it will be disaster! 5% who already woke up. 4% are fanatics we are crazy about 1%.
+* Will governments, companies, entrepreneurs, workers, etc., will support this? Not now, since some 1% criminals want people to suffer and divided whatever field they work and also in life. Around 90% people are having fear, blind belief and ignorance.  Until they wakeup and understand what the 1% is doing to them, Paradism is not possible! If we try to do now it will be disaster! 5% who already woke up. 4% are fanatics who are crazy about 1%.
 
 ![Paradism](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0100.jpg)
 
