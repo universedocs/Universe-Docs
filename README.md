@@ -20,7 +20,7 @@ Create and use interactive documents similar to how human create and use informa
 
 ## Objective
 
-* Paradism: No work, No money, No Government, No Slavery, No Poverty. Final objective, but for now need money, work and government. But no need slavery! 
+* Paradism: No work, No money, No Government, No Slavery, No Poverty. Final objective, but for now need money, work and government. But no need slavery and poverty! 
 * Humans are not machines and have feelings. Those machine doable tasks are transferred to Robots. Human just do what they like (art, sex, etc.,). If want can work.
 * Achieve it step by step
 * One or more documents contain the complex data in structured format
