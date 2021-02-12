@@ -20,8 +20,8 @@ Create and use interactive documents similar to how human create and use informa
 
 ## Objective
 
-* Paradism: No work, No money, No Government, No Slavery, No Poverty
-* Final objective but for now need money
+* Paradism: No work, No money, No Government, No Slavery, No Poverty. Final objective, but for now need money, work and government. But no need slavery! 
+* Humans are not machines and have feelings. Those machine doable tasks are transferred to Robots. Human just do what they like (art, sex, etc.,). If want can work.
 * Achieve it step by step
 * One or more documents contain the complex data in structured format
 * One or more document items contain the data respository that is reusable and no duplicates
@@ -134,9 +134,9 @@ Can create interactive books for school students, software developers, etc., to 
 
 ![Digital Board](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0090.jpg)
 
-## World Knowledge accessible by IoT and Robots
+## Documents manageble / usable by Robots and IoT
 
-Documents and applicaions should be managable remotely by Robots, IoT and other devices. Since all machine like tasks are transfered to Robots in future. Human just enjoys life and does what he likes (art, sex, etc.,). See below diagram.
+Documents and applicaions should be manageble/usable remotely by Robots, IoT and other devices. See below diagram. Robots can use Linux (Ubuntu) OS or modified version of Apple Inc.'s OS instead of ROS (Realtime OS) and "Universe Docs Brain" can run in it developed using Swift Programming Language. For example Apple watch using modified version of iOS. IoT is a small device and it needs ROS, but who knows what happens in future? One programming language is better, but OS can be different!
 
 ![Trasnfer world knowledge to Robot](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0092.jpg)
 
