@@ -136,13 +136,13 @@ Can create interactive books for school students, software developers, etc., to 
 
 ## Documents manageble / usable by Robots and IoT
 
-Documents and applicaions should be manageble/usable remotely by Robots, IoT and other devices. See below diagram. Robots can use Linux (Ubuntu) OS or modified version of Apple Inc.'s OS instead of ROS (Realtime OS) and "Universe Docs Brain" can run in it developed using Swift Programming Language. For example Apple watch using modified version of iOS. IoT is a small device and it needs ROS, but who knows what happens in future? One programming language is better, but OS can be different!
+Documents and applicaions should be manageble/usable remotely by Robots, IoT and other devices. See below diagram. Robots can use Linux (Ubuntu) OS or modified version of Apple Inc.’s OS instead of ROS (Realtime OS) and “Universe Docs Brain” can run in it developed using Swift Programming Language. For example Apple watch using modified version of iOS. IoT is a small device and it needs ROS, but who knows what happens in future? One programming language is better, but OS can be different!
 
-![Trasnfer world knowledge to Robot](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0092.jpg)
+![Trasnfer world knowledge to Robot](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0100.jpg)
 
-## Document does not need Natural Language Processing (NLP)
+## Intelligece based on information in documents
 
-On the left the existing editor need NLP to use AI, where as the right Universe Docs editor doesn't need NLP to use AI.
+On the left the existing editor need NLP to use AI, where as the right Universe Docs editor doesn’t need NLP to use AI. With “Universe Docs” the user confirms the each data while entering in document, where as the existing system the NLP guesses human data from the document. Even though the “Universe Docs” document editing process is slow, but data is accurate! Based on the document items the “Universe Docs” can provide intelligence using AI.
 
 ![Universe Docs no need NLP](https://github.com/universedocs/Universe-Docs/blob/master/IMG_0093.jpg)
 
