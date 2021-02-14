@@ -110,7 +110,7 @@ This shows the introduction document! Like this there will be large number of do
 
 ## Planned Features:
 
-### Digital Board (Vector document)
+### Digital Board (Vector document) or Graphics Designing Document
 
 To teach things. Teacher can add any of the document items (text, photo, video, animation, button, document, etc.,) based on the topic that is been taught. All document items are reusable. Can use the board to draw anything with digital pen. Can also provide browsable and categorised document items if the user needs! 
 
