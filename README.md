@@ -10,9 +10,9 @@ Universe Documents (Universe Docs) (I've started this project from October 2018)
 
 ## Status
 
-### Paused
+### In Progress.
 
-In Progress
+Only if people helps can continue! 
 
 ## Short Benefits
 
