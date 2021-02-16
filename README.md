@@ -64,6 +64,16 @@ Create and use interactive documents similar to how human create and use informa
 
 iOS, iPadOS, macOS. Future support for tvOS, watchOS, Windows 10, Stock Android, Other Android Vendors, etc.,
 
+## Analogy to human brain
+
+### How documents are represented and created? 
+
+![How documents are represented and created](https://github.com/universedocs/Universe-Docs/blob/master/How%20documents%20are%20represented%20and%20created%3F.pdf?fbclid=IwAR0675NbpXh-KMq6wxzzgpq7ar6Okgz274z8Yx6tg0xbSfw6eCVNEQyzxqE)
+
+### How presentation is done in Universe Doc?
+
+![How presentation is done in Universe Docs](https://github.com/universedocs/Universe-Docs/blob/master/How%20presentation%20is%20done%20in%20Universe%20Docs%3F.pdf)
+
 ## Screen Shots
 
 ### Document Item Document
@@ -153,8 +163,6 @@ On the left the existing editor need NLP to use AI, where as the right Universe 
 3. Editing interface uses text box to move between document items! Can customise the view to look like well known document editiors! I don't have time to do this! 
 
 ## Document can be presentable without duplicates (Hence a great training tool along with other features)
-
-For better undrestanding refer this document: [How presentation is done in Universe Docs](https://github.com/universedocs/Universe-Docs/blob/master/How%20presentation%20is%20done%20in%20Universe%20Docs%3F.pdf)
 
 1. Each photo/video/animation/text/vector diagram can have childrens. 
       a) If photo have text-to-speech children's then the photo will remain in screen and the text-to-speech will run in background. Google Text-To-Speech supports large number of languages. 
