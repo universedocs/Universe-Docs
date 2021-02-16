@@ -68,9 +68,13 @@ iOS, iPadOS, macOS. Future support for tvOS, watchOS, Windows 10, Stock Android,
 
 ### How documents are represented and created? 
 
+Click below to open PDF document:
+
 ![How documents are represented and created](https://github.com/universedocs/Universe-Docs/blob/master/How%20documents%20are%20represented%20and%20created%3F.pdf?fbclid=IwAR0675NbpXh-KMq6wxzzgpq7ar6Okgz274z8Yx6tg0xbSfw6eCVNEQyzxqE)
 
 ### How presentation is done in Universe Doc?
+
+Click below to open PDF document:
 
 ![How presentation is done in Universe Docs](https://github.com/universedocs/Universe-Docs/blob/master/How%20presentation%20is%20done%20in%20Universe%20Docs%3F.pdf)
 
