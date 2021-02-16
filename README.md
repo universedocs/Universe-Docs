@@ -154,7 +154,7 @@ On the left the existing editor need NLP to use AI, where as the right Universe 
 
 ## Document can be presentable without duplicates (Hence a great training tool along with other features)
 
-For better undrestanding refer this document: [How presentation is done in Universe Docs](https://github.com/universedocs/Universe-Docs/blob/master/How%20presentation%20is%20done%20in%20Universe%20Docs%3F.pages)
+For better undrestanding refer this document: [How presentation is done in Universe Docs](https://github.com/universedocs/Universe-Docs/blob/master/How%20presentation%20is%20done%20in%20Universe%20Docs%3F.pdf)
 
 1. Each photo/video/animation/text/vector diagram can have childrens. 
       a) If photo have text-to-speech children's then the photo will remain in screen and the text-to-speech will run in background. Google Text-To-Speech supports large number of languages. 
